@@ -65,6 +65,16 @@
   <url>
     <loc>/fr/2018/05/21/ysa/</loc>
     <lastmod>2018-05-21T22:46:26+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/2018/05/21/ysa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/2018/05/21/ysa/"
+                />
   </url>
   
   <url>
@@ -128,22 +138,6 @@
   </url>
   
   <url>
-    <loc>/fr/tags/aef/</loc>
-    <lastmod>2018-05-21T22:46:26+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/aef/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/aef/"
-                />
-  </url>
-  
-  <url>
     <loc>/fr/tags/afrique/</loc>
     <lastmod>2018-05-22T15:24:23+00:00</lastmod>
     <priority>0</priority>
@@ -195,6 +189,12 @@
                 hreflang="fr"
                 href="/fr/"
                 />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/fran%C3%A7ais/</loc>
+    <lastmod>2018-05-21T22:46:26+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -259,7 +259,7 @@
   
   <url>
     <loc>/fr/tags/</loc>
-    <lastmod>2018-05-21T22:46:26+00:00</lastmod>
+    <lastmod>2018-05-22T15:24:23+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

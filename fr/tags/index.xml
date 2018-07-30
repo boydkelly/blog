@@ -9,19 +9,10 @@
     <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
     <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
     <copyright>(c) 2018 Boyd Kelly</copyright>
-    <lastBuildDate>Mon, 21 May 2018 22:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2018 15:24:23 +0000</lastBuildDate>
     
 	<atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Aef</title>
-      <link>/fr/tags/aef/</link>
-      <pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate>
-      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
-      <guid>/fr/tags/aef/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Afrique</title>
@@ -38,6 +29,15 @@
       <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
       <author>bkelly@coastsystems.net (Boyd Kelly)</author>
       <guid>/fr/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Français</title>
+      <link>/fr/tags/fran%C3%A7ais/</link>
+      <pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/fr/tags/fran%C3%A7ais/</guid>
       <description></description>
     </item>
     

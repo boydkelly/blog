@@ -153,40 +153,26 @@
   </url>
   
   <url>
-    <loc>/fr/tags/afrique/</loc>
+    <loc>/fr/marques/afrique/</loc>
     <lastmod>2018-05-22T15:24:23+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/afrique/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/afrique/"
-                />
   </url>
   
   <url>
-    <loc>/fr/tags/android/</loc>
+    <loc>/fr/marques/android/</loc>
     <lastmod>2018-05-22T15:24:23+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/android/"
-                />
   </url>
   
   <url>
-    <loc>/fr/topics/anglais-en-fran%C3%A7ais/</loc>
+    <loc>/fr/sujets/anglais-en-fran%C3%A7ais/</loc>
     <lastmod>2018-05-21T22:46:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fr/sujets/apropos/</loc>
+    <lastmod>2018-05-05T20:43:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -207,46 +193,32 @@
   </url>
   
   <url>
-    <loc>/fr/tags/fran%C3%A7ais/</loc>
+    <loc>/fr/marques/fran%C3%A7ais/</loc>
     <lastmod>2018-05-21T22:46:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/fr/tags/jula/</loc>
+    <loc>/fr/marques/jula/</loc>
     <lastmod>2018-07-30T22:14:31+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/jula/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/jula/"
-                />
   </url>
   
   <url>
-    <loc>/fr/topics/julakan/</loc>
+    <loc>/fr/sujets/julakan/</loc>
     <lastmod>2018-07-30T22:14:31+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/topics/julakan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/topics/julakan/"
-                />
   </url>
   
   <url>
-    <loc>/fr/tags/langue/</loc>
+    <loc>/fr/marques/langue/</loc>
     <lastmod>2018-07-30T22:14:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fr/marques/</loc>
+    <lastmod>2018-05-22T15:24:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,63 +239,27 @@
   </url>
   
   <url>
-    <loc>/fr/tags/proverbe/</loc>
+    <loc>/fr/marques/proverbe/</loc>
     <lastmod>2018-05-26T20:32:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/fr/tags/</loc>
-    <lastmod>2018-05-22T15:24:23+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/tech/</loc>
-    <lastmod>2018-05-22T15:24:23+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/tech/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/topics/technologie/</loc>
-    <lastmod>2018-05-22T15:24:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/fr/topics/</loc>
+    <loc>/fr/sujets/</loc>
     <lastmod>2018-05-21T22:46:26+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/topics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/topics/"
-                />
+  </url>
+  
+  <url>
+    <loc>/fr/marques/tech/</loc>
+    <lastmod>2018-05-22T15:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fr/sujets/technologie/</loc>
+    <lastmod>2018-05-22T15:24:23+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

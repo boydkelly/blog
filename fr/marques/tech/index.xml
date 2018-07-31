@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Coast Business Technologies</title>
+    <link>/fr/marques/tech/</link>
+    <description>Recent content in Tech on Coast Business Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
+    <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
+    <copyright>(c) 2018 Boyd Kelly</copyright>
+    <lastBuildDate>Tue, 22 May 2018 15:24:23 +0000</lastBuildDate>
+    
+	<atom:link href="/fr/marques/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datally</title>
+      <link>/fr/2018/05/22/datally/</link>
+      <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/fr/2018/05/22/datally/</guid>
+      <description>&lt;h1 id=&#34;nouvelle-application-de-google-pour-gérer-l-usage-wifi&#34;&gt;Nouvelle application de Google pour gérer l&amp;rsquo;usage wifi&lt;/h1&gt;
+
+&lt;p&gt;Voici une nouvelle application Datally, de Google qui permet de suivre et de contrôler les applications qui mangent la volume internet.  Gratuit et sans pub.  Une nécessité pour les connections 3g/4g&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

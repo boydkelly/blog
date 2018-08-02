@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Coast Business Technologies</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Coast Business Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
+    <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
+    <copyright>(c) 2018 Boyd Kelly</copyright>
+    <lastBuildDate>Tue, 22 May 2018 15:24:23 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Afrique</title>
+      <link>/tags/afrique/</link>
+      <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/tags/afrique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>/tags/android/</link>
+      <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>French</title>
+      <link>/tags/french/</link>
+      <pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/tags/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jula</title>
+      <link>/tags/jula/</link>
+      <pubDate>Mon, 30 Jul 2018 22:14:31 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/tags/jula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>/tags/language/</link>
+      <pubDate>Mon, 30 Jul 2018 22:14:31 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proverb</title>
+      <link>/tags/proverb/</link>
+      <pubDate>Sat, 26 May 2018 20:32:08 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/tags/proverb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

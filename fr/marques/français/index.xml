@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Français on Coast Business Technologies</title>
-    <link>/fr/marques/fran%C3%A7ais/</link>
+    <link>http://www.coastsystems.net/fr/marques/fran%C3%A7ais/</link>
     <description>Recent content in Français on Coast Business Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
@@ -11,15 +11,15 @@
     <copyright>(c) 2018 Boyd Kelly</copyright>
     <lastBuildDate>Mon, 21 May 2018 22:46:26 +0000</lastBuildDate>
     
-	<atom:link href="/fr/marques/fran%C3%A7ais/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.coastsystems.net/fr/marques/fran%C3%A7ais/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Yet Still Again ?</title>
-      <link>/fr/2018/05/21/ysa/</link>
+      <link>http://www.coastsystems.net/fr/2018/05/21/ysa/</link>
       <pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate>
       <author>bkelly@coastsystems.net (Boyd Kelly)</author>
-      <guid>/fr/2018/05/21/ysa/</guid>
+      <guid>http://www.coastsystems.net/fr/2018/05/21/ysa/</guid>
       <description>&lt;p&gt;Quelle est la différence entre ces trois termes ?&lt;/p&gt;
 
 &lt;p&gt;Souvent le français est plus précis que l&amp;rsquo;anglais&amp;hellip; surtout en matière de verbes.  Par contre l&amp;rsquo;anglais peut aussi être plus précis que le français.  Voici un exemple:&lt;/p&gt;

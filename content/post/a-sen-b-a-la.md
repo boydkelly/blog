@@ -6,8 +6,8 @@ featured_image = ""
 tags = ["jula language"]
 marques = ["jula langue"]
 title = "A sen b'a la"
-topics = [julakan]
-sujets = [julakan]
+topics = ["julakan"]
+sujets = ["julakan"]
 
 +++
 ### **a sen b'a la**  Il est impliqué.  

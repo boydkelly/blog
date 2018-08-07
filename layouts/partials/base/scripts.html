@@ -4,6 +4,8 @@
 {{ end }}
 
 {{ .Scratch.Add "js" (slice (resources.Get "js/jquery.min.js"))}}
+{{ .Scratch.Add "js" (slice (resources.Get "js/popper.min.js"))}}
+
 {{ .Scratch.Add "js" (slice (resources.Get "js/bootstrap.min.js"))}}
 
 {{ .Scratch.Add "js" (slice (resources.Get "js/highlight.pack.js"))}}
@@ -19,7 +21,7 @@
 {{ end }}
 
 {{ range .Site.Params.customJS }}
-    {{ $.Scratch.Add "js" (slice (resources.Get .))}}
+    {{ $.Scratch.Add "js" (slice (resources.Get . ))}}
 {{ end }}
 
 {{ $js := .Scratch.Get "js" | resources.Concat "js/bundle.js" | resources.Minify| resources.Fingerprint "sha512" }}

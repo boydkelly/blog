@@ -38,3 +38,5 @@ fields:
   name: featured_image
   label: Image
   description: Featured Image
+pages:
+- content/post/a-sen-b-a-la.md

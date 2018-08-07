@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: posts
+  label: French
+  create: all
+  match: "*.fr.md/*"
+  new_doc_ext: fr.md
+- type: directory
   path: content
   label: Pages
   create: all

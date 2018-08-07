@@ -10,6 +10,7 @@ topics = ["julakan"]
 sujets = ["julakan"]
 
 +++
-### **a sen b'a la**  Il est impliqué.  
 
-### Il a son pied dedans.
+<h3>**a sen b'a la**</h3> |  
+--- | ---
+<h4>Il est impliqué.</h4> | <h4>(Il a son pied dedans.)</h4>

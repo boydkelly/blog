@@ -8,6 +8,8 @@ title = "Clavier Ivoirien  "
 topics = []
 
 +++
+\** Clavier Ivoirien
+
 Je suis très heureux de publier le 'Clavier Ivoirien' sur un repo publique.  Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes.   On peut l'installer sur les systems 'rpm':  Fedora, Suse, Mageia etc.  Simplement ajouter le repo approprié disponible ici:
 
 [https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/](https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/ "Fedora Copr")

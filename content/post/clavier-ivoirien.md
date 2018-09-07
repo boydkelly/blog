@@ -2,7 +2,6 @@
 author = "Boyd Kelly"
 date = "2018-07-01T00:00:00.000+00:00"
 description = "Tappez sur Linux en langues ivoiriennes !"
-draft = true
 featured_image = "/images/clavier_ivoirien.png"
 tags = ["langue", "tech", "afrique"]
 title = "Clavier Ivoirien  "

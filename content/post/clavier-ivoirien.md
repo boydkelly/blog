@@ -1,11 +1,11 @@
 +++
 author = "Boyd Kelly"
 date = "2018-07-01T00:00:00.000+00:00"
-description = "\"Delete description to display summary\""
+description = "Tappez sur Linux en langues ivoiriennes !"
 featured_image = "/images/clavier_ivoirien.png"
-tags = []
+tags = ["langue", "tech", "afrique"]
 title = "Clavier Ivoirien  "
-topics = []
+topics = ["Technology", "Technologie"]
 
 +++
 \** Clavier Ivoirien

@@ -14,3 +14,5 @@ Je suis très heureux de publier le 'Clavier Ivoirien' sur un repo publique.  Ce
 [https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/](https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/ "Fedora Copr")
 
 Si vous avez des patch ou contributions, voir le source sur [github.com](https://github.com/boydkelly/xkeyboard-config-ci "Github")
+
+Pardon pour les usagers de distributions debian je vais mettre publier un deb très bientôt!

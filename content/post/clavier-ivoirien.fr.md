@@ -26,7 +26,7 @@ Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config
 
 *** Distributions Ubuntu/Debian:
 
-Télécharger le fichier [xkeyboard-config](/download/xkeyboard-config_2.24-7_all.deb) et l'installer localement.  (Je vais bientôt faire un ppa pour Ubuntu)
+Télécharger le fichier [xkeyboard-config](http://bit.ly/2oTcPil) et l'installer localement.  (Je vais bientôt faire un ppa pour Ubuntu)
 
 Si vous avez des patchs ou contributions, voir le source sur [github.com](https://github.com/boydkelly/xkeyboard-config-ci "Github")
 

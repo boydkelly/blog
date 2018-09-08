@@ -44,7 +44,8 @@ https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/
 *** Fedora:
  sudo dnf copr enable boydkelly/xkeyboard-config-ci
 sudo dnf update xkeyboard-config
- *** Suse et Mageia: Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config</description>
+ *** Suse et Mageia:
+Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config</description>
     </item>
     
     <item>

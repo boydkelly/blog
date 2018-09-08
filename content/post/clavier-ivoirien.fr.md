@@ -3,9 +3,9 @@ author = "Boyd Kelly"
 date = "2018-07-01T00:00:00.000+00:00"
 description = "Tappez sur Linux en langues ivoiriennes !"
 featured_image = "/images/clavier_ivoirien.png"
-tags = ["langue", "tech", "afrique"]
-title = "Clavier Ivoirien  "
-topics = ["Technology", "Technologie"]
+marques = ["langue", "tech", "afrique"]
+title = "Clavier Ivoirien"
+sujets = ["Technologie"]
 
 +++
 Je suis très heureux de publier le 'Clavier Ivoirien' sur un repo publique.  Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes.   On peut l'installer sur les systems 'rpm':  Fedora, Suse, Mageia etc.  Simplement ajouter le repo approprié disponible ici:

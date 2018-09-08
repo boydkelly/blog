@@ -39,5 +39,4 @@ fields:
   label: Image
   description: Featured Image
 pages:
-- content/post/clavier-ivoirien.md
 - content/post/test-post.md

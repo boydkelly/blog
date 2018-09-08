@@ -33,18 +33,6 @@
     </item>
     
     <item>
-      <title>Clavier Ivoirien  </title>
-      <link>http://www.coastsystems.net/2018/07/01/clavier-ivoirien/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
-      <guid>http://www.coastsystems.net/2018/07/01/clavier-ivoirien/</guid>
-      <description>Je suis très heureux de publier le &amp;lsquo;Clavier Ivoirien&amp;rsquo; sur un repo publique. Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes. On peut l&amp;rsquo;installer sur les systems &amp;lsquo;rpm&amp;rsquo;: Fedora, Suse, Mageia etc. Simplement ajouter le repo approprié disponible ici:
-https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/
-Si vous avez des patch ou contributions, voir le source sur github.com
-Pardon pour les usagers de distributions debian je vais mettre publier un deb très bientôt!</description>
-    </item>
-    
-    <item>
       <title>Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye</title>
       <link>http://www.coastsystems.net/2018/05/26/mogo/</link>
       <pubDate>Sat, 26 May 2018 20:32:08 +0000</pubDate>

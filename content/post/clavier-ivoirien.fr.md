@@ -12,15 +12,17 @@ Je suis très heureux de publier le 'Clavier Ivoirien' sur un repo publique.  Ce
 
 [https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/](https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/ "Fedora Copr")
 
-** Installation
+\** Installation
 
-*** Fedora:   
+\*** Fedora:
 
 > sudo dnf copr enable boydkelly/xkeyboard-config-ci
 >
 > sudo dnf update xkeyboard-config
 
-*** Suse et Mageia:  Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config
+\*** Suse et Mageia:  
+
+Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config
 
 Si vous avez des patchs ou contributions, voir le source sur [github.com](https://github.com/boydkelly/xkeyboard-config-ci "Github")
 

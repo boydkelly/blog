@@ -8,21 +8,25 @@ sujets = ["Technologie"]
 title = "Clavier Ivoirien"
 
 +++
-Je suis très heureux de publier le 'Clavier Ivoirien' sur un repo publique.  Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes.   On peut l'installer sur les systems 'rpm':  Fedora, Suse, Mageia etc.  Simplement ajouter le repo approprié disponible ici:
+Je suis très heureux de publier le 'Clavier Ivoirien' sur un repo publique pour distros à base rpm.  Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes.  Il y inclut aussi un clavier standard "Français (Côte d,Ivoire).  On peut l'installer sur les systems 'rpm':  Fedora, Suse, Mageia etc.  Simplement ajouter le repo approprié disponible ici:
 
 [https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/](https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/ "Fedora Copr")
 
-\** Installation
+** Installation
 
-\*** Fedora:
+*** Fedora:
 
 > sudo dnf copr enable boydkelly/xkeyboard-config-ci
 >
 > sudo dnf update xkeyboard-config
 
-\*** Suse et Mageia:  
+*** Suse et Mageia:  
 
 Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config
+
+*** Distributions Ubuntu/Debian:
+
+Télécharger le fichier [xkeyboard-config](/download/xkeyboard-config_2.24-7_all.deb) et l'installer localement.  (Je vais bientôt faire un ppa pour Ubuntu)
 
 Si vous avez des patchs ou contributions, voir le source sur [github.com](https://github.com/boydkelly/xkeyboard-config-ci "Github")
 

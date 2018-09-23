@@ -104,7 +104,7 @@
 -40927278615	Bible	bk	Bibulu						wt
 1529599765619	Bibliothèque	jl 27	Bibilotɛki						
 1529599765443	Bienfait de l'amité	jl 11	Teriya diya						
-27783419505	Bienfait		Duga	n	Sara		Nafa		n wt
+27783419505	Bienfait		Duga	n	Sara		Nafa		wt
 1527665647897	Bienfait durable	yq	Nafa bɛrɛbɛrɛ						wt
 1527665647575	Biens matériels	jl 24	Bolofɛnw						wt
 27783419618	Blâme		Lagosili						wt
@@ -474,8 +474,8 @@
 1529599765358	Grecque	jl 4	Grɛkikan						
 1529599765493	Groupe	jl 14	Jɛnkulu						
 1527665648010	Groupes de prédication	yq	Waajuliko jɛnkuluw						wt
-1529599765569	Guide	jl 20	Ɲɛminɛ	n					wt n
--7054111008	Guider	bk	Ɲɛminɛ	v					wt v
+1529599765569	Guide	jl 20	Ɲɛminɛ	n					wt
+-7054111008	Guider	bk	Ɲɛminɛ	v					v wt
 1529599765362	Habitude	jl 4	Delinanko						
 1529599765356	Hébreux	jl 4	Heburukan						
 1529599765622	Histoires bibliques	jl 28	Bibulu ka maana						
@@ -582,7 +582,7 @@
 1528499809495	L'enfer est-il réellement un lieu de flammes et de tourments ?	wt	Yala jahanama ye tasuma ni tɔɔrɔ yɔrɔ ye tiɲɛn na wa?	128					dp
 1527665648009	Le numéro de carte de territoire	yq	Waajulikɛyɔrɔ karti ka nimɔrɔ						wt
 1529599765546	Le Père de toute consolation	jl 18	Dusu saaloli bɛɛ tigi						
-27783419612	Lépreux		Kunatɔ						wt
+27783419612	Lépreux		Kunatɔ						delete
 1527665647570	Le récit inspiré nous apprend que	yq	Bibulu ka lakalita b'a fɔ an ye ko						wt
 1528499809476	Le Royaume de Dieu est proche	wt	Ala ka masaya surunyana	109					dp
 27783419598	Les armées mirent le siège sur Jérusalem		Kɛlɛbolow ye daga sigi Jerusalem daa la						wt
@@ -730,6 +730,7 @@
 -55856535180	Paradis	jl	Alijɛnɛ		Alijɛnɛ				wt
 1529599765417	Paragraphe	jl 9	Dakun						
 27783419452	Parcourons entièrement le territoire		An ka waajuli kɛ  kiin kɔnɔ k'a dafa						wt
+1530174543924	Pardonner		Yafa						v
 1528499809471	Parents, bâtissez-vous avec des matériaux à l'épreuve du feu ?	wt	Bangebagaw, yala aw be lɔli kɛ ni minanw ye tasuma tɛ se ka minw jeni wa?	104					dp
 1529599765429	Parents	jl 10	Bangebagaw						
 27783419556	Parler au naturel		Ka kalan kɛ u yɛrɛ kuma cogo la						wt
@@ -962,9 +963,9 @@
 -53018428141	Sabbat	bk	Lafiɲɛlon						wt
 1529599765484	Sacrifice de soi	jl 14	Yɛrɛ saraka						
 19411554786	Sacrifice rédempteur	bk	Kunmabɔ  saraka						wt
-1527665647947	Sacrifice	yq	Saraka	n					wt n
+1527665647947	Sacrifice	yq	Saraka	n					wt
 1527665647948	Sacrifier (à faux dieu)	yq	Saraka bɔ		kɛ				wt
--55856535110	Sacrifier	bk	Saraka	v					wt v
+-55856535110	Sacrifier	bk	Saraka	v					v wt
 1527665648027	Sacrifier (se)	yq	Yɛrɛ saraka (réfléchi)						wt
 1527665647730	S'agenouiller	yq	Ka kunbiri gwan duguma						wt
 1527665647675	Saine compagnie	yq	Jɛnnyogonya nyuman						wt

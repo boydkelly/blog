@@ -259,7 +259,7 @@
 1527665647848	Surveillant de l'école	yq	Lakoli kɔrɔsibaga						wt
 1527665647851	Compagnon de chambre	yq	Lamɔgɔ						wt
 1527665647852	Foi (sans)	yq	Lanabaliya						wt
-1527665647853	Foi	yq	Lanaya						wt
+1527665647853	Foi	yq	Lanaya						delete wt
 1527665647854	Foi solide	yq	Lanaya barikaman						wt
 1527665647855	Foi naissante	yq	Lanaya kura						wt
 1527665647857	Terre promise	yq	Layidu jamana						wt
@@ -271,7 +271,7 @@
 1527665647863	Codirigeant	yq	Marakɛɲɔgɔn						wt
 1527665647865	Salle du Royaume	jl 15	Masaya Boon				Massaya Soo	Bambara	wt
 1527665647866	Ministère du royaume	yq	Masaya cidenyabaara						wt
-1527665647867	Manière	jl 11	Wale		Cogoya				wt
+1527665647867	Manière	jl 11	Wale		Cogoya				delete wt
 1527665647870	Repas du seigneur	yq	Matigi ka surafana seli						wt
 1527665647872	Attitude mentale	yq	Miiriya cogo						wt
 1527665647873	Offre du mois	yq	Min be di kalo la						wt
@@ -293,7 +293,7 @@
 1527665647889	Centres d'intérêt des gens	yq	Mɔgɔw ka makoyaw						wt
 1527665647890	Qu'est-ce que cela requiert de nous?	yq	Mun lo ɲininen be an fɛ do ?						wt
 1527665647891	Pourquoi tolère-t-il autant de souffrances ?	yq	Mun na a b'a to tɔɔrɔ be caya ten ?						wt
-1527665647893	Endurance	yq	Muɲuli						wt
+1527665647893	Endurance	yq	Muɲuli						delete wt
 1527665647894	Apostat	yq	Murutilen						wt
 1527665647895	Quand nous sommes occupés dans le service	yq	N'an bolo degunnen be Alakow la						wt
 1527665647897	Bienfait durable	yq	Nafa bɛrɛbɛrɛ						wt
@@ -315,7 +315,7 @@
 1527665647920	Éveiller l'intérêt	yq	Ɲɛnatigɛ		Ka hakili sama				wt
 1527665647921	Question subsidiaire	yq	Ɲiningali wɛrɛ						wt
 1527665647922	Esprit de compétition	yq	Ɲɔgɔndan miiriya						wt
-1527665647923	Bonté	Yannick	Ɲumaya						wt
+1527665647923	Bonté	Yannick	Ɲumaya						delete wt
 1527665647924	Bonté mal placée	yq	Ɲumaya min man kan		Ɲumaya min a dagalen tɛ				wt
 1527665647925	Cela prouve que	yq	O b'a yira ka gwɛ ko						wt
 1527665647926	Cela arrivera de notre vivant	yq	O bena kɛ k'an to sii la						wt
@@ -516,7 +516,7 @@
 1529244629190	Ivrognerie	yq	Dɔrɔtɔya				Dɔlɔtɔya		wt
 1529244629191	Réalité	yq	Ciɲɛ						wt
 1529244629192	Diriger son regard vers	yq	Ɲɛsin fɛn ma						wt
-1529599765311	Vie	jl	Ɲenamaya						
+1529599765311	Vie	jl	Ɲenamaya						delete
 1529599765312	Vrai disciple	jl	Kalanden sɔbɛ						
 1529599765314	Enseignement véridique	jl	Kalan tigitigi						
 1529599765315	Connaissance	jl	Lɔniya						
@@ -530,7 +530,7 @@
 1529599765323	Culte pur de Jéhovah	jl	Jehova ka batoli saniman						
 1529599765324	L'amour	jl	Kanuya						
 1529599765326	Croyances	jl 1	Lannakow						
-1529599765327	Principes bibliques	jl 1	Bibulu ka sariyaw						
+1529599765327	Principes bibliques	jl 1	Bibulu ka sariyaw		Bibulu la sariyakolow	wt 2018/10			
 1529599765328	Valeurs de Dieu	jl 1	Ala ka fɔtaw						
 1529599765329	Honnête	jl 1	Hɔɔrɔnw						
 1529599765330	Avant	jl 1	Ka kɔrɔ						
@@ -566,8 +566,8 @@
 1529599765362	Habitude	jl 4	Delinanko						
 1529599765363	Lieu de culte	jl 5	Alabatoyɔrɔ						
 1529599765364	Réconfort	jl 5	Dususalo						
-1529599765365	Réponse	jl 5	Jaabili						
-1529599765366	Question	jl 5	Ɲinigali						
+1529599765365	Réponse	jl 5	Jaabili						essentiel question
+1529599765366	Question	jl 5	Ɲinigali		Ɲinigali				delete
 1529599765367	Vrai ami	jl 5	Teri sɔbɛ						
 1529599765368	Frère	jl 5	Balimacɛ						
 1529599765369	Soeur	jl 5	Balimamuso						
@@ -599,16 +599,16 @@
 1529599765396	Couvrir	jl 8	Sutara						
 1529599765397	Provoquer	jl 8	Darabɔ						
 1529599765398	Se montrer; se glorifier	jl 8	Yɛrɛ yira						
-1529599765399	Corps	jl 8	Farikolo						
+1529599765399	Corps	jl 8	Farikolo						delete
 1529599765400	Chosir	jl 8	Sugandi						
 1529599765401	Choix	jl 8	Sugandili						
 1529599765402	Simple	jl 8	Dama kɛɲɛnin						
 1529599765403	Moulant	jl 8	Ferekenin						
 1529599765404	Sauveur	jl 8	Kisibaga						
-1529599765405	Louer	jl 8	Tanu						
+1529599765405	Louer	jl 8	Tanu		Tando				
 1529599765406	Louange	jl 8	Tanuli						
 1529599765407	Latigɛ	jl 9	Latigɛ						
-1529599765408	Pensée	jl 9	Hakili						
+1529599765408	Pensée / Esprit	jl 9	Hakili						
 1529599765409	Radio	jl 9	Arajo						
 1529599765410	Portable	jl 9	Selilɛri						
 1529599765411	Coeur brisé	jl 9	Hakili ɲagami						
@@ -685,7 +685,7 @@
 1529599765485	Coutumes	jl 14	Landaw						
 1529599765486	Climat	jl 14	Wagati cogoya						
 1529599765487	Repas	jl 14	Dumuni						
-1529599765488	Langue	jl 14	Kaan						
+1529599765488	Langue (parler)	jl 14	Kaan						
 1529599765489	Village	jl 14	Dugudennin						
 1529599765490	Engin	jl 14	Bolifɛn						
 1529599765491	Bonne formation	jl 14	Fɔrɔmasɔn ɲuman						
@@ -701,9 +701,9 @@
 1529599765501	Approbation	jl 15	Diyanye						
 1529599765502	Bonne intention	jl 15	Ɲaniya ɲuman						
 1529599765503	Veiller sur	jl 15	Janto						
-1529599765504	Protéger	jl 15	Tanga						
+1529599765504	Protéger	jl 15	Tanga		Latanga	wt 1810			
 1529599765505	Berger	jl 15	Sagadɛndɛla						
-1529599765506	Fidèle	jl 15	Kantigi						
+1529599765506	Fidèle	jl 15	Kantigi						marked
 1529599765507	Chez nous	jl 15	An ka soo						
 1529599765508	Gagne pain	jl 15	Baloɲini barra						
 1529599765509	Famille	jl 15	Denbaya						
@@ -722,7 +722,7 @@
 1529599765522	S'inquiéter	jl 17	Hami						
 1529599765523	Centaines de kilomètres	jl 17	Kilomɛtɛrɛ kɛmɛ-kɛmɛ						
 1529599765524	Personnes âgées	jl 17	Mɔgɔkɔrɔbaw						
-1529599765525	Accompagner	jl 17	Bilasira						
+1529599765525	Accompagner	jl 17	Bilasira						delete
 1529599765526	Études bibliques	jl 17	Bibulukalanw						
 1529599765527	Réunions et assemblées	jl 17	Lajɛnw ni lajɛnbaw						
 1529599765528	Progrès	jl 17	Ɲɛtaga						
@@ -739,7 +739,7 @@
 1529599765541	Comité	jl 18	Kɔmite						
 1529599765542	Établir	jl 18	Ka sigi sen kan						
 1529599765543	Transport	jl 18	Taransipɔri						
-1529599765544	Réparer	jl 18	Lalaga						
+1529599765544	Réparer	jl 18	Lalaga						delete
 1529599765545	Se dépêcher	jl 18	Teliya						
 1529599765546	Le Père de toute consolation	jl 18	Dusu saaloli bɛɛ tigi						
 1529599765547	Transmettre/envoyer	jl 18	Lase						
@@ -811,15 +811,15 @@
 1529599765618	Renouvellement	jl 25	Lakurayali						
 1529599765619	Bibliothèque	jl 27	Bibilotɛki						
 1529599765620	Lumière	jl 28	Yeelen						
-1529599765621	Acheter	jl 28	Fɛɛrɛ	v					v wt
+1529599765621	Vendre	jl 28	Fɛɛrɛ	v					v wt
 1529599765622	Histoires bibliques	jl 28	Bibulu ka maana						
 1529599765623	Effort / Encouragement	jl 28 jl 10	Jijali						wt
-1530174543924	Pardonner		Yafa						v
+1530174543924	Pardonner		Yafa						delete
 -15518782417	École de guiléad	bk	Gilead lakɔli						wt
 -15518899097	École pour évangélisateurs du royaume	bk	Masaya waajulikɛlaw ka lakoli						wt
 -15522069116	Char de jehovah	bk	Jehova ka wotoro						wt
 -16124033849	Comité de filiale	jl 22	Tɔnbolo ka kɔmité						wt
--16527240875	Sorte	yq	Sifa		Sifa				wt
+-16527240875	Sorte	yq	Sifa		Sifa				delete wt
 -18714818564	Proclamateur	jl 13	Weleweledala		Wajulikɛla				wt
 -18949454284	Présentation	bk	Yiracogo						wt
 -18949479733	Culte	bk	Batoli						wt
@@ -837,7 +837,7 @@
 20017822377	Levure	bk	Funufen						wt
 2217883563	Païen	bk	Kafiri						wt
 2477044405	Puissant	bk	Sebagaya						wt
-2477221638	Explication		Sɛgɛsɛgɛli						marked wt
+2477221638	Explication		Sɛgɛsɛgɛli						delete marked
 25806141398	Encadré	bk	Koorilen						wt
 -26811574427	Lois principes	bk	Cifɔni						wt
 -27013963802	Prêtre	bk	Sarakalasebaga						wt
@@ -1125,12 +1125,12 @@
 3656197437	Maitrise de soi	bk	Yɛrɛminɛli						wt
 3656657915	Communications	jl 27	Kunnafoni						wt
 3656948736	De maison en maison	jl 12	Soo ni soo						wt
-3661744119	Endurer	Boyd	Muɲu						wt
--3743945078	Homme orgeuilleux		Kuncɛba						bambara marked unbouake wt
+3661744119	Endurer	Boyd	Muɲu						delete wt
+-3743945078	Homme orgeuilleux		Kuncɛba						bambara delete marked unbouake wt
 3755525512	Imiter / Refléter	jl 17	Ladegi		Ladegi		Ladege		marked verbe wt
 3827656569	Entraîner		Degi						marked wt
 3830892769	Tour de garde	bk	Kɔrɔsili sangaso						wt
-3832771434	Espérer	yq	Jigi		Jigi (ex : n jigi b'a la)				marked verbe wt
+3832771434	Espérer	yq	Jigi		Jigi (ex : n jigi b'a la)				delete marked verbe wt
 3846098296	Résumé (raccourci)		Lasurunyanin						marked wt
 403520813	Introduction	bk	Dadon kumaw						wt
 -40927278615	Bible	bk	Bibulu						wt

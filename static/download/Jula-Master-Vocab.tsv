@@ -26,7 +26,7 @@
 1527946171945	Fuir / Echapper / Courir / Conduire	kodi	Bori			Boli										essentiel vi
 1527946172032	Mal / Douleur	yq	Dimi													corp essentiel
 1527946172154	Quand ?	yq	Waati jumɛn			Tuma jumɛn	BKE									essentiel
-1528479911909	Argent	yq	Wari			Warigwɛ										essentiel
+1528479911909	Argent	yq	Wari			Warigwɛ										duplicate essentiel
 1528479911910	Argile	yq	Bɔgɔn													
 1528479911911	Au travail	yq	Baarakɛyɔrɔ la													
 1528479911912	Au-dessus / En haut	yq	San fɛ													essentiel
@@ -125,7 +125,7 @@
 1529657783634	Squelette							kolojalan	bm							corp
 1529657783635	Sueur		Wɔsiji													corp
 1529657783636	Talon	jm	Sen ju					Sen tontòli	bm							corp
-1529657783638	Visage		Ɲɛ					ɲɛda,ɲɛna	bm							corp
+1529657783638	Visage		Ɲɛ					ɲɛda,ɲɛna	bm							corp delete duplicate
 1529678551506	Deuxièmement	yq	Filanan													chiffre essentiel
 1529678551507	Sagesse	yq	Hakilitigiya													
 1529678551508	Stylo	yq	Biki			Sɛbɛri kɛlan										
@@ -154,7 +154,7 @@
 1529703600709	Durer	kodi	Mɛɛn													essentiel
 1529703600710	Mettre	kodi	Bla													essentiel v
 1529703600711	Frapper	kodi	Bugɔ													essentiel v
-1529703600712	Ami	kodi	Teri													essentiel
+1529703600712	Ami	kodi	Teri													delete duplicate essentiel
 1529703600713	Mosqué	kodi	Misiri													essentiel
 1529703600714	Champ	kodi	Foro													essentiel
 1529703600715	Rester	kodi	To (v.)													essentiel v
@@ -183,7 +183,7 @@
 1538903026921	Âpre		Basi													
 1538903191991	En tout cas		Akoni													
 1538906597740	Ville		Duguba													
-1538912286696	Principes bibliques	wt 2018/10	Bibulu la sariyakolow													move
+1538912286696	Principes bibliques	wt 2018/10	Bibulu ka sariyakolow													
 1539113758485	Avenir	mwb	Sinima			Siniɲasigi	tract									
 -15868363272	Fidélité / Intégrité	bk	Kantigiya													
 -15920650123	Nouveau	bk	Kura													essentiel
@@ -293,7 +293,7 @@
 2477221638	Explication		Sɛgɛsɛgɛli													
 25096152763	Prier / Demander	kodi	Seli			Dari		Dari		Deli						v
 25097016718	Écrire	yq	Sɛbɛli kɛ													v
--25299906327	Bonne journée	bk	Ala ye bi nɔgɔya													phrase
+-25299906327	Bonne journée	bk	Ala ye bi nɔgɔya			Ala bi diya										duplicate phrase
 -25714836626	Enfant	yq	Den			Denmisɛn		Denmisɛn								essentiel
 -25714963738	Machette	bk	Bese													essentiel
 -25714986524	Couteau	yq	Muru													essentiel
@@ -369,7 +369,7 @@
 27946171925	Ampoule	yq	Anpuli													santé
 27946171926	Envelope	yq	Anwolopu													
 27946171927	Avion	yq	Aviyɔn													
-27946171928	Travail / Tâche	yq	Baara&amp;nbsp;	(n.)												essentiel
+27946171928	Travail / Tâche	yq	Baara&amp;amp;nbsp;	(n.)												essentiel
 27946171930	Adulte	yq	Baliku													gens marked
 27946171931	Alimenter / Élever	yq	Balo			Dumunidi		Dumunidi								v
 27946171932	Maman (personnelle)	yq	Bamuso													gens
@@ -594,10 +594,10 @@
 28035546766	Depuis 16 ans	yq	A saan 16 ye nin ye													v
 28299761196	Il est venu ici.	bk	A nan na yan.													phrase
 28364392934	Nous sommes dans la main de Dieu.	alasane	An be Ala bla la.													phrase
-28365516628	Ongle	alasane	Bolo sɔɔni					Sɔni / Sɔnìfara	bm							corp
+28365516628	Ongle	alasane	Bolo sɔɔni					Sɔni / Sɔnìfara	bm							corp
 28366095760	Testicules	alasane	Belekili													alasane corp
 28366286693	Sourcis / Cil	alasane	Ɲa sii													alasane corp
-28366354150	Paupière	alasane	Ɲa fara					Ɲɛfara / Ɲɛwolo	bm							alasane corp
+28366354150	Paupière	alasane	Ɲa fara					Ɲɛfara / Ɲɛwolo	bm							alasane corp
 28366446248	Pupille	alasane	Ɲakiseden													alasane corp
 28366622927	Heure	yq	Lɛri													calendrier
 28366846362	Pomme d'Adam	alasane	Kaan file file													alasane corp
@@ -607,7 +607,7 @@
 28367609785	Vesicule bilaire	alasane	kuna kuna						bm							alasane corp marked
 28367778141	Intestins	alasane	Kɔnɔ nogo					Nugu	bm							alasane corp
 28367944447	Nombril	alasane	Bara kun	CIV		Kɔnɔbara										corp marked
-28367971257	Veine	source	Joli sira					Jolifìnsira	bm							corp marked
+28367971257	Veine	source	Joli sira					Jolifìnsira	bm							corp marked
 28368107720	Sang	alasane	Joli	(n.)				Joli / Basi	bm							corp
 28368192363	Levres	alasane	Dagwolo					Dawolo	bm							alasane corp
 28368284086	Langue (corps)	alasane	Nɛɛn			Nɛɛnkun										corp
@@ -654,7 +654,7 @@
 -31737841068	En bas / par terre	bk	Dugu man													essentiel
 -31737845063	En haut	bk	San fɛ													essentiel
 -3222246334	De temps en temps	bk	Tuma dɔw													marked
--32946315944	Argent		Wari													essentiel
+-32946315944	Argent		Wari													delete duplicate essentiel
 3317696881	C'est mieux.	bk	A ka fisa.													phrase
 -3421980794	À cause de cela...	bk	O lo kama...													phrase
 -34269420531	Endurer persévérer	bk	Sɔmina													leech v
@@ -669,15 +669,15 @@
 -3743945078	Homme orgeuilleux		Kuncɛba													
 3747847407	Peur (v)	yq	Siran					Jatigɛ	startled							v
 3748239431	Il est dit que...	bk	A fɔra ko...													phrase
-3755525512	Vers		Tumu													delete
+3755525512	Imiter / Refléter	jl 17	Ladegi			Ladegi		Ladege								marked v wt marked v wt
 3755562597	Chameau	yq	Ɲɔgɔmɛ													animal
 3755666635	Papillon	bk	Firinfirin													animal
 37787611568	Marmite		Nɛgɛdaga													
-3827656569	Habituer		Degi		N be Julakan degila dorɔn le											marked
+3827656569	Entraîner		Degi													marked wt
 3827696317	Eau	yq	Jii													essentiel
 3832771434	Espérer	yq	Jigi		N jigi b'a la.											essentiel v
-3845946176	Attendre	yq	Kɔnɔ 	(v.)		Makɔnɔ 		Kɔnɔni kɛ								marked v
-3846098296	Canari	yq	Daga													essentiel
+3845946176	Attendre	yq	Kɔnɔ	(v.)		Makɔnɔ		Kɔnɔni kɛ								marked v
+3846098296	Résumé (raccourci)		Lasurunyanin													marked wt marked wt
 -3849934239	Musa n'est pas allé à korhogo	bk	Musa ma ta korhogo													phrase
 -3849952656	Petite soeur	bk	Dɔgɔmuso													essentiel gens
 -3849977637	Petit frère	bk	Dɔgɔcɛ													essentiel gens
@@ -686,21 +686,21 @@
 -3852135199	Arriver	bk	Se													v vi
 -3852205822	Ce jour-la	bk	O loon													calendrier
 38912413143	Protégeṛ̱	wt 1810	Latanga			... ka tanga... ma	jl 15	tanga					ÖG̈G			
-39597583385	Entendre		Lamɛn		N k'i lamɛn											v
+39597583385	Entendre		Lamɛn		N k'i lamɛn											duplicate v
 39805608170	Orange		Lenburu													nourriture
 40026202749	Voleur		Sɔn			Soncɛ		Sonyalikɛla								
 -4003352986	Continue / vas-y	bk	A kɛ dɔrɔn			Taga a fɛ		Taga a man								bouake
 -4005544967	Devoir	bk	Ka kan ka													essentiel
-40284254243	Grand		Bon	(adj.)	Ala ka bon											
-40284402335	Bonne journée		Ala bi diya													salutations
+40284254243	Grand		Bon	(adj.)	Ala ka bon											duplicate
+40284402335	Bonne journée		Ala bi diya													delete duplicate salutations
 -40318372109	Alors / Puis / Maintenant / Donc	bk	Ayiwa...													essentiel
 40321636200	Unité	mwb	Kelenya													
 40322027585	I yɛrɛ ɲininga ko	mwb	Demande-toi													phrase
 403627311	Commencer	yq	Dabɔ			Daminɛ (v.)		Damina								v vi
 403694429	Cesser / abandonner / Arrêter / Laisser	bk	Dabla			To										bouake marked v
-40379018800	Manger		Domu		Kunu, n ka jɛgɛ domu. / N ka domuni kɛ.	Domuni kɛ										vi vt
+40379018800	Manger		Domu		Kunu, n ka jɛgɛ domu. / N ka domuni kɛ.	Domuni kɛ										duplicate vi vt
 40399670729	Je compte sur toi		N jigi b'i kan													phrase
-40718573083	Visage		Ɲa	CIV	N bena ɲa ko.											corp essentiel
+40718573083	Visage		Ɲa	CIV	N bena ɲa ko.	Ɲɛ	BFA									corp duplicate essentiel
 40844117258	Toutefois / Cependant	dico	O bɛɛ n'a taa													
 40844453869	Raté	dico	Jɛn													
 -40927183476	Cendre	yq	Buguri			Buguri(gwɛ)										
@@ -762,11 +762,11 @@
 -4633547634	Ancêtre	yq	Bɛmacɛ													bambara v
 -4633571900	Peut-être	yq	N'a sɔrɔ													essentiel marked
 4639316715	Espérance	yq	Jigiya													
-4696245302	Entendre	yq	Mɛn			Mɛnni kɛ		Lamɛn								essentiel v
+4696245302	Ecouter	yq	Mɛn			Mɛnni kɛ										duplicate essentiel v
 4696293185	Venir	yq	Na													v
 -47881654071	Ils / Eux	bk	O / Olugu / Olu	CIV		U / Ula	BFA	U / Olu	MLI							essentiel pp
 -47881692877	Vous	bk	Aw / Alugu	CIV		A / Aw	BFA	A / Aw	MLI							essentiel pp
--47881764516	Nous	bk	An / Anugu / Anu	CIV		An / Anw&amp;nbsp;	BFA	An / Anw	MLI							essentiel pp
+-47881764516	Nous	bk	An / Anugu / Anu	CIV		An / Anw&amp;amp;nbsp;	BFA	An / Anw	MLI							essentiel pp
 -47881810910	Il elle lui	bk	A / Ale	CIV		A / Ale	BFA	A / Ale	MLI							essentiel pp
 -47881877351	Tu / Toi	bk	I / Ile	CIV		E / Ele	BFA	A / Ale	MLI							essentiel pp
 -47881986758	Je moi	bk	N / Ne	CIV		N / Ne	BFA	N / Ne	MLI							essentiel pp
@@ -814,13 +814,13 @@
 -52656018473	Coudre	yq	Karan			Kala										v vt
 -52656018474	Répondre	yq	Jaabi			Jaabili kɛ		Jaabili kɛ								v
 -52656018475	Petit garçon	bk	Cɛdennin													gens
--52668375815	Ami	yq	Tericɛ			Teri										gens
+-52668375815	Ami	yq	Tericɛ			Teri										duplicate
 -52670046300	Beaucoup / Nombreaux / Abondance	kodi	Caman			Ca		Caya								essentiel
 -52670184464	C'est qui	bk	Jɔn lo													question
 -52670184465	Vie	yq	Niin			Ɲɛnamaya										
 -52670184466	Pagne	yq	Fani			Taafe										
 -52670184467	Dans	yq	Kɔnɔ	prep.	Bouaké kɔnɔ											essentiel
--52670184468	Monde / terre	tract	Duniɲa			Diɲe	ABBF									wt
+-52670184468	Monde / terre	tract	Duniɲa			Diɲe	ABBF									
 -52670184469	Vérité	yq	Tiɲɛ		Tiɲɛ lo!											essentiel
 -53015204863	Piment	bk	Foronto													nourriture
 -53015256195	Patate grillé	bk	Woso yirani													nourriture
@@ -842,7 +842,7 @@
 -53241205095	Cuisine	yq	Gwabugu			Gwa										essentiel
 -53241239980	Préparer	bk	Tobi													v
 -53257444419	Vendre	yq	Feere													v vt
--53257466897	Manger	yq	Domuni kɛ			Dumuni kɛ										v
+-53257466897	Manger	yq	Domuni kɛ			Dumuni kɛ										delete duplicate
 -53257498070	Boire	yq kodi	Min			Mini kɛ										v
 -53277754058	Se promener	bk	Yala	v	N yarala Burkina kɔnɔ											vi
 -53277784628	Tête	yq	Kun			Kunkolo										corp
@@ -911,7 +911,7 @@
 -54218752723	Comment?	bk	Cogo di?													question
 -54218752724	Écouter	yq	Lamɛni kɛ													v
 -54218752725	Dormir	yq	Sinɔgɔ			Sunɔgɔ										v
--54218752726	Ce / Celui-ci / Celui-là&amp;nbsp;	bk	Nin													essentiel
+-54218752726	Ce / Celui-ci / Celui-là&amp;amp;nbsp;	bk	Nin													essentiel
 -54218752728	Paragraphe	yq	Dakun													
 -54218752730	Soeur	bk	Baliman muso			Balimamuso										essentiel
 -54292927907	Décembre	yq	Desanburukalo			Desanburu										calendrier
@@ -919,7 +919,7 @@
 -54293290889	Octobre	yq	Ɔkutɔburukalo			Ɔkutɔburu										calendrier
 -5462122209	Que dieu te benisse	bk	Ala i duga			Ala i baraji										phrase
 -54727441325	Compréhension	yq	Faamuli			Faamuyali		Famuli								
--54727486070	Vraiment&amp;nbsp;	yq	Tiɲɛ tiɲɛ na&amp;nbsp;	CIV		Tiɲɛn na&amp;nbsp;		Tigitigi								corp essentiel
+-54727486070	Vraiment&amp;amp;nbsp;	yq	Tiɲɛ tiɲɛ na&amp;amp;nbsp;	CIV		Tiɲɛn na&amp;amp;nbsp;		Tigitigi								corp essentiel
 -54727498336	Éduquer / discipliner	bk	Kolo													v
 -54727515367	Pousser  / motiver	bk	Lasun													leech v
 -54727531939	Coeur	bk	Dusu			Dusukun		Sɔn, Dusu	bm							corp
@@ -998,7 +998,7 @@
 -55856535175	Adorer	yq	Bato													v
 -55856535176	Chèvre	yq	Baa													animal
 -55856535177	Servir / travailler		Baara													vt
--55856535178	Grand	bk	Ba													essentiel
+-55856535178	Grand	bk	Ba													duplicate essentiel
 -55856535179	Joli	yq	Cɛ ka ɲi													essentiel
 -55856535181	Dieu	bk	Ala													essentiel
 -55856535182	C'est bon	bk	A ka ɲi													essentiel
@@ -1020,7 +1020,7 @@
 -6414475196	Est-ce que c'est intéressant?	bk	O ka di wa?													phrase question
 -6415305877	Tu dis quoi ?	bk	Ile ko di ?													phrase
 -6416047111	Tous le temps cest pas le meme chez dieu	bk	Wagati bɛɛ tɛ kelen ye ala fɛ													phrase
-6681786393	Quelqu'un honnête 	bk	Kankelentigi													marked
+6681786393	Quelqu'un honnête	bk	Kankelentigi													marked
 6684371870	Gauche (à)	yq	Numan (bolo) fɛ													essentiel
 -6713724513	Je veux dire que...	bk	Ne be fɛ ka fɔ ko...													marked phrase
 -6713968474	Je dis	bk	Ne ko													phrase
@@ -1063,7 +1063,7 @@
 -8088147732	Rouge	yq	Wuleman													couleur
 -8088212970	Noir	yq	Finman													
 -8099771854	Devant	yq kodi	Ɲa fɛ	civ		Ɲɛ fɛ	bfa									essentiel
--8219438417	2018		Saan waa fila ani tan ni segi													
+-8219438417	2018		Saan waa fila ani tan ni segi													duplicate
 -8345687794	Je ne veux pas te fatiguer	bk	N tɛ fɛ k' i sɛgɛ													phrase
 -8360950170	J'ai compris.	bk	N ka faamu.													phrase
 -8360992248	J'ai compris. / J'ai entendu.	bk	N ka mɛn.													phrase
@@ -1082,3 +1082,4 @@
 9184759070	Salutation marché	bk	I ni lɔgɔ													essentiel
 9184791617	Salutation lessive ou porter l'eau	bk	I ni kɔɔ													essentiel
 -9558056281	Revenir		Sekɔ													v vi
+	Fin		Laban													

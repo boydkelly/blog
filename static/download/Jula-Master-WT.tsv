@@ -435,7 +435,7 @@
 1528499809489	La paix universelle : d'ou viendra-t-elle ?	wt	Hɛɛrɛ, duniɲa kuru bɛɛ kɔnɔ: o bena bɔ min?	122												dp
 1528499809490	Pourquoi les chretiens doivent être différents	wt	Mun na kerecɛnw ka kan ka kɛ daan na?	123												dp
 1528499809491	Raisons de croire que Dieu est l'Auteur de la Bible	wt	Dalilu minw b’a yira ko ala lo ye bibulu tigi ye	124												dp
-1528499809492	Pourquoi l'humanite a-t-elle besoin d'une rançon ?	wt	Mun na hadamadenya mako be kunmabɔsara la	125												dp
+1528499809492	Pourquoi l'humanite a-t-elle besoin d'une rançon ?	wt	Mun na hadamadenya mako be kunmabɔsara la	125												dp
 1528499809493	Qui sera sauvé ?	wt	Jɔn lo be se ka kisi?	126												dp
 1528499809494	Que se passe-t-il quand on meurt ?	wt	Mun lo be kɛ n’an sara?	127												dp
 1528499809495	L'enfer est-il réellement un lieu de flammes et de tourments ?	wt	Yala jahanama ye tasuma ni tɔɔrɔ yɔrɔ ye tiɲɛn na wa?	128												dp
@@ -694,12 +694,12 @@
 1529599765429	Parents	jl 10	Bangebagaw													
 1529599765430	Enfants	jl 10	Deenw													
 1529599765431	L'age	jl 10	Sanda													
-1529599765432	École	jl 10	Lakɔli													
+1529599765432	École	jl 10	Lakɔli													
 1529599765433	Cantique / Mélodie / Chanson / Chant	jl 10	Dɔnkili													
 1529599765434	Boisson	jl 10	Minnifɛn													
 1529599765435	Nourriture	jl 10	Dumunifɛn													
 1529599765436	Moment propice	jl 10	Wagati kɛrɛnkɛrɛnnin													
-1529599765437	Bénir	jl 10	Duga													v wt
+1529599765437	Bénir	jl 10	Duga													v wt
 1529599765439	Assemblée	jl 11	Lajɛnba													
 1529599765440	Empressement	jl 11	Kɔrɔtɔ													
 1529599765441	Chaque année	jl 11	Saan o saan													
@@ -726,7 +726,6 @@
 1529599765463	Puits	jl 12	Kɔlɔnda													
 1529599765464	Commerces	jl 12	Jagokɛyɔrɔw													
 1529599765465	Jardin	jl 12	Zaradɛn													
-1529599765466	Téléphone	jl 12	Telefɔni													
 1529599765467	Voisins	jl 12	Sigiɲɔgɔnw													
 1529599765468	Collègue de travail	jl 12	Baarakɛɲɔgɔn													
 1529599765469	Camarades de classe	jl 12	Lakɔli filankuruw													
@@ -876,7 +875,6 @@
 1529599765621	Vendre	jl 28	Fɛɛrɛ													vt
 1529599765622	Histoires bibliques	jl 28	Bibulu ka maana													
 1529599765623	Effort / Encouragement	jl 28 jl 10	Jijali													wt
-1538912286696	Principes bibliques	wt 2018/10	Bibulu ka sariyakolow													
 -15518782417	École de guiléad	bk	Gilead lakɔli													wt
 -15518899097	École pour évangélisateurs du royaume	bk	Masaya waajulikɛlaw ka lakoli													wt
 -15522069116	Char de jehovah	bk	Jehova ka wotoro													wt
@@ -1186,10 +1184,9 @@
 3656657915	Communications	jl 27	Kunnafoni													wt
 3656948736	De maison en maison	jl 12	Soo ni soo													wt
 3755525512	Imiter / Refléter	jl 17	Ladegi			Ladegi		Ladege								marked v wt
-3827656569	Entraîner		Degi													marked wt
 3830892769	Tour de garde	bk	Kɔrɔsili sangaso													wt
 3846098296	Résumé (raccourci)		Lasurunyanin													marked wt
-40322554868	Leçon	mwb	Kalensen													
+40322554868	Leçon	mwb	Kalensen													
 403520813	Introduction	bk	Dadon kumaw													wt
 -40927278615	Bible	bk	Bibulu													wt
 -4123020142	Punir		Ɲangi													unbouake v wt

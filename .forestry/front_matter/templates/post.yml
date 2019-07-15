@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - type: datetime
   name: date
@@ -11,7 +10,7 @@ fields:
     date_format: YYYY/MM/DD
     time_format: HH:mm ZZ
     display_utc: true
-  default: 2018-07-01 00:00:00 +0000
+  default: '2018-07-01T00:00:00.000+00:00'
 - type: text
   name: type
   label: Type

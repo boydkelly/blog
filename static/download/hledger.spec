@@ -13,7 +13,7 @@ URL:      https://hledger.org
 Source0:  https://github.com/simonmichael/hledger/archive/%{commit}/%{name}-%{commit}.tar.gz
 
 BuildRequires: stack 
-BuildRequires: ghc 
+#BuildRequires: ghc 
 
 %description
 hledger is a computer program for easily tracking money, time, or other commodities, on unix, mac and windows (and web-capable mobile devices, to some extent).

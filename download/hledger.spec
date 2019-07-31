@@ -12,7 +12,7 @@ URL:      https://hledger.org
  
 Source0:  https://github.com/simonmichael/hledger/archive/%{commit}/%{name}-%{commit}.tar.gz
 
-BuildRequires: stack 
+#BuildRequires: stack 
 BuildRequires: ghc 
 
 %description

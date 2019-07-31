@@ -22,7 +22,7 @@ hledger is a computer program for easily tracking money, time, or other commodit
 %autosetup -n %{name}-%{commit}
 
 %build
-curl -sSL https://get.haskellstack.org/ | sh
+( curl -sSL https://get.haskellstack.org/ | sh )
 stack setup
 LANG=en_US.UTF-8 stack build
 

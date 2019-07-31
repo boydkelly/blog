@@ -10,8 +10,6 @@ Summary:  hledger
 License:  GPL-3.0
 URL:      https://hledger.org
  
-#Source0:  https://github.com/simonmichael/archive/master.tar.gz#/%{name}-%{version}-%{release}.tar.gz
-#Source0:  https://github.com/simonmichael/hledger/archive/%{commit}/%{name}-%{gittag}.tar.gz
 Source0:  https://github.com/simonmichael/hledger/archive/%{commit}/%{name}-%{commit}.tar.gz
 
 BuildRequires: stack 
@@ -24,6 +22,7 @@ hledger is a computer program for easily tracking money, time, or other commodit
 %autosetup -n %{name}-%{commit}
 
 %build
+curl -sSL https://get.haskellstack.org/ | sh
 stack setup
 LANG=en_US.UTF-8 stack build
 

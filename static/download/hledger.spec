@@ -12,7 +12,7 @@ URL:      https://hledger.org
  
 Source0:  https://github.com/simonmichael/hledger/archive/%{commit}/%{name}-%{commit}.tar.gz
 
-#BuildRequires: stack 
+BuildRequires: stack 
 BuildRequires: ghc 
 
 %description
@@ -22,7 +22,7 @@ hledger is a computer program for easily tracking money, time, or other commodit
 %autosetup -n %{name}-%{commit}
 
 %build
-( curl -sSL https://get.haskellstack.org/ | sh )
+#( curl -sSL https://get.haskellstack.org/ | sh )
 stack setup
 LANG=en_US.UTF-8 stack build
 
@@ -37,6 +37,6 @@ install -m 755  ~/.local/bin/* %{buildroot}%{_bindir}/
 /%_bindir/*
 
 %changelog
-* Mon Jul 15 2019 Boyd Kelly <bkelly@coastsystems.net> - 0.20 
-- Initial version of sommelier for Fedora and fedora-crouton-wayland 
+* Wed Jul 31 2019 Boyd Kelly <bkelly@coastsystems.net> - 1.14.2 
+- Initial build of hledger 1.14.2 works locally but not on copr 
 

@@ -13,7 +13,18 @@ URL:      https://hledger.org
 Source0:  https://github.com/simonmichael/hledger/archive/%{commit}/%{name}-%{commit}.tar.gz
 
 BuildRequires: stack 
+BuildRequires: glibc-langpack-en
 #BuildRequires: ghc 
+BuildRequires: perl 
+BuildRequires: gcc
+BuildRequires: make	
+BuildRequires: automake	
+BuildRequires: gmp-devel	
+BuildRequires: libffi 
+BuildRequires: zlib-devel 
+BuildRequires: tar 
+BuildRequires: git 
+BuildRequires: gnupg
 
 %description
 hledger is a computer program for easily tracking money, time, or other commodities, on unix, mac and windows (and web-capable mobile devices, to some extent).
@@ -23,8 +34,8 @@ hledger is a computer program for easily tracking money, time, or other commodit
 
 %build
 #( curl -sSL https://get.haskellstack.org/ | sh )
-LANG=C.UTF-8 stack setup
-LANG=C.UTF-8 stack build
+LANG=en_US.UTF-8 stack setup
+LANG=en_US.UTF-8 stack build
 
 %install
 stack install

@@ -480,7 +480,7 @@
 1528499809534	Pourquoi se laisser guider par la Bible ?	wt	Mun na an ka ɲi k’a to bibulu b’an ɲɛminɛ?	169												dp
 1528499809535	Qui est qualifié pour diriger l'humanité ?	wt	See be jɔn lo ye ka hadamadenw mara?	170												dp
 1528499809536	Vivez dans la paix des a present et pour l'éternité !	wt	Aw be se ka ɲɛnamaya kɛ hɛɛrɛ la sisan, ani fɔɔ abada!	171												dp
-1528499809537	Quelle réputation avez-vous aupres de Dieu ?	wt	Aw ka lɔyɔrɔ ye juman ye ala ɲɛɛ kɔrɔ?	172												dp
+1528499809537	Quelle réputation avez-vous aupres de Dieu&nbsp?	wt	Aw ka lɔyɔrɔ ye juman ye ala ɲɛɛ kɔrɔ?	172												dp
 1528499809538	Dieu approuve-t-il une religion en particulier ?	wt	Yala ala be sɔn diinanw bɛɛ la wa?	173												dp
 1528499809539	Le monde nouveau promis par Dieu : qui y sera admis ?	wt	Ala ka duniɲa kura: jɔn lo bena don yen?	174												dp
 1528499809540	La Bible : un livre digne de foi	wt	Mun lo b’a yira ko bibulu ye kitabu lakika ye?	175												dp
@@ -869,6 +869,7 @@
 1529599765621	Vendre	jl 28	Fɛɛrɛ	v												vt
 1529599765622	Histoires bibliques	jl 28	Bibulu ka maana													
 1529599765623	Effort / Encouragement	jl 28 jl 10	Jijali													wt
+1538912286696	Principes bibliques	wt 2018/10	Bibulu ka sariyakolow													
 -15518782417	École de guiléad	bk	Gilead lakɔli													wt
 -15518899097	École pour évangélisateurs du royaume	bk	Masaya waajulikɛlaw ka lakoli													wt
 -15522069116	Char de jehovah	bk	Jehova ka wotoro													wt
@@ -1103,7 +1104,7 @@
 27783419641	Personne d'une origine différente		Mɔgɔ min bɔyɔrɔ tɛ kelen ye													wt
 27783419642	Protecteur		mɔgɔ tangabaga													wt
 27783419643	Oints (chrétiens)		Mɔnlenw													wt
-27783419644	Supporter / endurer	bk	Muɲuli	v	A ka muɲuli kɛ											v vt wt
+27783419644	Supporter / endurer	bk	Muɲuli kɛ	v	A ka muɲuli kɛ											v vt wt
 27783419645	Quand c'est approprié		N'a bɛnnen be													wt
 27783419646	Quand vous reviendrez		N'an segira ka na													wt
 27783419647	Quand tu seras grand		N'i kɔrɔbayara													wt
@@ -1177,7 +1178,6 @@
 3656657915	Communications	jl 27	Kunnafoni													wt
 3656948736	De maison en maison	jl 12	Soo ni soo													wt
 3755525512	Vers		Tumu													animal animal
-3827656569	Habituer		Degi	meilleur exemple. habituer a quoi?	N be degila											marked marked
 3830892769	Tour de garde	bk	Kɔrɔsili sangaso													wt
 3846098296	Canari	yq	Daga													essentiel essentiel
 40322554868	Leçon	mwb	Kalensen													

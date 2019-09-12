@@ -1,7 +1,7 @@
 -11085274429	Réunion	bk	Lajɛn													
 -11287133660	Joie	jl 11	Nagali													wt
 -11287332641	Serviteur / adorateur	bk	Sagokɛla													wt
--15176835587	Sans foi	bk	Janfanci													duplicate wt
+-15176835587	Sans foi	bk	Janfanci													wt
 1527665647505	Ce qu'elle nous réserve	yq	A be min mara an ye													wt
 1527665647506	Ça ressemble à …	yq	A bɔnin be …ma													wt
 1527665647507	Ça ressemble à quoi ?	yq	A bɔnin be mun le ma ?													wt
@@ -97,7 +97,7 @@
 1527665647623	Tabernacle	yq	Finiso													wt
 1527665647626	Discours spécial	yq	Forobakalan kɛrɛnkɛrɛn													wt
 1527665647628	Discours de mariage	yq	Furukalan													wt
-1527665647629	Publication	yq	Gafe													duplicate wt
+1527665647629	Publication	yq	Gafe													wt
 1527665647630	Préposé aux publications	yq	Gafekow ɲɛnabobaga													wt
 1527665647632	Demande de publications (demande écrite)	yq	Gafew nyinisɛbɛ													wt
 1527665647634	Inefficacité des gouvernements	yq	Gofɛrɛnɛman dɛsɛbagato													wt
@@ -328,7 +328,7 @@
 1527665647939	1er siècle	yq	Saan kɛmɛ folo													wt
 1527665647941	Autres brebis	yq	Saga wɛrɛw													wt
 1527665647942	Petit troupeau	yq	Sagakulunin													wt
-1527665647947	Sacrifice	yq	Saraka	n												duplicate wt
+1527665647947	Sacrifice	yq	Saraka													wt
 1527665647948	Sacrifier (à faux dieu)	yq	Saraka bɔ			kɛ										wt
 1527665647950	Conditions à remplir	yq	Saratiw ka dafa													wt
 1527665647953	Témoin	yq	Seere			Seree										wt
@@ -363,7 +363,7 @@
 1527665647995	Éviter les extrêmes	yq	U waganen tɛ													wt
 1527665647996	Retrait volontaire	yq	U yɛrɛ mabɔ kafo la													wt
 1527665647997	À cause de leur état de pécheur	yq	U yɛrɛw ka jurumutoya koson													wt
-1527665647999	Verset	jl 9	Vɛrise			fitini	MLI	Bibulusen								wt
+1527665647999	Verset	jl 9	Vɛrise			Bibulusen										wt
 1527665648000	Verset clé	yq	Vɛrise jonjon													wt
 1527665648002	Devoir sacré	yq	Waajibiko senuman													wt
 1527665648004	Quand nous prêchons	yq	Waajuli kɛto													wt
@@ -480,7 +480,7 @@
 1528499809534	Pourquoi se laisser guider par la Bible ?	wt	Mun na an ka ɲi k’a to bibulu b’an ɲɛminɛ?	169												dp
 1528499809535	Qui est qualifié pour diriger l'humanité ?	wt	See be jɔn lo ye ka hadamadenw mara?	170												dp
 1528499809536	Vivez dans la paix des a present et pour l'éternité !	wt	Aw be se ka ɲɛnamaya kɛ hɛɛrɛ la sisan, ani fɔɔ abada!	171												dp
-1528499809537	Quelle réputation avez-vous aupres de Dieu&nbsp?	wt	Aw ka lɔyɔrɔ ye juman ye ala ɲɛɛ kɔrɔ?	172												dp
+1528499809537	Quelle réputation avez-vous aupres de Dieu ?	wt	Aw ka lɔyɔrɔ ye juman ye ala ɲɛɛ kɔrɔ?	172												dp
 1528499809538	Dieu approuve-t-il une religion en particulier ?	wt	Yala ala be sɔn diinanw bɛɛ la wa?	173												dp
 1528499809539	Le monde nouveau promis par Dieu : qui y sera admis ?	wt	Ala ka duniɲa kura: jɔn lo bena don yen?	174												dp
 1528499809540	La Bible : un livre digne de foi	wt	Mun lo b’a yira ko bibulu ye kitabu lakika ye?	175												dp
@@ -503,72 +503,72 @@
 1528499809557	Marchez-vous sur la route qui mène à la vie éternelle ?	wt	Yala i be ɲɛnamaya banbali sira kan wa?	192												dp
 1528499809558	Delivrés de la detresse	wt	Kisili, duniɲa ka tɔɔrɔba wagati la	193												dp
 1528499809559	Montrons Notre Reconnaissance Pour Ce Que Christ A Fait Pour Nous	wt	Krista ye min kɛ aw ye, aw k’a waleɲuman lɔn o kɔsɔn!													dp
-1528677420981	Genèse		Damina	WYI		Zɛnɛzi	ABBF	Jenɛse	MLI							bible
-1528677420982	Exode		Bɔri	WYI		Ɛkizɔdo	ABBF	Ekisode	MLI							bible
-1528677420983	Lévitique		Sarakalasebagaw	WYI		Levitiki	ABBF	Levitike	MLI							bible
-1528677420984	Nombres		Jateri	WYI		Nɔmburw	ABBF	Nɔnburuw	MLI							bible
-1528677420985	Deutéronome		Sariya	WYI		Deteronɔmu	ABBF	Dutɛrɔnɔmɛ	MLI							bible duplicate
-1528677420986	Josué		Yosuwe	WYI		Zozuwe	ABBF	Josue	MLI							bible
-1528677420987	Juges		Kitigɛbagaw	WYI			ABBF	Kiritigɛlaw	MLI							bible
-1528677420988	Ruth		Ruti	WYI		Uruti	ABBF	Ruti	MLI							bible
-1528677420989	1 Samuel		Samawilu fɔlɔ	WYI		Samuyɛli fɔlɔ	ABBF	1 Samuɛl	MLI							bible
-1528677420990	2 Samuel		Samawilu filanan	WYI		Samuyɛli filanan	ABBF	2 Samuɛl	MLI							bible
-1528677420991	1 Rois		Masacɛw fɔlɔ	WYI		Masacɛw fɔlɔ	ABBF	1 Masakɛw	MLI							bible
-1528677420992	2 Rois		Masacɛw filanan	WYI		Masacɛw filanan	ABBF	2 Masakɛw	MLI							bible
-1528677420993	1 Chroniques		Kibaroyaw fɔlɔ	WYI		Kibaru fɔlɔ	ABBF	1 Tilew Kibaru	MLI							bible
-1528677420994	2 Chroniques		Kibaroyaw filanan	WYI		Kibaru filanan	ABBF	2 Tilew Kibaru	MLI							bible
-1528677420995	Ezra		Ɛsidarasi	WYI		Ɛsidirasi	ABBF	Esdrasi	MLI							bible
-1528677420996	Nehémia		Nehemi	WYI		Neemi	ABBF	Nehemi	MLI							bible
-1528677420997	Esther		Ɛsitɛri	WYI		Ɛsitɛri	ABBF	Esiteri	MLI							bible
-1528677420998	Job		Ayuba	WYI		Zɔbu	ABBF	Job	MLI							bible
-1528677420999	Psaumes		Zaburu	WYI		Dɔnkiliw	ABBF	Zaburuw	MLI							bible
-1528677421000	Proverbes		Zanaw	WYI		Talenw	ABBF	Ntalenw	MLI							bible
-1528677421001	Ecclésiaste		Waajurikɛbaga	WYI		Waajulikɛla	ABBF	Waajulikɛla	MLI							bible
-1528677421002	Chant de Salomon (Cantiques)		Dɔnkiriw	WYI		Dɔnkili Dimanw	ABBF	Solomani ka dɔnkili	MLI							bible
-1528677421003	Isaïe		Ezayi	WYI		Ezayi	ABBF	Esayi	MLI							bible
-1528677421004	Jérémie		Yeremi	WYI		Zeremi	ABBF	Jeremi	MLI							bible
-1528677421005	Lamentations		Kasikan	WYI		Dusukasidɔnkili	ABBF	Jeremi ka maɲumatɔkan	MLI							bible
-1528677421006	Ézékiel		Ezekiyɛli	WYI		Ezekiyɛli	ABBF	Ezekiɛl	MLI							bible
-1528677421007	Daniel		Daniɛli	WYI		Daniyɛli	ABBF	Daniɛl	MLI							bible
-1528677421008	Hoshéa		Oze	WYI		Oze	ABBF	Ose	MLI							bible
-1528677421009	Yoël		Yowɛli	WYI		Zowɛli	ABBF	Joɛl	MLI							bible
-1528677421010	Amos		Amɔsi	WYI		Amɔsi	ABBF	Amos	MLI							bible
-1528677421011	Obadia		Abidiyasi	WYI		Abudiyasi	ABBF	Abdiyasi	MLI							bible
-1528677421012	Yona		Yunusu	WYI		Zonasi	ABBF	Jonasi	MLI							bible
-1528677421013	Mika		Mise	WYI		Mise	ABBF	Mise	MLI							bible
-1528677421014	Nahoum		Nahɔmu	WYI		Nawumu	ABBF	Nahum	MLI							bible
-1528677421015	Habaqouq		Habakuki	WYI		Abakuki	ABBF	Habakuk	MLI							bible
-1528677421016	Tsephania		Sofoni	WYI		Sofoni	ABBF	Sofoni	MLI							bible
-1528677421017	Haggaï		Hagize	WYI		Aze	ABBF	Agize	MLI							bible
-1528677421018	Zekaria		Jakariya	WYI		Zakari	ABBF	Zakari	MLI							bible
-1528677421019	Malaki		Malaki	WYI		Malasi	ABBF	Malaki	MLI							bible
-1528677421020	Matthieu		Matiyo	WYI		Matiyo	ABBF	Matiyu	MLI							bible
-1528677421021	Marc		Mariki	WYI		Mariki	ABBF	Marka	MLI							bible
-1528677421022	Luc		Luka	WYI		Luka	ABBF	Luka	MLI							bible
-1528677421023	Jean		Zan	WYI		Zan	ABBF	Yuhana	MLI							bible
-1528677421024	Actes		Kɛwaliw	WYI		Kɛwaliw	ABBF	Kɛwalew	MLI							bible
-1528677421025	Romains		Ɔrɔmukaw	WYI		Ɔrɔmukaw	ABBF	Romɛkaw	MLI							bible
-1528677421026	1 Corinthiens		Korɛntikaw fɔlɔ	WYI		Korɛntikaw fɔlɔ	ABBF	1 Kɔrɛntekaw	MLI							bible
-1528677421027	2 Corinthiens		Korɛntikaw filanan	WYI		Korɛntikaw filanan	ABBF	2 Kɔrɛntekaw	MLI							bible
-1528677421028	Galates		Galatikaw	WYI		Galatikaw	ABBF	Galasikaw	MLI							bible
-1528677421029	Éphésiens		Efɛzikaw	WYI		Efɛzikaw	ABBF	Efesekaw	MLI							bible
-1528677421030	Philippiens		Filipikaw	WYI		Filipikaw	ABBF	Filipekaw	MLI							bible
-1528677421031	Colossiens		Kɔlɔsikaw	WYI		Kɔlɔsikaw	ABBF	Kolosekaw	MLI							bible
-1528677421032	1 Thessaloniciens		Tesalonikaw fɔlɔ	WYI		Tesalonikaw fɔlɔ	ABBF	1 Tesalonikekaw	MLI							bible
-1528677421033	2 Thessaloniciens		Tesalonikaw filanan	WYI		Tesalonikaw filanan	ABBF	2 Tesalonikekaw	MLI							bible
-1528677421034	1 Timothée		Timote fɔlɔ	WYI		Timote fɔlɔ	ABBF	1 Timote	MLI							bible
-1528677421035	2 Timothée		Timote filanan	WYI		Timote filanan	ABBF	2 Timote	MLI							bible
-1528677421036	Tite		Titi	WYI		Titi	ABBF	Tite	MLI							bible
-1528677421037	Philémon		Filemɔn	WYI		Filemɔn	ABBF	Filemon	MLI							bible
-1528677421038	Hébreux		Eburuw	WYI		Eburuw	ABBF	Heburuw	MLI							bible
-1528677421039	Jacques		Zaki	WYI		Zaki	ABBF	Yakuba	MLI							bible
-1528677421040	1 Pierre		Piyɛri fɔlɔ	WYI		Piyɛri fɔlɔ	ABBF	1 Piɛrɛ	MLI							bible
-1528677421041	2 Pierre		Piyɛri filanan	WYI		Piyɛri filanan	ABBF	2 Piɛrɛ	MLI							bible
-1528677421042	1 Jean		Zan fɔlɔ	WYI		Zan fɔlɔ	ABBF	1 Yuhana	MLI							bible
-1528677421043	2 Jean		Zan filanan	WYI		Zan filanan	ABBF	2 Yuhana	MLI							bible
-1528677421044	3 Jean		Zan sabanan	WYI		Zan sabanan	ABBF	3 Yuhana	MLI							bible
-1528677421045	Jude		Zude	WYI		Zude	ABBF	Jude	MLI							bible
-1528677421046	Révélation		Yirali	WYI		Yirali	ABBF	Jirali	MLI							bible
+1528677420981	Genèse		Damina			Zɛnɛzi	ABBF	Jenɛse	MLI							
+1528677420982	Exode		Bɔri			Ɛkizɔdo	ABBF	Ekisode	MLI							
+1528677420983	Lévitique		Sarakalasebagaw			Levitiki	ABBF	Levitike	MLI							
+1528677420984	Nombres		Jateri			Nɔmburw	ABBF	Nɔnburuw	MLI							
+1528677420985	Deutéronome		Sariya			Deteronɔmu	ABBF	Dutɛrɔnɔmɛ	MLI							
+1528677420986	Josué		Yosuwe			Zozuwe	ABBF	Josue	MLI							
+1528677420987	Juges		Kitigɛbagaw				ABBF	Kiritigɛlaw	MLI							
+1528677420988	Ruth		Ruti			Uruti	ABBF	Ruti	MLI							
+1528677420989	1 Samuel		Samawilu fɔlɔ			Samuyɛli fɔlɔ	ABBF	1 Samuɛl	MLI							
+1528677420990	2 Samuel		Samawilu filanan			Samuyɛli filanan	ABBF	2 Samuɛl	MLI							
+1528677420991	1 Rois		Masacɛw fɔlɔ			Masacɛw fɔlɔ	ABBF	1 Masakɛw	MLI							
+1528677420992	2 Rois		Masacɛw filanan			Masacɛw filanan	ABBF	2 Masakɛw	MLI							
+1528677420993	1 Chroniques		Kibaroyaw fɔlɔ			Kibaru fɔlɔ	ABBF	1 Tilew Kibaru	MLI							
+1528677420994	2 Chroniques		Kibaroyaw filanan			Kibaru filanan	ABBF	2 Tilew Kibaru	MLI							
+1528677420995	Ezra		Ɛsidarasi			Ɛsidirasi	ABBF	Esdrasi	MLI							
+1528677420996	Nehémia		Nehemi			Neemi	ABBF	Nehemi	MLI							
+1528677420997	Esther		Ɛsitɛri			Ɛsitɛri	ABBF	Esiteri	MLI							
+1528677420998	Job		Ayuba			Zɔbu	ABBF	Job	MLI							
+1528677420999	Psaumes		Zaburu			Dɔnkiliw	ABBF	Zaburuw	MLI							
+1528677421000	Proverbes		Zanaw			Talenw	ABBF	Ntalenw	MLI							
+1528677421001	Ecclésiaste		Waajurikɛbaga			Waajulikɛla	ABBF	Waajulikɛla	MLI							
+1528677421002	Chant de Salomon (Cantiques)		Dɔnkiriw			Dɔnkili Dimanw	ABBF	Solomani ka dɔnkili	MLI							
+1528677421003	Isaïe		Ezayi			Ezayi	ABBF	Esayi	MLI							
+1528677421004	Jérémie		Yeremi			Zeremi	ABBF	Jeremi	MLI							
+1528677421005	Lamentations		Kasikan			Dusukasidɔnkili	ABBF	Jeremi ka maɲumatɔkan	MLI							
+1528677421006	Ézékiel		Ezekiyɛli			Ezekiyɛli	ABBF	Ezekiɛl	MLI							
+1528677421007	Daniel		Daniɛli			Daniyɛli	ABBF	Daniɛl	MLI							
+1528677421008	Hoshéa		Oze			Oze	ABBF	Ose	MLI							
+1528677421009	Yoël		Yowɛli			Zowɛli	ABBF	Joɛl	MLI							
+1528677421010	Amos		Amɔsi			Amɔsi	ABBF	Amos	MLI							
+1528677421011	Obadia		Abidiyasi			Abudiyasi	ABBF	Abdiyasi	MLI							
+1528677421012	Yona		Yunusu			Zonasi	ABBF	Jonasi	MLI							
+1528677421013	Mika		Mise			Mise	ABBF	Mise	MLI							
+1528677421014	Nahoum		Nahɔmu			Nawumu	ABBF	Nahum	MLI							
+1528677421015	Habaqouq		Habakuki			Abakuki	ABBF	Habakuk	MLI							
+1528677421016	Tsephania		Sofoni			Sofoni	ABBF	Sofoni	MLI							
+1528677421017	Haggaï		Hagize			Aze	ABBF	Agize	MLI							
+1528677421018	Zekaria		Jakariya			Zakari	ABBF	Zakari	MLI							
+1528677421019	Malaki		Malaki			Malasi	ABBF	Malaki	MLI							
+1528677421020	Matthieu		Matiyo			Matiyo	ABBF	Matiyu	MLI							
+1528677421021	Marc		Mariki			Mariki	ABBF	Marka	MLI							
+1528677421022	Luc		Luka			Luka	ABBF	Luka	MLI							
+1528677421023	Jean		Zan			Zan	ABBF	Yuhana	MLI							
+1528677421024	Actes		Kɛwaliw			Kɛwaliw	ABBF	Kɛwalew	MLI							
+1528677421025	Romains		Ɔrɔmukaw			Ɔrɔmukaw	ABBF	Romɛkaw	MLI							
+1528677421026	1 Corinthiens		Korɛntikaw fɔlɔ			Korɛntikaw fɔlɔ	ABBF	1 Kɔrɛntekaw	MLI							
+1528677421027	2 Corinthiens		Korɛntikaw filanan			Korɛntikaw filanan	ABBF	2 Kɔrɛntekaw	MLI							
+1528677421028	Galates		Galatikaw			Galatikaw	ABBF	Galasikaw	MLI							
+1528677421029	Éphésiens		Efɛzikaw			Efɛzikaw	ABBF	Efesekaw	MLI							
+1528677421030	Philippiens		Filipikaw			Filipikaw	ABBF	Filipekaw	MLI							
+1528677421031	Colossiens		Kɔlɔsikaw			Kɔlɔsikaw	ABBF	Kolosekaw	MLI							
+1528677421032	1 Thessaloniciens		Tesalonikaw fɔlɔ			Tesalonikaw fɔlɔ	ABBF	1 Tesalonikekaw	MLI							
+1528677421033	2 Thessaloniciens		Tesalonikaw filanan			Tesalonikaw filanan	ABBF	2 Tesalonikekaw	MLI							
+1528677421034	1 Timothée		Timote fɔlɔ			Timote fɔlɔ	ABBF	1 Timote	MLI							
+1528677421035	2 Timothée		Timote filanan			Timote filanan	ABBF	2 Timote	MLI							
+1528677421036	Tite		Titi			Titi	ABBF	Tite	MLI							
+1528677421037	Philémon		Filemɔn			Filemɔn	ABBF	Filemon	MLI							
+1528677421038	Hébreux		Eburuw			Eburuw	ABBF	Heburuw	MLI							
+1528677421039	Jacques		Zaki			Zaki	ABBF	Yakuba	MLI							
+1528677421040	1 Pierre		Piyɛri fɔlɔ			Piyɛri fɔlɔ	ABBF	1 Piɛrɛ	MLI							
+1528677421041	2 Pierre		Piyɛri filanan			Piyɛri filanan	ABBF	2 Piɛrɛ	MLI							
+1528677421042	1 Jean		Zan fɔlɔ			Zan fɔlɔ	ABBF	1 Yuhana	MLI							
+1528677421043	2 Jean		Zan filanan			Zan filanan	ABBF	2 Yuhana	MLI							
+1528677421044	3 Jean		Zan sabanan			Zan sabanan	ABBF	3 Yuhana	MLI							
+1528677421045	Jude		Zude			Zude	ABBF	Jude	MLI							
+1528677421046	Révélation		Yirali			Yirali	ABBF	Jirali	MLI							
 1529244629184	Ambiance chaleureuse	yq	Jɛnɲɔgɔnya teriman													wt
 1529244629185	Ambitieux	yq	Dusutigi					Min te yɛrɛ dan lɔn								wt
 1529244629186	Arche	yq	Waganden													wt
@@ -578,9 +578,10 @@
 1529244629190	Ivrognerie	yq	Dɔrɔtɔya					Dɔlɔtɔya								wt
 1529244629191	Réalité	yq	Ciɲɛ													wt
 1529244629192	Diriger son regard vers	yq	Ɲɛsin fɛn ma													wt
+1529599765311	Vie	jl	Ɲenamaya													
 1529599765312	Vrai disciple	jl	Kalanden sɔbɛ													
 1529599765314	Enseignement véridique	jl	Kalan tigitigi													
-1529599765315	Connaissance	jl	Lɔniya													delete duplicate
+1529599765315	Connaissance	jl	Lɔniya													
 1529599765316	Vrai enseignement	jl	Kalan lakika													
 1529599765317	Vraie foi	jl	Limaniya lakika													
 1529599765318	Bon père	jl	Faa ɲuman													
@@ -589,13 +590,13 @@
 1529599765321	Créateur	jl	Danbaga													
 1529599765322	Monde nouveau	jl	Dugukolo kuru													
 1529599765323	Culte pur de Jéhovah	jl	Jehova ka batoli saniman													
-1529599765324	Amour	jl	Kanuya													duplicate
+1529599765324	L'amour	jl	Kanuya													
 1529599765326	Croyances	jl 1	Lannakow													
 1529599765327	Principes bibliques	jl 1	Bibulu ka sariyaw			Bibulu ka sariyakolow	wt 2018/10									
 1529599765328	Valeurs de Dieu	jl 1	Ala ka fɔtaw													
 1529599765329	Honnête	jl 1	Hɔɔrɔnw													
 1529599765330	Avant	jl 1	Ka kɔrɔ													
-1529599765331	Ordinaire	jl 1	Gwansan													duplicate
+1529599765331	Ordinaire	jl 1	Gwansan													
 1529599765332	Digne, libre	jl 1	Hɔɔrɔn													
 1529599765333	Faiblesse	jl 1	Barikantanya													
 1529599765334	Tout comme	jl 1	I n’a fɔ													
@@ -606,7 +607,7 @@
 1529599765339	Véritité	jl 2	Tiɲɛn													
 1529599765340	Témoin fidèle et véridique	jl 2	Seere tilennin tigitigi													
 1529599765341	Étudiant sérieux	jl 2	Kalenden sɔbɛ													
-1529599765342	Enseignant	jl 3	Karamɔgɔ													duplicate
+1529599765342	Enseignant	jl 3	Karamɔgɔ													
 1529599765343	Menteur	jl 3	Ngalontigɛla													
 1529599765344	Premiers chrétiens	jl 3	Kerencɛn fɔlɔw													
 1529599765345	Idées non chrétiennes	jl 3	Kafiriyakow													
@@ -616,31 +617,32 @@
 1529599765351	Espoir de la résurection	jl 3	Sukununi jigiya													
 1529599765352	Fausse croyance	jl 3	Ngalon lannako													
 1529599765353	Traduction de la bible	jl 4	Bibulu bayɛlɛmani													
-1529599765354	Authentique	jl 4	Tigitigi													duplicate
+1529599765354	Authentique	jl 4	Tigitigi													
 1529599765355	Manuscrits	jl 4	Bibulu bololasɛbɛni													
 1529599765356	Hébreux	jl 4	Heburukan													
 1529599765357	Araméen	jl 4	Aramekan													
 1529599765358	Grecque	jl 4	Grɛkikan													
-1529599765359	Image / Support visuel	jl 4	Jaa			Foto										delete duplicate wt
+1529599765359	Image / Support visuel	jl 4	Jaa			Foto										wt
 1529599765360	Anciens manuscrits de la Bible	jl 4	Bibulu bololasɛbɛni kɔrɔkɔrɔw													
 1529599765361	Pensées de Dieu	jl 4	Ala ka miiriyaw													
 1529599765362	Habitude	jl 4	Delinanko													
 1529599765363	Lieu de culte	jl 5	Alabatoyɔrɔ													
 1529599765364	Réconfort	jl 5	Dususalo													
 1529599765365	Réponse	jl 5	Jaabili													essentiel question
-1529599765367	Vrai ami	jl 5	Teri sɔbɛ													delete duplicate
+1529599765366	Question	jl 5	Ɲinigali			Ɲinigali										
+1529599765367	Vrai ami	jl 5	Teri sɔbɛ													
 1529599765368	Frère	jl 5	Balimacɛ													
 1529599765369	Soeur	jl 5	Balimamuso													
 1529599765370	Enseignant qualifié	jl 5	Karamɔgɔ setigi													
-1529599765371	Force	jl 5	Barika (n.)													
+1529599765371	Force	jl 5	Barika													
 1529599765372	Prochaine réunion	jl 5	Lajɛn nata													
 1529599765373	Acceuillir	jl 5	Bisimila													
 1529599765374	Chaleur (humaine)	jl 5	Dusudiya													
 1529599765375	Se réunir avec nos compagnons chrétiens	jl 6	Ka jɛn n'an kerecɛnɲogow ye													
-1529599765376	Bénéfice	jl 6	Nafa													duplicate
+1529599765376	Bénéfice	jl 6	Nafa													
 1529599765377	Paix	jl 6	Hɛɛrɛ													
-1529599765378	Penser	jl 6	Miiri													duplicate
-1529599765379	Difficulté	jl 6	Gwɛlɛya													delete duplicate
+1529599765378	Penser	jl 6	Miiri													
+1529599765379	Difficulté	jl 6	Gwɛlɛya													
 1529599765380	Surmonter	jl 6	Ka see sɔrɔ													
 1529599765381	Divertissements	jl 6	Ɲɛnagwɛ													
 1529599765382	Fréquentations	jl 6	Jɛnɲɔgɔnya													
@@ -649,7 +651,7 @@
 1529599765385	Bénéfique	jl 7	Nafaman													
 1529599765387	Membres de la congrégation	jl 7	Kafo denw													
 1529599765388	Participer à la discussion	jl 7	Daa don baro la													
-1529599765389	Conseil	jl 7	Ladili													duplicate
+1529599765389	Conseil	jl 7	Ladili													
 1529599765390	Étude biblique de la congrégation	jl 7	Kafo ka Bibulu kalan													
 1529599765391	Lecture	jl 7	Kalangwɛ													
 1529599765392	Démonstration	jl 7	Nɛyiraliw													
@@ -659,6 +661,7 @@
 1529599765396	Couvrir	jl 8	Sutara													
 1529599765397	Provoquer	jl 8	Darabɔ													
 1529599765398	Se montrer; se glorifier	jl 8	Yɛrɛ yira													
+1529599765399	Corps	jl 8	Farikolo													
 1529599765400	Chosir	jl 8	Sugandi													
 1529599765401	Choix	jl 8	Sugandili													
 1529599765402	Simple	jl 8	Dama kɛɲɛnin													
@@ -666,8 +669,8 @@
 1529599765404	Sauveur	jl 8	Kisibaga													
 1529599765405	Louer	jl 8	Tanu			Tando										
 1529599765406	Louange	jl 8	Tanuli													
-1529599765407	Latigɛ	jl 9	Latigɛ													delete duplicate
-1529599765408	Pensée / Esprit	jl 9	Hakili													delete duplicate
+1529599765407	Latigɛ	jl 9	Latigɛ													
+1529599765408	Pensée / Esprit	jl 9	Hakili													
 1529599765409	Radio	jl 9	Arajo													
 1529599765410	Portable	jl 9	Selilɛri													
 1529599765411	Coeur brisé	jl 9	Hakili ɲagami													
@@ -676,33 +679,33 @@
 1529599765414	Pensées clés	jl 9	Hakilinata													
 1529599765415	Sous-titre / Intertitre	jl 9	Cɛtigɛ													wt
 1529599765416	Pensées importantes	jl 9	Miiriya jɔnjɔnw													
-1529599765417	Paragraphe	jl 9	Dakun													duplicate
+1529599765417	Paragraphe	jl 9	Dakun													
 1529599765418	Expressions clés	jl 9	Kumaden jɔnjɔnw													
 1529599765419	Commentaire	jl 9	Lakalita													
 1529599765420	Chaque semaine	jl 9	Lɔgɔkun o lɔgɔkun													
 1529599765421	Culte familiale	jl 10	Gwa kɔnɔ batoli													
 1529599765422	Membres de la famille	jl 10	Denbayamɔgɔw													
-1529599765423	Besoin	jl 10	Makoya													duplicate
+1529599765423	Besoin	jl 10	Makoya													
 1529599765424	Grace à	jl 10	Sababu													
 1529599765425	Approcher de Jéhovah	jl 10	Magwɛrɛ Jehova la													
 1529599765426	Conduite	jl 10	Jogo													
 1529599765427	Acte/comportement	jl 10	Kɛwale													
-1529599765428	Epoux / Mari	jl 10	Furucɛ													duplicate
+1529599765428	Mari	jl 10	Furucɛ													
 1529599765429	Parents	jl 10	Bangebagaw													
 1529599765430	Enfants	jl 10	Deenw													
 1529599765431	L'age	jl 10	Sanda													
-1529599765432	École	jl 10	Lakɔli													delete duplicate
-1529599765433	Cantique / Mélodie / Chanson / Chant	jl 10	Dɔnkili													duplicate
+1529599765432	École	jl 10	Lakɔli													
+1529599765433	Cantique / Mélodie / Chanson / Chant	jl 10	Dɔnkili													
 1529599765434	Boisson	jl 10	Minnifɛn													
 1529599765435	Nourriture	jl 10	Dumunifɛn													
 1529599765436	Moment propice	jl 10	Wagati kɛrɛnkɛrɛnnin													
-1529599765437	Bénir	jl 10	Duga	vi												v wt
+1529599765437	Bénir	jl 10	Duga													v wt
 1529599765439	Assemblée	jl 11	Lajɛnba													
 1529599765440	Empressement	jl 11	Kɔrɔtɔ													
 1529599765441	Chaque année	jl 11	Saan o saan													
 1529599765442	Fraternité	jl 11	Balimaya													
 1529599765443	Bienfait de l'amité	jl 11	Teriya diya													
-1529599765444	Monde	jl 11	Duniɲa			Diɲɛ										duplicate wt
+1529599765444	Monde	jl 11	Duniɲa			Diɲɛ										wt
 1529599765445	Progresser spirituellement	jl 11	Ka taga ɲɛ Alako ta fan fɛ													
 1529599765446	Grande chose	jl 11	Fɛɛnba													
 1529599765447	Discours intéressants	jl 11	Kalan diimanw													
@@ -714,7 +717,7 @@
 1529599765454	Royaume des cieux	jl 12	Sankolo masaya													
 1529599765455	Toutes les nations	jl 12	Siyaw bɛɛ													
 1529599765456	Dans le monde entier	jl 12	Duniɲa kuru bɛɛ kɔnɔ													
-1529599765457	Exemple	jl 12	Ɲɛyirali													delete duplicate
+1529599765457	Exemple	jl 12	Ɲɛyirali													
 1529599765458	Rendre visite à quelqu'un	jl 12	Ka taga bɔ mɔgɔw ye													
 1529599765459	Remplir la mission	jl 12	Cii dafa													
 1529599765460	En tout lieux	jl 12	Yɔrɔ o yɔrɔ													
@@ -723,11 +726,13 @@
 1529599765463	Puits	jl 12	Kɔlɔnda													
 1529599765464	Commerces	jl 12	Jagokɛyɔrɔw													
 1529599765465	Jardin	jl 12	Zaradɛn													
+1529599765466	Téléphone	jl 12	Telefɔni													
 1529599765467	Voisins	jl 12	Sigiɲɔgɔnw													
 1529599765468	Collègue de travail	jl 12	Baarakɛɲɔgɔn													
 1529599765469	Camarades de classe	jl 12	Lakɔli filankuruw													
 1529599765470	Gens de la maison	jl 12	Somɔgɔw													
 1529599765471	Bonne nouvelle du Royaume de Dieu	jl 12	Ala ka Masaya kibaro diiman													
+1529599765472	Avenir	jl 12	Siniɲasigi													
 1529599765473	Message d'espoir	jl 12	Jigiya kuma													
 1529599765474	Route de la vie	jl 13	Kisili sira													
 1529599765475	Entreprendre le service de pionnier	jl 13	Ka seen don piyɔniye baara la													
@@ -735,14 +740,14 @@
 1529599765478	D'une manière simple	jl 13	Cogo nɔgɔman													
 1529599765479	Désespoir	jl 13	Jigi tigɛ													
 1529599765480	Service missionnaire	jl 14	Misɔndenya barra													
-1529599765481	Pays	jl 14	Jamana													delete duplicate
+1529599765481	Pays	jl 14	Jamana													
 1529599765482	Suivre les traces de Jésus	jl 14	Ka tagama Yezu seen nɔɔ na													
 1529599765483	Pécheur	jl 14	Jurumutɔ													
 1529599765484	Sacrifice de soi	jl 14	Yɛrɛ saraka													
 1529599765485	Coutumes	jl 14	Landaw													
 1529599765486	Climat	jl 14	Wagati cogoya													
 1529599765487	Repas	jl 14	Dumuni													
-1529599765488	Langue (parler)	jl 14	Kaan													delete duplicate
+1529599765488	Langue (parler)	jl 14	Kaan													
 1529599765489	Village	jl 14	Dugudennin													
 1529599765490	Engin	jl 14	Bolifɛn													
 1529599765491	Bonne formation	jl 14	Fɔrɔmasɔn ɲuman													
@@ -757,15 +762,15 @@
 1529599765500	Immuable	jl 15	Diyagoya													
 1529599765501	Approbation	jl 15	Diyanye													
 1529599765502	Bonne intention	jl 15	Ɲaniya ɲuman													
-1529599765503	Veiller sur	jl 15	Janto													delete duplicate
+1529599765503	Veiller sur	jl 15	Janto													
 1529599765504	Protéger	jl 15	Tanga			Latanga	wt 1810									
 1529599765505	Berger	jl 15	Sagadɛndɛla													
 1529599765506	Fidèle	jl 15	Kantigi													marked
 1529599765507	Chez nous	jl 15	An ka soo													
 1529599765508	Gagne pain	jl 15	Baloɲini barra													
-1529599765509	Famille	jl 15	Denbaya													delete duplicate
+1529599765509	Famille	jl 15	Denbaya													
 1529599765510	Jeune	jl 16	Kanbele													
-1529599765511	Adulte	jl 16	Baliku													delete duplicate
+1529599765511	Adulte	jl 16	Baliku													
 1529599765512	Travail manuel	jl 16	Bolo baara													
 1529599765513	Souhaiter la bienvenue	jl 16	Ka mɔgɔw bisimila													
 1529599765514	Sonorisation	jl 16	Sono													
@@ -779,12 +784,13 @@
 1529599765522	S'inquiéter	jl 17	Hami													
 1529599765523	Centaines de kilomètres	jl 17	Kilomɛtɛrɛ kɛmɛ-kɛmɛ													
 1529599765524	Personnes âgées	jl 17	Mɔgɔkɔrɔbaw													
+1529599765525	Accompagner	jl 17	Bilasira													
 1529599765526	Études bibliques	jl 17	Bibulukalanw													
 1529599765527	Réunions et assemblées	jl 17	Lajɛnw ni lajɛnbaw													
 1529599765528	Progrès	jl 17	Ɲɛtaga													
 1529599765529	Populaire (notoriété)	jl 17	Ka sanga sɔrɔ													
 1529599765530	Les nouveaux	jl 17	Mɔgɔ kuraw													
-1529599765531	Fidélité	jl 17	Kantigiya													duplicate
+1529599765531	Fidélité	jl 17	Kantigiya													
 1529599765533	Catastrophes	jl 18	Balawo													
 1529599765534	Si les problèmes s'abattent sur eux	jl 18	Ni balawo cunna u kan													
 1529599765536	Une partie du monde	jl 18	Duniɲa faan dɔ													
@@ -795,6 +801,7 @@
 1529599765541	Comité	jl 18	Kɔmite													
 1529599765542	Établir	jl 18	Ka sigi sen kan													
 1529599765543	Transport	jl 18	Taransipɔri													
+1529599765544	Réparer	jl 18	Lalaga													
 1529599765545	Se dépêcher	jl 18	Teliya													
 1529599765546	Le Père de toute consolation	jl 18	Dusu saaloli bɛɛ tigi													
 1529599765547	Transmettre/envoyer	jl 18	Lase													
@@ -816,9 +823,9 @@
 1529599765564	Lettre	jl 20	Lɛtɛrɛw													
 1529599765565	Autres moyens	jl 20	Fɛɛrɛ wɛrɛw													wt
 1529599765566	Peuple de Dieu	jl 20	Ala ka jama													
-1529599765567	Surveiller	jl 20	Kɔrɔsi													duplicate
+1529599765567	Surveiller	jl 20	Kɔrɔsi													
 1529599765568	Confier	jl 20	Kalifa													
-1529599765569	Guide	jl 20	Ɲɛminɛ (n)	n												wt
+1529599765569	Guide	jl 20	Ɲɛminɛ													wt
 1529599765570	Lieu de travail	jl 21	Baarakɛbonw													
 1529599765571	Siège des Témoins de Jéhovah	jl 21	Jehovah Seerew ka sigiyɔrɔsoba													
 1529599765572	Esprit de sacrifice	jl 21	Yɛrɛsaraka hakili													
@@ -853,21 +860,22 @@
 1529599765604	Prendre soin de	jl 24	Ladon													
 1529599765605	Faire des offrandes	jl 24	Ka nili kɛ													
 1529599765606	Personne riche	jl 24	Nafolotigiw													
-1529599765607	Veuve	jl 24	Firiyamuso													duplicate
+1529599765607	Veuve	jl 24	Firiyamuso													
 1529599765608	Démuni	jl 24	Dɛsɛbagatɔ													
 1529599765609	Obéir à Jéhovah	jl 24	Ka jehova bonya													
-1529599765610	Motiver	jl 24	Lasun													delete duplicate
+1529599765610	Motiver	jl 24	Lasun													
 1529599765611	Vrai culte	jl 25	Tijɛn batoli													
 1529599765612	Dans le territoire	jl 25	Kiin kɔnɔ													
 1529599765613	Années passées	jl 25	Saan tɛmɛninw													
 1529599765614	Nombre de congrégations	jl 25	Kafow hakɛ													
-1529599765615	Construction	jl 25	Lɔli													duplicate
+1529599765615	Construction	jl 25	Lɔli													
 1529599765617	Renouveller	jl 25	Lakuraya													
 1529599765618	Renouvellement	jl 25	Lakurayali													
 1529599765619	Bibliothèque	jl 27	Bibilotɛki													
 1529599765620	Lumière	jl 28	Yeelen													
+1529599765621	Vendre	jl 28	Fɛɛrɛ													vt
 1529599765622	Histoires bibliques	jl 28	Bibulu ka maana													
-1529599765623	Effort / Encouragement	jl 28 jl 10	Jijali													delete duplicate wt
+1529599765623	Effort / Encouragement	jl 28 jl 10	Jijali													wt
 1538912286696	Principes bibliques	wt 2018/10	Bibulu ka sariyakolow													
 -15518782417	École de guiléad	bk	Gilead lakɔli													wt
 -15518899097	École pour évangélisateurs du royaume	bk	Masaya waajulikɛlaw ka lakoli													wt
@@ -876,6 +884,7 @@
 -18714818564	Proclamateur	jl 13	Weleweledala			Wajulikɛla										wt
 -18949454284	Présentation	bk	Yiracogo													wt
 -18949479733	Culte	bk	Batoli													wt
+-18949490395	Serviteurs	jl 2	Sagokɛlaw													
 19411554786	Sacrifice rédempteur	bk	Kunmabɔ  saraka													wt
 19411687406	Juru sara	bk	Propitiation													wt
 19411739780	Kisi	bk	Sauver													wt
@@ -944,7 +953,7 @@
 27783419466	Maltraitence des animaux		Bɛgɛnw nintoro													wt
 27783419467	Règlement des différents		Bɛnbaliyaw ɲɛnabɔko													wt
 27783419468	À notre époque / De nos jours	jl 28	Bi tilew la													wt
-27783419470	Stocker		Bila			Bilanin										duplicate wt
+27783419470	Stocker		Bila			Bilanin										wt
 27783419471	Image (sens figuré)/Représentation		Bisigi													wt
 27783419472	Idôlatrie		Boli batoli													wt
 27783419473	Don matériel		Bololafen nili													wt
@@ -960,7 +969,7 @@
 27783419486	Messager		Ciraden													wt
 27783419487	De façon méthodique (ordonnée) / Logique		Cogo tilennen na													wt
 27783419488	Frapper à une porte		Daa kɔkɔ													wt
-27783419489	Démarrer (conversation)		Dabɔ													duplicate wt
+27783419489	Démarrer (conversation)		Dabɔ													wt
 27783419490	Inspirée de Dieu	yq	Dafiɲɛ fɛ (Ala...)													wt
 27783419491	Quelques paragraphes		Dakun damanin dɔw													wt
 27783419492	Nombre de paragraphes		Dakun hakɛ													wt
@@ -972,13 +981,14 @@
 27783419499	Volonté / Plaisir		Diyanako													wt
 27783419502	Recueil de cantiques		Donkili gafe													wt
 27783419503	Réduire, Manquer de respect à		Dɔgɔ													wt
-27783419505	Bienfait		Duga (n.)	n		Sara		Nafa								wt
+27783419505	Bienfait		Duga			Sara		Nafa								wt
 27783419506	Bénis		Dugaden			Dubaden										wt
 27783419507	Chemise, Vêtement, Tunique		Duloki			Dereke		Fani								wt
 27783419509	Domination oppresive	yq	Fanga marali			Ka marali kɛ ni fanga ye										wt
 27783419510	Pharaon		Faharuna													wt
 27783419511	Force irrésistible		Fanga barikama													wt
-27783419512	Tenue vestimentaire	jl 8	Sawura			Fani										duplicate wt
+27783419512	Tenue vestimentaire	jl 8	Sawura			Fani										wt
+27783419513	Méthode / moyen		Fɛɛrɛ													wt
 27783419514	Faiblesse (défaut)		Finyɛ													wt
 27783419515	Fête populaire		Foroba fɛtilon													wt
 27783419516	Discours public / Réunion publique	jl 7	Forobakalan													wt
@@ -999,7 +1009,7 @@
 27783419532	Mauvaise compagnie		Jɛnɲɔgɔn jugu													wt
 27783419533	Idôle		Joo			Boli		Batofɛn								wt
 27783419534	Pire ennemi		Juguba													wt
-27783419535	Se soucier		Jɔɔrɔ													delete duplicate wt
+27783419535	Se soucier		Jɔɔrɔ													wt
 27783419536	Laisser la Parole de Dieu les pousser à l'action	yq	K'a to Ala ka Kuma ka u lasun													wt
 27783419537	Faire usage de sa raison		K'a yɛrɛ hakili jagabo													wt
 27783419538	Compter sur Jéhovah		K'an bolo la Jehova kan													wt
@@ -1053,6 +1063,7 @@
 27783419590	Montrer sa reconnaissance		Ka walenyumanlon yira													wt
 27783419591	Paganisme / Païenne	jl	Kafiriya													wt
 27783419592	Formulaire		Kafolisɛbɛ													wt
+27783419593	Discours / Enseignement	jl 3	Kalan													wt
 27783419594	Leçon importante		Kalan nafaman													wt
 27783419595	Exposé constructif		Kalan ɲuman													wt
 27783419596	Disciple		Kalanden													wt
@@ -1062,7 +1073,7 @@
 27783419600	Juger avec justice		Kiri tigɛ cogo tilennin na													wt
 27783419601	Jugement (lieu du)		Kiritigɛyɔrɔ													wt
 27783419602	Croyance	yq	Lannako													wt
-27783419603	Discipline / Éducation / Obéissance		Kololi													duplicate wt
+27783419603	Obéissance		Kololi													wt
 27783419604	Activités saines		Koow kɛcogo saniman													wt
 27783419605	Malgré l'opposition		Koroboli bɛɛ n'a ta													wt
 27783419606	Mer Rouge		Kɔgɔji Wulen													wt
@@ -1073,7 +1084,7 @@
 27783419611	Modulation		Kumakan yɛlɛma-yɛlɛma													wt
 27783419612	Lépreux		Kunatɔ													
 27783419613	Idée annexe		Kunnafoni do													wt
-27783419614	Génération		Kuru			Filankuru		Wagatikelenmɔgɔw								duplicate wt
+27783419614	Génération		Kuru			Filankuru		Wagatikelenmɔgɔw								wt
 27783419615	Sens (à la vie)		Kuun													wt
 27783419616	Conducteur à la Tour de Garde		La Tour de Garde kalan ɲɛminɛbaga													wt
 27783419617	Conseiller adjoint (EMT)		Ladili dibaga filanan			Ladili dibaga kankɔrɔsigi										wt
@@ -1101,13 +1112,13 @@
 27783419641	Personne d'une origine différente		Mɔgɔ min bɔyɔrɔ tɛ kelen ye													wt
 27783419642	Protecteur		mɔgɔ tangabaga													wt
 27783419643	Oints (chrétiens)		Mɔnlenw													wt
-27783419644	Supporter / endurer	bk	Muɲuli kɛ	v	A ka muɲuli kɛ											v vt wt
+27783419644	Supporter / endurer	bk	Muɲuli		A ka muɲuli kɛ											v vt wt
 27783419645	Quand c'est approprié		N'a bɛnnen be													wt
 27783419646	Quand vous reviendrez		N'an segira ka na													wt
 27783419647	Quand tu seras grand		N'i kɔrɔbayara													wt
 27783419648	Matérialiste		Nafolo kanuya b'a la													wt
 27783419649	Trésor inestimable		Nafolo nafamanba													wt
-27783419650	Affaiblir / Empêcher de progresser		Nagasi													duplicate wt
+27783419650	Empêcher de progresser		Nagasi													wt
 27783419651	Je ne m'intéresse pas aux Témoins de Jéhovah	yq	Ne mako tɛ Jehova Seerew la													wt
 27783419652	Privilège		Nɛɛma													wt
 27783419653	Faux dieux	jl 2	Ngalon alaw													wt
@@ -1161,7 +1172,7 @@
 27783419704	Proclamateur expérimenté		Weleweledala kolɔnbaga													wt
 27783419705	Vous êtes-vous jamais demandé		Yala i delila k'i yɛrɛ ɲiniga ni…													wt
 27783419706	Êtes-vous prêts à faire votre choix ?		Yala i labɛnnen be k'o latigɛ wa ?													wt
-27783419707	Changer / Traduire		Yɛlɛma													duplicate wt
+27783419707	Changer / Traduire		Yɛlɛma													wt
 27783419709	Présence de Jésus		Yɛsu be yan wagati													wt
 27783419710	Méthode souple		Yiracogo magaman			Yiracogo nogoman										wt
 27783419711	Statue en bois		Yirimɔgɔnin													wt
@@ -1174,24 +1185,25 @@
 3656197437	Maitrise de soi	bk	Yɛrɛminɛli													wt
 3656657915	Communications	jl 27	Kunnafoni													wt
 3656948736	De maison en maison	jl 12	Soo ni soo													wt
-3755525512	Vers		Tumu													animal duplicate
+3755525512	Imiter / Refléter	jl 17	Ladegi			Ladegi		Ladege								marked v wt
+3827656569	Entraîner		Degi													marked wt
 3830892769	Tour de garde	bk	Kɔrɔsili sangaso													wt
-3846098296	Canari	yq	Daga													duplicate essentiel
+3846098296	Résumé (raccourci)		Lasurunyanin													marked wt
 40322554868	Leçon	mwb	Kalensen													
 403520813	Introduction	bk	Dadon kumaw													wt
 -40927278615	Bible	bk	Bibulu													wt
--4123020142	Punir		Ɲangi													
-43139702982	Tout puissant	wt	Sebagayabɛɛtigi													
+-4123020142	Punir		Ɲangi													unbouake v wt
 -44178618673	Lecture de la bible	bk	Bibulu kalangwɛ													wt
 -4434272399	Révision	jl 9	Segikanni													wt
 -4632780310	Waa kɛmɛ ni bi segi ni looru	bk	185 000													wt
 4894740815	Messie	bk	Masiya													wt
 4894757744	Royaume	bk	Masaya													wt
 4896872164	Interlocuteur	bk	Lamɛnbaga			Lamɛnnikɛla										wt
+-52670184468	Monde / terre	tract	Duniɲa			Diɲe	ABBF									
 -53017499366	Envoyé de dieu	bk	Ala ka ciden													wt
 -53017833927	Commandement	jl 16	Cii													wt
 -53017885414	Gloire	bk	Nɔɔrɔ													wt
--53018127491	Chapitre	jl 9	Kalansen			Tilan		Tilanyɔrɔba	MLI							wt
+-53018127491	Chapitre	jl 9	Kalansen			Tilan		Tilanyɔrɔ								wt
 -53018156709	Esprit saint	jl 19	Hakili senu													wt
 -53018186881	Miracle	bk	Kabako													wt
 -53018428141	Sabbat	bk	Lafiɲɛlon													wt
@@ -1212,14 +1224,14 @@
 -54217186340	Famille du béthel	jl 21	Betɛli ka denbayamɔgɔw													wt
 -54217186341	Béthel	jl 21	Bɛtɛli													wt
 -5583657714	Démon	bk	Jina													wt
+-55856535110	Sacrifier	bk	Saraka		N ka wari saraka											v vt wt
 -55856535126	Ressussiter	bk	Lakunun													wt
 -55856535130	Éternellement	bk	Kudayi													wt
 -55856535132	Originel		Kɔrɔba													marked wt
 -55856535180	Paradis	jl	Alijɛnɛ			Alijɛnɛ										wt
-64850686024	Ministres a plein temps	rc	Kudayi cidenya baarakɛlaw													
 -7052097941	Israëlites	bk	Israɛldenw													wt
 -7053266987	185000	bk	Waa kɛmɛ ni bi seegi ni looru													wt
 -7054004510	Représentant de dieu	bk	Ala ka lasigidenw													wt
 -7054053843	Expliquer	jl 19	Ɲɛfɔ													wt
--7054111008	Guider	bk	Ɲɛminɛ (v)	v												v wt
+-7054111008	Guider	bk	Ɲɛminɛ													v wt
 -8263134106	Dessein	bk	Sago													wt

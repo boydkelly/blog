@@ -618,7 +618,7 @@
 1529599765353	Traduction de la bible	jl 4	Bibulu bayɛlɛmani													
 1529599765354	Authentique	jl 4	Tigitigi													duplicate
 1529599765355	Manuscrits	jl 4	Bibulu bololasɛbɛni													
-1529599765356	Hébreux	jl 4	Heburukan													
+1529599765356	Hébreux&nbsp;	jl 4	Heburukan	Langue												
 1529599765357	Araméen	jl 4	Aramekan													
 1529599765358	Grecque	jl 4	Grɛkikan													
 1529599765359	Image / Support visuel	jl 4	Jaa			Foto										delete duplicate wt
@@ -627,7 +627,6 @@
 1529599765362	Habitude	jl 4	Delinanko													
 1529599765363	Lieu de culte	jl 5	Alabatoyɔrɔ													
 1529599765364	Réconfort	jl 5	Dususalo													
-1529599765365	Réponse	jl 5	Jaabili													essentiel question
 1529599765367	Vrai ami	jl 5	Teri sɔbɛ													delete duplicate
 1529599765368	Frère	jl 5	Balimacɛ													
 1529599765369	Soeur	jl 5	Balimamuso													
@@ -735,7 +734,6 @@
 1529599765478	D'une manière simple	jl 13	Cogo nɔgɔman													
 1529599765479	Désespoir	jl 13	Jigi tigɛ													
 1529599765480	Service missionnaire	jl 14	Misɔndenya barra													
-1529599765481	Pays	jl 14	Jamana													delete duplicate
 1529599765482	Suivre les traces de Jésus	jl 14	Ka tagama Yezu seen nɔɔ na													
 1529599765483	Pécheur	jl 14	Jurumutɔ													
 1529599765484	Sacrifice de soi	jl 14	Yɛrɛ saraka													
@@ -1173,13 +1171,11 @@
 3656197437	Maitrise de soi	bk	Yɛrɛminɛli													wt
 3656657915	Communications	jl 27	Kunnafoni													wt
 3656948736	De maison en maison	jl 12	Soo ni soo													wt
-3755525512	Vers		Tumu													animal duplicate
 3830892769	Tour de garde	bk	Kɔrɔsili sangaso													wt
-3846098296	Canari	yq	Daga													duplicate essentiel
+3846098296	Canari	yq	Daga													duplicate essentiel duplicate essentiel
 40322554868	Leçon	mwb	Kalensen													
 403520813	Introduction	bk	Dadon kumaw													wt
 -40927278615	Bible	bk	Bibulu													wt
--4123020142	Punir		Ɲangi													
 43139702982	Tout puissant	wt	Sebagayabɛɛtigi													
 -44178618673	Lecture de la bible	bk	Bibulu kalangwɛ													wt
 -4434272399	Révision	jl 9	Segikanni													wt

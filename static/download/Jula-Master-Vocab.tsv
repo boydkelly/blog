@@ -273,14 +273,14 @@
 -20534178906	Abattoir	bk	Misifaga yɔrɔ													
 21895485548	Allons	bk	An ya taga.	CIV				An ka taga.	MLI							phrase
 21895511963	Arretes-toi	bk	Ile lɔ													phrase
-22159347319	Avant de / que	yq	Kasɔrɔ ka			Ka sɔrɔ										marked
-22159392751	Sinon	yq	N'o tɛ													
+22159347319	Avant de / que	yq	Kasɔrɔ ka		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.	Ka sɔrɔ										marked
+22159392751	Sinon	yq	N'o tɛ		Nan jonan n’o tɛ n bɛna taga!											
 22159414639	Mais	bk	Nka			nga										
 22159427790	Pour cela	bk	O kosɔn													
-22159483862	Avant que	kodi	Sani	need ex												marked
+22159483862	Avant que	kodi	Sani		Sani i facɛ ye nan, i ka kan ka yɔrɔ labɛn.											marked
 22161653911	Ce n'est pas ça / lui	bk	Ale tɛ													phrase
 22488632402	C'est l'homme qui fait l'homme	bk	Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye													phrase
-24580719515	Depuis	bk	Kabini													
+24580719515	Depuis	bk	Kabini		Kabini a nan na a ma a bamuso ye.											
 24580780075	Si	yq	Ni...			Mana										bambara unbouake
 2476966392	Criquet / Sauterelle	bk	Tɔɔn			Ngreni	bke			Jolon						animal marked
 2476995342	Griot	bk	Jeli													
@@ -734,7 +734,7 @@
 4363400890	Que dieu prete vie à cet enfant!	bk	Ala ka den balo.													phrase
 4363400891	Beaucoup de gens sont morts, mais Moussa, lui, a survécu.	bk	Mɔgɔw caman sala, Musa kɔni balola.													phrase
 4363400892	Il est en vie.	bk	A be balo la.													phrase
--43834129304	À cause de  / En raison de / Gâce à	bk	Kosɔn			Sababu fɛ										marked
+-43834129304	À cause de  / En raison de / Gâce à	bk	Kosɔn		Amidu jogo ma nyi, o kosɔn teri tɛ a fɛ.	Sababu fɛ										marked
 -44178557456	Passer / dépasser	bk	Tɛmɛ													duplicate v
 -4431224777	Même	kodi	Yɛrɛ													essentiel
 -44437459979	S'assoir	bk	Sigi													v
@@ -907,7 +907,7 @@
 -54727486070	Vraiment	yq	Tiɲɛ tiɲɛ	CIV		Tiɲɛn na		Tigitigi								corp essentiel
 -54727515367	Pousser  / motiver	bk	Lasun													duplicate leech v
 -54727531939	Coeur	bk	Dusu			Dusukun		Sɔn, Dusu	bm							corp
--54727546144	Parce que	yq	Sabu							Katuguni						marked
+-54727546144	Parce que		Sabu		Siriki tεna taga baarakɛyɔrɔ la bi sabu a ma kɛnɛ.					Katuguni						marked
 -5481833799	Marcher	yq	Taagama	CIV		Taama										v
 -55000189426	Samedi	yq	Samedilɔn / Sibirilɔn	CIV		Samedilɔn	BFA	Sibiridɔn / Sibiri	MLI							calendrier
 -55000189427	Vendredi	yq	Jumalɔn / Juma	CIV		Jumanlɔn	BFA	Jumandɔn / Juman	MLI							calendrier
@@ -1016,6 +1016,38 @@
 -6758381958	J'ai une chemise	bk	Dereke be ne fɛ													phrase
 -6758788631	Le mal guéri le mal	bk	Dimi lebɛ dimi sa													phrase
 67967143934	Diner	kamagate	terela													
+68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la													
+68319737253	Revenir		Segi	Ala y'a ɲuma segi	A segira											vi
+68382609274	Ali ka jan	cours	Ali est grand													phrase
+68382680537	Le frère de Moussa est plus gros que moi		Musa dɔgɔcɛ ka bon ni n ye													phrase
+68382716346	Je ne suis pas le plus court de tous		N ma surun ni bɛɛ ye													phrase
+68382749694	S’il vous plaît, où se trouve le marché ?		hakɛto, lɔgɔfɛ bɛ min ?													phrase
+68382880434	moi, mon nom est Diarra		Ne tɔgɔ ye Diarra													phrase
+68382926572	Qu’es-tu venue faire à Abidjan ?		I nan na mun kɛ abijan ?													phrase
+68383189256	le nom du professeur de Madou est Karim		Madu ya lakɔlifa tɔgɔ ye karim													
+68383210135	l’ami de son petit frère est élève		a dɔgɔcɛ tericɛ ye lakɔliden ye													
+68383249877	Moussa est le fils de Madou		Musa ye Madu dencɛ ye													
+68383266906	Ali est une bonne personne		Ali ye mɔgɔ nyuman ye													
+68383285942	Combien ya t-il d’œufs dans la corbeille ?		sisɛfan den joli bɛ segi kɔnɔ?													
+68383345081	Je ne sais pas compter jusqu’à dix		n tɛ se ka jatebɔ fɔ ka se tan													phrase
+68383402573	Hier, j’ai acheté une chaussure.		kunu n ka samara san.													phrase
+68383536529	Madou a porté une chemise.		Madu ka dereke do.													phrase
+68383551473	Penda a salué son ami.		Penda ka a tericɛ fo.													phrase
+68383566545	Le professeur a acheté une voiture.		lakɔlifa ka mobili san.													phrase
+68383581521	Ma femme a eu du travail.		n muso ka baara sɔrɔ.													phrase
+68383600492	parle fort		i bɛ i kan labɔ													phrase
+68383905287	On doit respecter les parents		Mɔgɔ ka kan ka à bangebagaw bonya													phrase
+68384036972	Laves-toi les mains avant de manger.		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.													phrase
+68384052710	Siriki n’ira pas au travail aujourd'hui parce qu’il ne se porte pas bien.		Siriki tεna taga baarakɛyɔrɔ la bi sabu a ma kɛnɛ.													phrase
+68384079903	Amidou a un mauvais comportement pour cela il n’a pas d’amis.		Amidu jogo ma nyi, o kosɔn teri tɛ a fɛ.													phrase
+68384094188	Je veux acheter une voiture mais je n’ai pas d’argent.		N b’a fɛ ka mobili san nka wari tɛ n bolo.													phrase
+68384116357	Travaille bien sinon je ne te payerai pas.		baara kε kanyan n’o tε n tεna i sara													phrase
+68384142440	Allons vite avant qu’il ne pleuve.		An ye taga jonan sani sanji bε ben.													phrase
+68384172951	Si tu creuses un trou tu auras de l’eau.		i mana dinga sogi i bε ji sɔrɔ.													phrase
+68384189709	Si tu ne veux pas faire la prison, il faut éviter le vol.		N i t’a fε ka kaso kε, I ma kan ka sonyali kε.													phrase
+68384216458	Depuis le décès de notre père, nous n’avons pas eu la tranquillité.		kabini an facε sala, annugu ma nyasuma.													phrase
+68384336274	Voler		sonyali kε		N i t’a fε ka kaso kε, I ma kan ka sonyali kε.											
+68384730115	Viens vite ! sinon je vais partir.		Nan jonan n’o tɛ n bɛna taga!													
 -6966007741	Jai un bic.	bk	Biki be ne fɛ.													phrase
 -7051617887	Joie	yq	Ninsɔndiya			Nyagali		Nagali								v
 -7056601206	J'ai une montre	bk	Montɔrɔ be ne fɛ													

@@ -63,7 +63,6 @@
 1527665647578	Se déverser	yq	Bɔn													wt
 1527665647579	Boîte	yq	Buwati			Gongo										wt
 1527665647580	Apôtre	yq	Ciden													wt
-1527665647581	École de formation ministérielle	yq	Cidenyabaara degeli lakɔli													wt
 1527665647584	Exposé n°1	yq	Cii folo kalan													wt
 1527665647585	Dix commandements	yq	Cikan Tan													wt
 1527665647586	Message impopulaire	yq	Cira min tun man di mɔgɔw ye													wt
@@ -81,7 +80,7 @@
 1527665647603	Secte	yq	Diinan bolo fara													wt
 1527665647604	Collège d'anciens	yq	Diinan mɔgɔkorow jɛnkulu													wt
 1527665647606	Coordinateur du collège des anciens	yq	Diinan mɔgɔkɔrɔw jɛnkulu ka koow labɛnbaga													wt
-1527665647608	Surveillant de ville	yq	Dugu kɔrɔsibaga													wt
+1527665647608	Responsable de ville	yq	Dugu kɔrɔsibaga													wt
 1527665647609	Sur la terre entière	yq	Dugukolo kuru bɛɛ kan			Dugukolo faan bɛɛ la										wt
 1527665647610	Ruine de la terre	yq	Dugukolo tinyɛni													wt
 1527665647611	Esprit du monde	yq	Duninya ka miiriya													wt
@@ -203,7 +202,7 @@
 1527665647766	Réserver du temps	yq	Ka wagati latigɛ													wt
 1527665647771	Besoin de la congrégation	yq	Kafo ka mako													wt
 1527665647772	Membre de la congrégation	jl 15	Kafoden													wt
-1527665647774	Surveillant de circonscription	jl 17	Kafokulu kɔrɔsibaga			Kafokulu kɔrɔsibaga										wt
+1527665647774	Responsable de circonscription	jl 17	Kafokulu kɔrɔsibaga			Kafokulu kɔrɔsibaga										wt
 1527665647775	Comment remplir le formulaire	yq	Kafolisɛbɛ dafacogo													wt
 1527665647776	Immoralité	yq	Kakalaya													wt
 1527665647777	Après chaque exposé	yq	Kalan kelen-kelen banni kɔ													wt
@@ -235,7 +234,7 @@
 1527665647807	Christ	yq	Kirista													wt
 1527665647809	Étude de livre	yq	Kitabukalan jɛnkulu													wt
 1527665647810	Séparer de babylone la grande	yq	Ko an faranna ka bo babilonɛba la													wt
-1527665647811	Surveillant de district	yq	Kobe kɔrɔsigibaga													wt
+1527665647811	Responsable de district	yq	Kobe kɔrɔsigibaga													wt
 1527665647812	Compte tenu du temps imparti	yq	Komi wagati daan tigɛra													wt
 1527665647813	Vérifions les choses les plus importantes	yq	Koo minw kɔrɔtanin lo ka tɛmɛ tɔɔw kan, aw k'olu faranfasi													wt
 1527665647814	Système de choses	yq	Koo sigi cogoya			Diɲɛ										wt
@@ -256,7 +255,7 @@
 1527665647845	Lieux de culte	yq	Lajɛn kɛyɔrɔw													wt
 1527665647846	Fronde / Lance-pierre	yq	Bɛrɛbonna													wt
 1527665647847	Salle d'assemblées	yq	Lajɛnba boonw													wt
-1527665647848	Surveillant de l'école	yq	Lakoli kɔrɔsibaga													wt
+1527665647848	Responsable de l'école	yq	Lakoli kɔrɔsibaga													wt
 1527665647851	Compagnon de chambre	yq	Lamɔgɔ													wt
 1527665647852	Foi (sans)	yq	Lanabaliya													wt
 1527665647854	Foi solide	yq	Lanaya barikaman													wt
@@ -351,8 +350,7 @@
 1527665647979	Des amis peu recommandables	yq	Teri jugu sifaw													wt
 1527665647980	Premier contact	yq	Tɛmɛko fɔlɔ													wt
 1527665647981	Assemblée de circonscription	yq	Tile fila lajɛnba													wt
-1527665647982	Assemblée spéciale d'un jour	yq	Tile kelen lajɛnba													wt
-1527665647983	Assemblée de district	yq	Tile saba lajɛnba													wt
+1527665647983	Assemblée régional	yq	Tile saba lajɛnba													wt
 1527665647984	Texte du jour	yq	Tilera kalan			Lon o lon ka miiriya										wt
 1527665647988	Bureau de la filiale	jl 22	Tɔnbolo biro													wt
 1527665647990	Alliance	jl	Layidu													wt
@@ -368,7 +366,7 @@
 1527665648002	Devoir sacré	yq	Waajibiko senuman													wt
 1527665648004	Quand nous prêchons	yq	Waajuli kɛto													wt
 1527665648005	Ministère (prédication)	yq	Waajulibaara													wt
-1527665648006	Surveillant au service	yq	Waajulibaara kɔrɔsibaga													wt
+1527665648006	Responsable au service	yq	Waajulibaara kɔrɔsibaga													wt
 1527665648007	Année de service	yq	Waajulibaara saan													wt
 1527665648008	Évangélisateur zélé	yq	Waajulikɛla kisɛman													wt
 1527665648009	Le numéro de carte de territoire	yq	Waajulikɛyɔrɔ karti ka nimɔrɔ													wt
@@ -578,6 +576,7 @@
 1529244629190	Ivrognerie	yq	Dɔrɔtɔya					Dɔlɔtɔya								wt
 1529244629191	Réalité	yq	Ciɲɛ													wt
 1529244629192	Diriger son regard vers	yq	Ɲɛsin fɛn ma													wt
+1529599765311	Vie	jl	Ɲenamaya													
 1529599765312	Vrai disciple	jl	Kalanden sɔbɛ													
 1529599765314	Enseignement véridique	jl	Kalan tigitigi													
 1529599765315	Connaissance	jl	Lɔniya													delete duplicate
@@ -627,6 +626,8 @@
 1529599765362	Habitude	jl 4	Delinanko													
 1529599765363	Lieu de culte	jl 5	Alabatoyɔrɔ													
 1529599765364	Réconfort	jl 5	Dususalo													
+1529599765365	Réponse	jl 5	Jaabili													essentiel question
+1529599765366	Question	jl 5	Ɲinigali			Ɲinigali										
 1529599765367	Vrai ami	jl 5	Teri sɔbɛ													delete duplicate
 1529599765368	Frère	jl 5	Balimacɛ													
 1529599765369	Soeur	jl 5	Balimamuso													
@@ -658,6 +659,7 @@
 1529599765396	Couvrir	jl 8	Sutara													
 1529599765397	Provoquer	jl 8	Darabɔ													
 1529599765398	Se montrer; se glorifier	jl 8	Yɛrɛ yira													
+1529599765399	Corps	jl 8	Farikolo													
 1529599765400	Chosir	jl 8	Sugandi													
 1529599765401	Choix	jl 8	Sugandili													
 1529599765402	Simple	jl 8	Dama kɛɲɛnin													
@@ -727,6 +729,7 @@
 1529599765469	Camarades de classe	jl 12	Lakɔli filankuruw													
 1529599765470	Gens de la maison	jl 12	Somɔgɔw													
 1529599765471	Bonne nouvelle du Royaume de Dieu	jl 12	Ala ka Masaya kibaro diiman													
+1529599765472	Avenir	jl 12	Siniɲasigi													
 1529599765473	Message d'espoir	jl 12	Jigiya kuma													
 1529599765474	Route de la vie	jl 13	Kisili sira													
 1529599765475	Entreprendre le service de pionnier	jl 13	Ka seen don piyɔniye baara la													
@@ -734,6 +737,7 @@
 1529599765478	D'une manière simple	jl 13	Cogo nɔgɔman													
 1529599765479	Désespoir	jl 13	Jigi tigɛ													
 1529599765480	Service missionnaire	jl 14	Misɔndenya barra													
+1529599765481	Pays	jl 14	Jamana													
 1529599765482	Suivre les traces de Jésus	jl 14	Ka tagama Yezu seen nɔɔ na													
 1529599765483	Pécheur	jl 14	Jurumutɔ													
 1529599765484	Sacrifice de soi	jl 14	Yɛrɛ saraka													
@@ -873,6 +877,7 @@
 -18714818564	Proclamateur	jl 13	Weleweledala			Wajulikɛla										wt
 -18949454284	Présentation	bk	Yiracogo													wt
 -18949479733	Culte	bk	Batoli													wt
+-18949490395	Serviteurs	jl 2	Sagokɛlaw													
 19411554786	Sacrifice rédempteur	bk	Kunmabɔ  saraka													wt
 19411687406	Juru sara	bk	Propitiation													wt
 19411739780	Kisi	bk	Sauver													wt
@@ -964,7 +969,7 @@
 27783419493	Renier		Dalacɛ													wt
 27783419494	Reniement		Dalacɛli													wt
 27783419496	Emblème		Dasiri													wt
-27783419497	Surveillant Président		Diinan mɔgɔkɔrɔw ɲɛbila													wt
+27783419497	Coordinatuer du collège des anciens		Diinan mɔgɔkɔrɔw ɲɛbila													wt
 27783419498	Abîme		Dingɛ dunba													wt
 27783419499	Volonté / Plaisir		Diyanako													wt
 27783419502	Recueil de cantiques		Donkili gafe													wt
@@ -1050,6 +1055,7 @@
 27783419590	Montrer sa reconnaissance		Ka walenyumanlon yira													wt
 27783419591	Paganisme / Païenne	jl	Kafiriya													wt
 27783419592	Formulaire		Kafolisɛbɛ													wt
+27783419593	Discours / Enseignement	jl 3	Kalan													wt
 27783419594	Leçon importante		Kalan nafaman													wt
 27783419595	Exposé constructif		Kalan ɲuman													wt
 27783419596	Disciple		Kalanden													wt
@@ -1176,6 +1182,7 @@
 40322554868	Leçon	mwb	Kalensen													
 403520813	Introduction	bk	Dadon kumaw													wt
 -40927278615	Bible	bk	Bibulu													wt
+-4123020142	Punir		Ɲangi	BFA												unbouake v wt
 43139702982	Tout puissant	wt	Sebagayabɛɛtigi													
 -44178618673	Lecture de la bible	bk	Bibulu kalangwɛ													wt
 -4434272399	Révision	jl 9	Segikanni													wt
@@ -1183,6 +1190,7 @@
 4894740815	Messie	bk	Masiya													wt
 4894757744	Royaume	bk	Masaya													wt
 4896872164	Interlocuteur	bk	Lamɛnbaga			Lamɛnnikɛla										wt
+-52670184468	Monde / terre	tract	Duniɲa			Diɲe	ABBF									
 -53017499366	Envoyé de dieu	bk	Ala ka ciden													wt
 -53017833927	Commandement	jl 16	Cii													wt
 -53017885414	Gloire	bk	Nɔɔrɔ													wt
@@ -1201,12 +1209,13 @@
 -53277812243	Baisser	bk	Suuri			Sosuuri										wt
 -54217186332	Antenne de traduction	bk	Gafew bayɛlɛma yɔrɔ													wt
 -54217186336	Ancien	jl 14	Diinan mɔgɔkɔrɔ													wt
--54217186337	Surveillant itinérant	jl 17	Kɔrɔsibaga tagamakɛlaw													wt
+-54217186337	Responsable itinérant	jl 17	Kɔrɔsibaga tagamakɛlaw													wt
 -54217186338	Pionnier	jl 13	Piyɔniye													wt
 -54217186339	Assistant ministériel	jl 16	Kɔrɔsigi ciden													wt
 -54217186340	Famille du béthel	jl 21	Betɛli ka denbayamɔgɔw													wt
 -54217186341	Béthel	jl 21	Bɛtɛli													wt
 -5583657714	Démon	bk	Jina													wt
+-55856535110	Sacrifier	bk	Saraka	v	N ka wari saraka											v vt wt
 -55856535126	Ressussiter	bk	Lakunun													wt
 -55856535130	Éternellement	bk	Kudayi													wt
 -55856535132	Originel		Kɔrɔba													marked wt

@@ -435,7 +435,7 @@
 1528499809489	La paix universelle : d'ou viendra-t-elle ?	wt	Hɛɛrɛ, duniɲa kuru bɛɛ kɔnɔ: o bena bɔ min?	122												43723	dp
 1528499809490	Pourquoi les chretiens doivent être différents	wt	Mun na kerecɛnw ka kan ka kɛ daan na?	123												43723	dp
 1528499809491	Raisons de croire que Dieu est l'Auteur de la Bible	wt	Dalilu minw b’a yira ko ala lo ye bibulu tigi ye	124												43723	dp
-1528499809492	Pourquoi l'humanite a-t-elle besoin d'une rançon ?	wt	Mun na hadamadenya mako be kunmabɔsara la	125												43723	dp
+1528499809492	Pourquoi l'humanite a-t-elle besoin d'une rançon ?	wt	Mun na hadamadenya mako be kunmabɔsara la	125												43723	dp
 1528499809493	Qui sera sauvé ?	wt	Jɔn lo be se ka kisi?	126												43723	dp
 1528499809494	Que se passe-t-il quand on meurt ?	wt	Mun lo be kɛ n’an sara?	127												43723	dp
 1528499809495	L'enfer est-il réellement un lieu de flammes et de tourments ?	wt	Yala jahanama ye tasuma ni tɔɔrɔ yɔrɔ ye tiɲɛn na wa?	128												43723	dp
@@ -507,7 +507,7 @@
 1528677420982	Exode		Bɔri	WYI		Ɛkizɔdo	ABBF	Ekisode	MLI							43723	bible
 1528677420983	Lévitique		Sarakalasebagaw	WYI		Levitiki	ABBF	Levitike	MLI							43723	bible
 1528677420984	Nombres		Jateri	WYI		Nɔmburw	ABBF	Nɔnburuw	MLI							43723	bible
-1528677420985	Deutéronome		Sariya	WYI		Deteronɔmu	ABBF	Dutɛrɔnɔmɛ	MLI							43723	bible 
+1528677420985	Deutéronome		Sariya	WYI		Deteronɔmu	ABBF	Dutɛrɔnɔmɛ	MLI							43723	bible
 1528677420986	Josué		Yosuwe	WYI		Zozuwe	ABBF	Josue	MLI							43723	bible
 1528677420987	Juges		Kitigɛbagaw	WYI		Cɛfariw	ABBF	Kiritigɛlaw	MLI							43723	bible
 1528677420988	Ruth		Ruti	WYI		Uruti	ABBF	Ruti	MLI							43723	bible
@@ -618,7 +618,7 @@
 1529599765353	Traduction de la bible	jl 4	Bibulu bayɛlɛmani													43723	
 1529599765354	Authentique / vrai	jl 4	Tigitigi			Lakika										43723	duplicate
 1529599765355	Manuscrits	jl 4	Bibulu bololasɛbɛni													43723	
-1529599765356	Hébreux&amp;nbsp;	jl 4	Heburukan	Langue												43723	
+1529599765356	Hébreux&amp;amp;nbsp;	jl 4	Heburukan	Langue												43723	
 1529599765357	Araméen	jl 4	Aramekan													43723	
 1529599765358	Grecque	jl 4	Grɛkikan													43723	
 1529599765359	Image / Support visuel	jl 4	Jaa			Foto										43723	delete duplicate wt
@@ -690,12 +690,12 @@
 1529599765426	Conduite	jl 10	Jogo													43723	
 1529599765427	Acte/comportement	jl 10	Kɛwale													43723	
 1529599765431	L'age	jl 10	Sanda													43723	
-1529599765432	École	jl 10	Lakɔli													43723	delete duplicate
+1529599765432	École	jl 10	Lakɔli													43723	delete duplicate
 1529599765433	Cantique / Mélodie / Chanson / Chant	jl 10	Dɔnkili													43723	duplicate
 1529599765434	Boisson	jl 10	Minnifɛn													43723	
 1529599765435	Nourriture	jl 10	Dumunifɛn													43723	
 1529599765436	Moment propice	jl 10	Wagati kɛrɛnkɛrɛnnin													43723	
-1529599765437	Bénir	jl 10	Duga	vi												43723	v wt
+1529599765437	Bénir	jl 10	Duga	vi												43723	v wt
 1529599765439	Assemblée	jl 11	Lajɛnba													43723	
 1529599765440	Empressement	jl 11	Kɔrɔtɔ													43723	
 1529599765441	Chaque année	jl 11	Saan o saan													43723	
@@ -812,6 +812,7 @@
 1529599765561	Choses spirituelles	jl 20	Alakow													43723	
 1529599765562	Premier siècle	jl 20	Saan kɛmɛkulu fɔlɔ													43723	
 1529599765563	Commandements / Instructions	jl 20	Cikanw													43723	wt
+1529599765564	Lettre	jl 20	Lɛtɛrɛw														
 1529599765565	Autres moyens	jl 20	Fɛɛrɛ wɛrɛw													43723	wt
 1529599765566	Peuple de Dieu	jl 20	Ala ka jama													43723	
 1529599765567	Surveiller	jl 20	Kɔrɔsi													43723	duplicate
@@ -1052,7 +1053,6 @@
 27783419590	Montrer sa reconnaissance		Ka walenyumanlon yira													43723	wt
 27783419591	Paganisme / Païenne	jl	Kafiriya													43723	wt
 27783419592	Formulaire		Kafolisɛbɛ													43723	wt
-27783419593	Discours / Enseignement	jl 3	Kalan													43723	wt
 27783419594	Leçon importante		Kalan nafaman													43723	wt
 27783419595	Exposé constructif		Kalan ɲuman													43723	wt
 27783419596	Disciple		Kalanden													43723	wt
@@ -1175,10 +1175,9 @@
 3656657915	Communications	jl 27	Kunnafoni													43723	wt
 3656948736	De maison en maison	jl 12	Soo ni soo													43723	wt
 3830892769	Tour de garde	bk	Kɔrɔsili sangaso													43723	wt
-40322554868	Leçon	mwb	Kalensen													43723	
+40322554868	Leçon	mwb	Kalensen													43723	
 403520813	Introduction	bk	Dadon kumaw													43723	wt
 -40927278615	Bible	bk	Bibulu													43723	wt
--4123020142	Punir		Ɲangi	BFA												43723	unbouake v wt
 43139702982	Tout puissant	wt	Sebagayabɛɛtigi													43723	
 -44178618673	Lecture de la bible	bk	Bibulu kalangwɛ													43723	wt
 -4434272399	Révision	jl 9	Segikanni													43723	wt
@@ -1186,7 +1185,7 @@
 4894740815	Messie	bk	Masiya													43723	wt
 4894757744	Royaume	bk	Masaya													43723	wt
 4896872164	Interlocuteur	bk	Lamɛnbaga			Lamɛnnikɛla										43723	wt
--52670184468	Monde / terre 	tract	Duniɲa			Diɲe	ABBF									43723	
+-52670184468	Monde / terre	tract	Duniɲa			Diɲe	ABBF									43723	
 -53017499366	Envoyé de dieu	bk	Ala ka ciden													43723	wt
 -53017833927	Commandement	jl 16	Cii													43723	wt
 -53017885414	Gloire	bk	Nɔɔrɔ													43723	wt
@@ -1211,7 +1210,6 @@
 -54217186340	Famille du béthel	jl 21	Betɛli ka denbayamɔgɔw													43723	wt
 -54217186341	Béthel	jl 21	Bɛtɛli													43723	wt
 -5583657714	Démon	bk	Jina													43723	wt
--55856535110	Sacrifier	bk	Saraka	v	N ka wari saraka											43723	v vt wt
 -55856535126	Ressussiter	bk	Lakunun													43723	wt
 -55856535130	Éternellement	bk	Kudayi													43723	wt
 -55856535132	Originel		Kɔrɔba													43723	marked wt

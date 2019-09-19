@@ -81,8 +81,8 @@
 1529143433520	Aspect / Apparence / Forme	yq	Sawura			Kɛcogo										43725	marked
 1529143433521	Sucre	yq	Sukaro													43725	nourriture
 1529143433522	Diabète	yq	Sukarobana													43725	santé
-1529143433523	Totem / Interdit	yq	Tana													43725	
-1529143433524	C'est totem / interdit	yq	Tana lo													43725	phrase
+1529143433523	Totem / Interdit	yq	Tana		Tana lo											43725	
+1529143433524	C'est totem / interdit	yq	Tana lo													43725	delete
 1529143433525	Histoire (une)	yq	Tariki			Maana										43725	marked
 1529143433526	Disenterie	yq	Tɔgɔtɔgɔmi													43725	santé
 1529143433528	Malheur / Peine / Souffrance	yq	Tɔɔrɔ													43725	
@@ -129,7 +129,7 @@
 1529657783624	Orteil		Sen Kumande					Sɛnkɔni	bm							43725	corp
 1529657783625	Os		Kolo (n)					kolo	bm							43725	corp
 1529657783627	Poignet		Bolokan					Bolonɛgɛladonyɔrɔ	bm							43725	corp
-1529657783628	Pouls							pu	bm							43725	corp
+1529657783628	f							pu	bm							43725	corp
 1529657783630	Rein							kɔmɔkìli	bm							43725	corp
 1529657783631	Ride		Ɲugu / Ɲuguɲugu	bm												43725	corp
 1529657783634	Squelette							Kolojalan	bm							43725	corp
@@ -155,7 +155,7 @@
 1529703600701	Chaise	kodi	Sigilan													43725	essentiel l1
 1529703600702	La / La-bas	kodi	Yen													43725	essentiel
 1529703600703	Fusil	kodi	Marfa													43725	essentiel
-1529703600704	Peu	kodi	Dɔɔni													43725	essentiel l1
+1529703600704	Peu	kodi	Dɔɔni		Dɔɔni be a kɔrɔ											43725	essentiel l1
 1529703600705	Nuit	kodi	Su													43725	essentiel
 1529703600706	Usagé / Mauvais	kodi	Kolon													43725	essentiel
 1529703600707	Se lever / lever	kodi	Wuli													43725	essentiel v
@@ -266,7 +266,7 @@
 -19139544883	Vélo	yq	Nɛgɛso													43725	
 -19139632939	Fer		Nɛgɛ (n)													43725	essentiel
 -19139757608	Endroit	kodi	Yɔrɔ													43725	essentiel
--19139843034	Demander / prier	bk	Daari			Deli										43725	marked v
+-19139843034	Demander / prier	bk	Daari			Deli										43725	delete
 -19139873076	Coq	yq	Dɔndɔn													43725	animal
 -19139899404	Commerçant	bk	Jagokɛla			Ferekɛla		Feerelikɛla								43725	gens
 -19139923953	Cochon	bk	Kɔkɔti													43725	animal bouake
@@ -436,7 +436,6 @@
 27946171995	Perfusion	yq	Farilajidon													43725	santé
 27946171996	Citoyen	yq	Fasoden													43725	gens
 27946171997	Fou	yq	Fatɔ													43725	gens
-27946171998	Vendeur	yq	Feerelikɛla													43725	delete gens
 27946171999	Trébucher	yq	Fili													43725	v
 279461720004	Peste	yq	Finyɛbana			Bana yɛlɛmata		Bana yɛlɛmata								43725	marked santé
 27946172002	Aveugle	yq	Fiyɛntɔ													43725	gens santé wt
@@ -557,7 +556,7 @@
 27946172131	Soldats	yq	Sɔrɔdasiw													43725	gens
 27946172132	Palu	yq	Sumaya		Sumaya be a la											43725	santé
 27946172133	Bouton / Furoncle	yq	Suguni			Sumunin										43725	santé
-27946172134	Prendre	yq	Ta													43725	v
+27946172134	Prendre	yq	Ta													43725	delete
 27946172135	Partez d'ici	yq	Ta ka bɔ yan.													43725	phrase
 27946172136	Aller / Partir	yq	Taa			Taga		Taga								43725	v
 27946172137	Feu	yq	Tasuma			Ta	(n)									43725	
@@ -644,9 +643,9 @@
 -31737677739	À côté de	yq	Gɛrɛfɛ													43725	
 -31737738050	La-bas	bk	Yan fɛ ye													43725	marked
 -31737763795	Au dessus / sur	bk	Kun na													43725	
--31737841068	En bas / par terre	bk	Dugu man													43725	essentiel
+-31737841068	En bas / par terre	bk	Dugu man													43725	delete
 -3222246334	De temps en temps	bk	Tuma dɔw													43725	marked
--32946315944	argent		wari													43725	essentiel
+-32946315944	argent		wari													43725	delete
 3317696881	C'est mieux.	bk	A ka fisa.													43725	phrase
 -3421980794	À cause de cela...	bk	O lo kama...													43725	phrase
 -34269420531	Endurer / persévérer	bk	Sɔmina													43725	v
@@ -671,7 +670,7 @@
 3845946176	Attendre	yq	Kɔnɔ (v)	(v.)		Makɔnɔ		Kɔnɔni kɛ								43725	marked v
 -3849934239	Musa n'est pas allé à korhogo	bk	Musa ma ta korhogo													43725	phrase
 -3849952656	Petite soeur	bk	Dɔgɔmuso													43725	essentiel gens
--3849977637	Petit frère	bk	Dɔgɔcɛ													43725	essentiel gens
+-3849977637	Petit frère	bk	Dɔgɔcɛ		a dɔgɔcɛ tericɛ ye lakɔliden ye											43725	essentiel gens
 -3849997403	Grande soeur	yq	Kɔrɔ muso													43725	gens
 -3850035477	Grand frère	yq	Kɔrɔ cɛ													43725	gens
 -3852135199	Arriver	bk	Se													43725	v vi
@@ -751,7 +750,7 @@
 -44439246043	Gater	bk	Can													43725	marked v vt
 -44639764826	Conscience	bk	Dusukun													43725	
 -44647220195	Réponse	bk	Jabili													43725	essentiel question
--44647367870	Demander	yq	Ɲiniga		Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ	Deli										43725	v
+-44647367870	Questionner	yq	Ɲiniga		Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ											43725	v
 -45246239492	Montrer	yq	Yira			Yira mɔgɔ la										43725	v
 4542062599	Coriandre	bk	Kusubara													43725	marked nourriture
 -4633547634	Ancêtre	yq	Bɛmacɛ													43725	bambara v
@@ -832,7 +831,7 @@
 -53241205095	Cuisine	yq	Gwabugu			Gwa										43725	essentiel
 -53241239980	Préparer	bk	Tobi													43725	v
 -53257444419	Vendre	yq	Feere													43725	v vt
--53257498070	Boire	yq kodi	Min			Mini kɛ										43725	v
+-53257498070	Boire	kodi	Min			Mini kɛ										43725	v
 -53277754058	Se promener	bk	Yala	v	N yarala Burkina kɔnɔ											43725	marked vi
 -53277784628	Tête	yq	Kun			Kunkolo										43725	corp
 -53277835100	Igname	yq	Ku													43725	nourriture
@@ -1014,11 +1013,11 @@
 -6714023040	Jusqu'à	kodi	Fɔɔ		example	Kabini										43725	essentiel
 -6714070575	Je ne viendrai pas	bk	N tena na													43725	phrase
 67259722212	Idole / Fétiche		Boli		Boli sɔn											43725	
-67339326626	Ainsi / Comme ça		ten		I kana kuma ten !											43725	essentiel
+67339326626	Ainsi / Comme ça		Ten		I kana kuma ten !											43725	essentiel
 67340019297	Exactement		cɔ													43725	
 -6758381958	J'ai une chemise	bk	Dereke be ne fɛ													43725	phrase
 -6758788631	Le mal guéri le mal	bk	Dimi lebɛ dimi sa													43725	phrase
-67967143934	Diner	kamagate	terela													43725	
+67967143934	Diner	kamagate	terela													43725	delete
 68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la													43725	
 68319737253	Revenir		Segi	Ala y'a ɲuma segi	A segira			Sekɔ								43725	vi
 68382609274	Ali ka jan	cours	Ali est grand													43725	phrase
@@ -1075,7 +1074,7 @@
 -7792055372	Petit doigt	bk	Bolo kumande fitini													43725	corp
 -7792085208	Pouce	bk	Bolo kumande ba					Bolonkɔnikunba	bm							43725	corp
 -7792110343	Doigt	yq	Bolokumande	CIV		Bolokanden		Bolokɔni / Bolonkɔni	bm							43725	corp
--7839977565	Bleu	yq	Bula			Bula (man)										43725	couleur
+-7839977565	Bleu	yq	Bula			Bulaman										43725	couleur
 -7840058159	Jaune	yq	Nere			Nɛrɛnu(man)										43725	couleur
 -7840060490	Vert	yq	Biŋkɛnɛ			Binkɛnɛman										43725	couleur
 -7878131213	Il est venu sur moto.	bk	A nan na moto kan.													43725	phrase

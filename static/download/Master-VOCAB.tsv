@@ -82,7 +82,6 @@
 1529143433521	Sucre	yq	Sukaro													43725	nourriture
 1529143433522	Diabète	yq	Sukarobana													43725	santé
 1529143433523	Totem / Interdit	yq	Tana		Tana lo											43725	
-1529143433524	C'est totem / interdit	yq	Tana lo													43725	delete
 1529143433525	Histoire (une)	yq	Tariki			Maana										43725	marked
 1529143433526	Disenterie	yq	Tɔgɔtɔgɔmi													43725	santé
 1529143433528	Malheur / Peine / Souffrance	yq	Tɔɔrɔ													43725	
@@ -266,7 +265,6 @@
 -19139544883	Vélo	yq	Nɛgɛso													43725	
 -19139632939	Fer		Nɛgɛ (n)													43725	essentiel
 -19139757608	Endroit	kodi	Yɔrɔ													43725	essentiel
--19139843034	Demander / prier	bk	Daari			Deli										43725	delete
 -19139873076	Coq	yq	Dɔndɔn													43725	animal
 -19139899404	Commerçant	bk	Jagokɛla			Ferekɛla		Feerelikɛla								43725	gens
 -19139923953	Cochon	bk	Kɔkɔti													43725	animal bouake
@@ -556,7 +554,6 @@
 27946172131	Soldats	yq	Sɔrɔdasiw													43725	gens
 27946172132	Palu	yq	Sumaya		Sumaya be a la											43725	santé
 27946172133	Bouton / Furoncle	yq	Suguni			Sumunin										43725	santé
-27946172134	Prendre	yq	Ta													43725	delete
 27946172135	Partez d'ici	yq	Ta ka bɔ yan.													43725	phrase
 27946172136	Aller / Partir	yq	Taa			Taga		Taga								43725	v
 27946172137	Feu	yq	Tasuma			Ta	(n)									43725	
@@ -643,9 +640,7 @@
 -31737677739	À côté de	yq	Gɛrɛfɛ													43725	
 -31737738050	La-bas	bk	Yan fɛ ye													43725	marked
 -31737763795	Au dessus / sur	bk	Kun na													43725	
--31737841068	En bas / par terre	bk	Dugu man													43725	delete
 -3222246334	De temps en temps	bk	Tuma dɔw													43725	marked
--32946315944	argent		wari													43725	delete
 3317696881	C'est mieux.	bk	A ka fisa.													43725	phrase
 -3421980794	À cause de cela...	bk	O lo kama...													43725	phrase
 -34269420531	Endurer / persévérer	bk	Sɔmina													43725	v
@@ -1017,7 +1012,6 @@
 67340019297	Exactement		cɔ													43725	
 -6758381958	J'ai une chemise	bk	Dereke be ne fɛ													43725	phrase
 -6758788631	Le mal guéri le mal	bk	Dimi lebɛ dimi sa													43725	phrase
-67967143934	Diner	kamagate	terela													43725	delete
 68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la													43725	
 68319737253	Revenir		Segi	Ala y'a ɲuma segi	A segira			Sekɔ								43725	vi
 68382609274	Ali ka jan	cours	Ali est grand													43725	phrase

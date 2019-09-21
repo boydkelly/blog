@@ -1,4 +1,4 @@
-0f7aaa1a-8b0f-457d-925b-dfa437969f95	Colère	yq	Dimiya			Dimiya		Dusudiya								43725	
+0f7aaa1a-8b0f-457d-925b-dfa437969f95	Colère	yq	Dimiya			Dusudiya										43725	
 10324820876	Canard	bk	Tongonon													43725	animal
 10327043748	Fourmi	yq	Jugumɛni			Dugumɛnɛ	BFA	Mɛnɛmɛnɛ								43725	animal
 -10943763535	Prendre soin / Faire attention		Janto		I janto kɔnɔn nin na											43725	v
@@ -249,7 +249,7 @@
 -18162625383	Frère	bk	Balimancɛ													43725	essentiel gens
 -18162663818	Monnaie		Wari misɛn													43725	essentiel
 -18434267659	Fièvre	yq	Farigwan			Farigan										43725	santé
--18434296505	Mal de tête	bk	Kun dimi		N kun Koko be dimi.											43725	corp
+-18434296505	Mal de tête	bk	Kun dimi		N kun Kolo be dimi.											43725	corp
 -18434366707	Paludisme	bk	Sumaya dimi													43725	santé
 -18512229590	Ensemble	kodi	Ɲɔngɔn fɛ		An be ɲɔgɔn fɛ											43725	essentiel
 -18512251732	Prochain / À venir	yq	Nata													43725	essentiel
@@ -293,7 +293,7 @@
 2476966392	Criquet / Sauterelle	bk	Tɔɔn			Ngreni	bke			Jolon						43725	animal marked
 2476995342	Griot	bk	Jeli													43725	
 2477221638	Explication		Sɛgɛsɛgɛli													43725	
-25096152763	Prier / Demander	kodi	Seli		is it a duplicate	Dari		Dari		Deli						43725	marked v
+25096152763	Prier / Demander	kodi	Seli		is it a duplicate	Dari		Deli								43725	marked v
 25097016718	Écrire	yq	Sɛbɛli kɛ													43725	v
 -25299906327	Bonne journée	bk	Ala ye bi nɔgɔya			Ala bi diya										43725	phrase
 -25714836626	Petit enfant	yq	Denmisɛn			Denmisɛnin										43725	essentiel
@@ -357,7 +357,7 @@
 27809169049	Thorax	yq	Disikolo													43725	corp marked
 27809169050	Pénis	yq alasane	Fɔrɔ			Sogoni										43725	corp
 27809169051	Épaule	yq	Gama					Kama	bm							43725	corp
-27809169052	Cou / Gorge&amp;amp;amp;amp;amp;nbsp;	yq	Kaan		need example			Kan / Kankala	bm							43725	corp
+27809169052	Cou / Gorge	yq	Kaan		need example			Kan / Kankala	bm							43725	corp
 27809169053	Nuque	yq	Kaankala					tɔn	bm							43725	corp
 27809169054	Genou	yq	Kunbiri kun			Kunbiri		Kunbere	bm							43725	corp
 27809169056	Vache	yq	Misi muso													43725	animal
@@ -429,7 +429,7 @@
 27946171989	Tailleur	yq	Fanikalanla													43725	gens
 27946171990	Ajouter		Fara (v)		ka fara o kan											43725	v
 27946171991	Pharmacien	yq	Faramasiɲɛ													43725	gens
-27946171992	Corps	yq	Fari					Fari	bm							43725	corp
+27946171992	Corps	yq	Fari													43725	corp
 27946171994	Athlète / Sportif	yq	Farijola			Farikoloɲanagɛla		Farikoloɲanagwɛla								43725	gens marked
 27946171995	Perfusion	yq	Farilajidon													43725	santé
 27946171996	Citoyen	yq	Fasoden													43725	gens
@@ -576,7 +576,7 @@
 27946172156	Bouillir	yq	Wili wili													43725	v
 27946172157	Trier	yq	Woloma													43725	v
 27946172158	Sud	yq	Worodugu yan fan fɛ													43725	
-27946172159	Charpentier	yq	Yiri gwingwila	BKE		Yiri dɛsɛla										43725	gens unbouake
+27946172159	Charpentier / Menuisier		Yiri barakɛla	BKE		Yiri dɛsɛla		Yiri gwingwila								43725	gens unbouake
 27946172160	Sculpteur	yq	Yirilɛsɛla													43725	gens
 27946172161	Journaliste	yq	Zurunali sɛbɛrikɛla													43725	gens
 28035546765	Ajuster / Aplanir / Niveler	yq	Dakɛɲɛ													43725	v
@@ -788,7 +788,7 @@
 -52135832225	Jeter	yq	Firi			Fili										43725	v vt
 -52136264022	Ordures	bk	Ɲaman													43725	essentiel
 -52136464178	Dire	yq	Fɔ													43725	v vt
--52136790920	Réparer	yq	Lalaga	CIV		Ladinɛ	BFA			Lalaga						43725	essentiel v
+-52136790920	Réparer	yq	Lalaga	CIV		Ladinɛ	BFA									43725	essentiel v
 -52136836214	Poisson	yq	Jɛgɛ	CIV		Jigɛ	BFA									43725	animal nourriture
 -52136922846	Frire	bk	Yiran													43725	v
 -52139218999	Tirer	yq	Saman													43725	v vt
@@ -862,7 +862,7 @@
 -53873672574	Jeune homme	bk	Kamelen													43725	essentiel
 -53873715604	Marché	yq	Lɔgɔ			Lɔgɔfiyɛ		Sugu								43725	essentiel
 -53958647735	Maison / Bâtiment / Chambre	bk	Soo			Bon (n.)		Lu	CIV							43725	essentiel
--53958647736	Queue	yq	Kokala	CDI		Ku	BFA	Kukala								43725	corp
+-53958647736	Queue		Kokala			Ku		Kukala								43725	corp
 -53958647737	Lapin	bk	Sozani													43725	animal
 -53958647738	Oreille	yq	Toro			Tulo										43725	corp
 -53958647739	École	yq	Lakɔli													43725	essentiel
@@ -895,7 +895,7 @@
 -54218752723	Comment?	bk	Cogo di?													43725	question
 -54218752724	Écouter	yq	Lamɛni kɛ													43725	v
 -54218752725	Dormir	yq	Sinɔgɔ			Sunɔgɔ										43725	v
--54218752726	Ce / Celui-ci / Celui-là&amp;amp;amp;amp;amp;amp;amp;amp;nbsp;	bk	Nin													43725	essentiel
+-54218752726	Ce / Celui-ci / Celui-là	bk	Nin													43725	essentiel
 -54218752728	Paragraphe	yq	Dakun													43725	
 -54218752730	Soeur	bk	Baliman muso			Balimamuso										43725	essentiel
 -54292927907	Décembre	yq	Desanburukalo			Desanburu										43725	calendrier
@@ -1013,7 +1013,7 @@
 -6758381958	J'ai une chemise	bk	Dereke be ne fɛ													43725	phrase
 -6758788631	Le mal guéri le mal	bk	Dimi lebɛ dimi sa													43725	phrase
 68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la													43725	
-68319737253	Revenir		Segi	Ala y'a ɲuma segi	A segira			Sekɔ								43725	vi
+68319737253	Revenir		Segi		A segira / Ala y'a ɲuma segi			Sekɔ								43725	vi
 68382609274	Ali ka jan	cours	Ali est grand													43725	phrase
 68382680537	Le frère de Moussa est plus gros que moi		Musa dɔgɔcɛ ka bon ni n ye													43725	phrase
 68382716346	Je ne suis pas le plus court		N ma surun ni bɛɛ ye													43725	phrase
@@ -1042,7 +1042,7 @@
 68384172951	Si tu creuses un trou tu auras de l’eau.		i mana dinga sogi i bε ji sɔrɔ.													43725	phrase
 68384189709	Si tu ne veux pas faire la prison, il faut éviter le vol.		N i t’a fε ka kaso kε, I ma kan ka sonyali kε.													43725	phrase
 68384216458	Depuis le décès de notre père, nous n’avons pas eu la tranquillité.		kabini an facε sala, annugu ma nyasuma.													43725	phrase
-68384336274	Voler		sonyali kε		N i t’a fε ka kaso kε, I ma kan ka sonyali kε.	Soɲɛ		Soɲɛ		Sɔɲa						43725	essentiel
+68384336274	Voler		Sonyali kε		N'i t’a fε ka kaso kε, I ma kan ka sonyali kε.	Soɲɛ		Sɔɲa								43725	essentiel
 68384730115	Viens vite ! sinon je vais partir.		Nan jonan n’o tɛ n bɛna taga!													43725	phrase
 68479908582	Quelques		damanin		Saan damanin o kɔ												
 -6966007741	Jai un bic.	bk	Biki be ne fɛ.													43725	phrase
@@ -1093,7 +1093,7 @@
 -8523273944	Ils ne sont pas ici	bk	O tɛ a?													43725	marked phrase
 -8878884938	Ca fait deux jours	bk	A kɛla tere fila	CIV				I ni la fila	MLI							43725	essentiel phrase
 899da4f4-e157-4031-8e4b-cf59702a1303	C'est dangereux	yq	Farati  b'a la													43725	
-8f72e15d-72e6-47bf-b99d-164b41eabc8c	Danger	yq	Farati		Farati b'a la											43725	
+8f72e15d-72e6-47bf-b99d-164b41eabc8c	Danger		Farati		Farati b'a la											43725	
 -9126606725	Neuf / Nouveau	yq	Kura													43725	essentiel
 9184690720	Salutation champ	bk	I ni sɛnɛ			i ni kongo										43725	essentiel salutations
 9184723890	Salutation cuisine	bk	I ni gwa													43725	salutations

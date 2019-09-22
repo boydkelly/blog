@@ -11,7 +11,7 @@
 -12494899734	Inquiéter	bk	Jɔɔrɔ													43725	v
 1408180573	Reposer	bk	Nene kri		N bena nene kri	Lafiɲɛ										43725	marked v
 1445272529459	Comprendre	yq	Faamu		n ka faamu											43725	vt
-1451813917579	Combien	yq	Joli		Joli bɛ i kuŋ / bolo?											43725	question
+1451813917579	Combien	yq	Joli		Joli bɛ i kuŋ / bolo											43725	question
 1516095877	Il est parti la bas	bk	A tagala yen													43725	bouake
 -15176919454	Amour	yq	Kanuya													43725	essentiel
 -15266935615	Entrer	bk	Do													43725	v
@@ -94,7 +94,7 @@
 1529227811242	Concombre	wt	Kɔkɔnburu													43725	nourriture
 1529227963980	Ail	wt	Layi													43725	nourriture
 1529496492240	Tousser		Sɔgɔsɔgɔ													43725	santé
-1529599765330	Avant	jl 1	Ka kɔrɔ													43726	export
+1529599765330	Avant	jl 1	Ka kɔrɔ													43726	delete
 1529599765334	Tout comme	jl 1	I n’a fɔ													43726	export
 1529599765401	Choix	jl 8	Sugandili													43725	export
 1529599765409	Radio	jl 9	Arajo													43725	export
@@ -281,7 +281,7 @@
 -20534178906	Abattoir	bk	Misifaga yɔrɔ													43725	
 21895485548	Allons	bk	An ya taga.	CIV				An ka taga.	MLI							43725	phrase
 21895511963	Arretes-toi	bk	Ile lɔ													43725	phrase
-22159347319	Avant de / que	yq	Kasɔrɔ ka		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.	Ka sɔrɔ										43725	marked
+22159347319	Avant de / que	yq	Kasɔrɔ ka		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.	Ka sɔrɔ	answer needs to show hint									43725	marked
 22159392751	Sinon	yq	N'o tɛ		Nan jonan n’o tɛ n bɛna taga!											43725	
 22159414639	Mais	bk	Nka			nga										43725	
 22159427790	Pour cela	bk	O kosɔn													43725	
@@ -391,7 +391,7 @@
 27946171948	Circoncision / Excision	yq	Boloko			Kɛnɛkɛnɛ				Bolo koli						43725	santé
 27946171949	Bien rasé	yq	Bonbosi li koɲuman													43725	santé
 27946171950	Plaie	yq	Bonɛ													43725	santé
-27946171951	Élargir / Grandir Vénérer / Respecter		Bonya (v.)		Mɔgɔ ka kan ka a bangebagaw bonya											43725	v
+27946171951	Élargir / Grandir Vénérer / Respecter		Bonya (v.)		Mɔgɔ ka kan ka a bangebagaw											43725	v
 27946171952	Honneur / Respect	yq	Bonya (n.)													43725	
 27946171953	Peuple / Descendance	yq	Bɔnsɔn			Jama		Jama								43725	gens
 27946171954	Centre / Milieu	yq	Camancɛ		A bla a camancɛ la											43725	essentiel
@@ -531,7 +531,7 @@
 27946172106	Bonne épouse / femme	yq	Muso ɲuman													43725	gens
 27946172107	Affaiblir	yq	Nagasi													43725	v
 27946172109	Larme	yq	Ɲaji			Ɲɛji		ɲɛji	bm							43725	corp
-27946172110	Questionner	yq	Ɲiningan													43725	v
+27946172110	Questionner	yq	Ɲiningan													43725	delete
 27946172111	Plaindre (se)	yq	Ŋuna			Ŋunuŋunu		Dajukɔrɔ kuma fɔ								43725	v
 27946172112	Patron	yq	Patɔrɔn													43725	gens
 27946172113	Permis (de conduire)	yq	Pɛrɛmi													43725	
@@ -621,7 +621,7 @@
 28382876284	Il s'est exclamé que	yq	A kabara k'a fɔ ko													43725	phrase
 28382876285	Il s'est exclamé:	yq	A kabara ko:													43725	
 28382876286	Jeune filles	yq	Sunguruw													43725	
-28382876287	Jeunes garçons	yq	Kamalenw			Kanbelew										43725	marked
+28382876287	Jeunes garçons	yq	Kamalenw			Kanbelew										43725	delete
 28382876288	Jeunes	yq	Funankew													43725	marked
 28382876289	Pain	yq	Buru													43725	nourriture
 28382876290	Sauce	yq	Nan	(n.)												43725	nourriture
@@ -745,7 +745,7 @@
 -44439246043	Gater	bk	Can													43725	marked v vt
 -44639764826	Conscience	bk	Dusukun													43725	
 -44647220195	Réponse	bk	Jabili													43725	essentiel question
--44647367870	Questionner	yq	Ɲiniga		Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ											43725	v
+-44647367870	Questionner	yq	Ɲiniga		Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ	Ɲiningan										43725	v
 -45246239492	Montrer	yq	Yira			Yira mɔgɔ la										43725	v
 4542062599	Coriandre	bk	Kusubara													43725	marked nourriture
 -4633547634	Ancêtre	yq	Bɛmacɛ													43725	bambara v
@@ -804,7 +804,7 @@
 -52670184464	C'est qui	bk	Jɔn lo													43725	question
 -52670184465	Vie	yq	Niin			Ɲɛnamaya										43725	
 -52670184466	Pagne	yq	Fani			Taafe										43725	
--52670184467	Dans	yq	Kɔnɔ (pr)	prep.	Bouaké kɔnɔ an ka kan ka julakan fɔ											43725	essentiel
+-52670184467	Dans	yq	Kɔnɔ (pr)	prep.	Bouaké kɔnɔ											43725	essentiel
 -52670184469	Vérité	yq	Tiɲɛ		Tiɲɛ lo! / Tiɲɛ b'i fɛ											43725	essentiel
 -53015204863	Piment	bk	Foronto													43725	nourriture
 -53015256195	Patate grillé	bk	Woso yirani													43725	nourriture
@@ -927,7 +927,7 @@
 -55856535105	Partir / Aller	bk	Taga		A tagala Abidjan	Taa										43725	essentiel vi
 -55856535106	Dépouilles, morts	bk	Suw													43725	
 -55856535110	Sacrifier	bk	Saraka	v	N ka wari saraka											43725	v vt wt
--55856535111	Mourir	bk	Saya		Wulu sala											43725	marked v vi
+-55856535111	Mourir	bk	Saya		Wulu sala											43725	v vi
 -55856535114	Grande pluie	bk	Sanjiba													43725	essentiel
 -55856535115	Pluie / Année	kodi	Sanji													43725	essentiel
 -55856535116	Mouton	bk	Saga													43725	animal
@@ -1105,5 +1105,5 @@ b74bf067-2956-4fa7-986c-f2e5e65f127f	Selon son dire	yq	A ka fɔta la												
 c25c5017-0b81-4201-aa10-6a33221570f8	Bénédiction	yq	Baraji			Duga		Duba								43725	
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	Ban (v)													43725	v vt
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq	Baji			Baa										43725	
-ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko		A ko be na	Nege										43725	
+ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq	Dimi			Dusubɔ										43725	

@@ -280,7 +280,7 @@
 -20534178906	Abattoir	bk	Misifaga yɔrɔ													43725	
 21895485548	Allons	bk	An ya taga.	CIV				An ka taga.	MLI							43725	phrase
 21895511963	Arretes-toi	bk	Ile lɔ													43725	phrase
-22159347319	Avant de / que	yq	Kasɔrɔ ka		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.	Ka sɔrɔ	answer needs to show hint									43725	marked
+22159347319	Avant de / que	yq	Kasɔrɔ ka		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.	Ka sɔrɔ										43725	marked
 22159392751	Sinon	yq	N'o tɛ		Nan jonan n’o tɛ n bɛna taga!											43725	
 22159414639	Mais	bk	Nka			nga										43725	
 22159427790	Pour cela	bk	O kosɔn													43725	
@@ -390,7 +390,7 @@
 27946171948	Circoncision / Excision	yq	Boloko			Kɛnɛkɛnɛ				Bolo koli						43725	santé
 27946171949	Bien rasé	yq	Bonbosi li koɲuman													43725	santé
 27946171950	Plaie	yq	Bonɛ													43725	santé
-27946171951	Élargir / Grandir Vénérer / Respecter		Bonya (v.)		Mɔgɔ ka kan ka a bangebagaw											43725	v
+27946171951	Élargir / Grandir Vénérer / Respecter		Bonya (v.)		Mɔgɔ ka kan ka a bangebagaw bonya											43725	v
 27946171952	Honneur / Respect	yq	Bonya (n.)													43725	
 27946171953	Peuple / Descendance	yq	Bɔnsɔn			Jama		Jama								43725	gens
 27946171954	Centre / Milieu	yq	Camancɛ		A bla a camancɛ la											43725	essentiel
@@ -481,7 +481,7 @@
 27946172051	Livre	yq	Gafe													43725	v
 27946172052	Exciser	yq	Kɛnɛ-kɛnɛ			Kɔrɔ		Siginɛgɛ								43725	santé
 27946172053	Santé	yq	Kɛnɛya		A be kɛnɛya di											43725	santé
-27946172054	Juge	yq	Kititigɛla			Kitibaga										43725	gens marked
+27946172054	Juge	yq	Kitigɛla			Kitibaga										43725	gens marked
 27946172055	Annoncer	yq	Ko fɔ													43725	v
 27946172056	Nord	yq	Kɔgɔdugu yan fan fɛ													43725	
 27946172057	Rivière	yq	Kɔji													43725	geo
@@ -563,7 +563,7 @@
 27946172144	Achever / Terminer / Finir (un travail)	yq	Tila													43725	v
 27946172145	Jour / Soleil	yq	Tere	CIV		Tere	BFA	Tile	MLI	Lon						43725	essentiel
 27946172146	Ouest	yq	Tileben													43725	
-27946172147	Est (point cardinal)	yq	Tilebɔ			Kɔrɔn fɛ		Kɔrɔn								43725	
+27946172147	Est	yq	Tilebɔ			Kɔrɔn fɛ		Kɔrɔn								43725	
 27946172148	Sucrer	yq	Timi		Need hint											43725	marked v
 27946172149	Accoucheuse	yq	Tinminɛla													43725	gens
 27946172150	Tee-shirt	yq	Tiriko													43725	
@@ -761,13 +761,13 @@
 -48185883127	Encourager		Jija	v												43725	marked v
 -48185883128	Prix	yq	Sɔngɔ	what is the diff?	Bara ka den sara ka caya	Sara (n.)		Sɔngɔn								43725	essentiel marked
 -48185883129	Amitié	bk	Teriya													43725	
--48185883132	Afin que / pour que	yq	Walasa			Janko		Walisa ka …								43725	
+-48185883132	Afin que / pour que	yq	Walasa			Janko		Walisa ka …								43725	marked
 -48185883133	Accepter	yq	Son													43725	vt
 -48185883134	Abeille	yq	Liden													43725	animal
 -48185883135	Réviser	bk	Segi a kan													43725	essentiel
 -48185883137	Bon appétit	bk	Ala y'a suma i kɔnɔ													43725	phrase
 -48185883138	Avant hier	bk	Kuna sini													43725	calendrier
--48185883139	Après demain	bk	Sini kɛnɛ													43725	calendrier
+-48185883139	Après demain	bk	Sini kɛnɛ													43725	calendrier leech
 -48185883140	Obtenir / trouver / Gagner	bk	Sɔrɔ													43725	v
 -48186082422	Qui	bk	Jɔn			Jɔnni										43725	question
 4896902309	Chef de maison	bk	Sotigi													43725	gens
@@ -796,7 +796,7 @@
 -52656018472	Couture	bk	Karanni													43725	
 -52656018473	Coudre	yq	Karan			Kala										43725	v vt
 -52656018474	Répondre	yq	Jaabi			Jaabili kɛ		Jaabili kɛ								43725	v
--52656018475	Petit garçon	bk	Cɛdennin													43725	gens
+-52656018475	Petit garçon	bk	Cɛdennin													43725	gens leech
 -52670046300	Beaucoup / Nombreaux / Abondance	kodi	Caman			Ca		Caya								43725	essentiel
 -52670184464	C'est qui	bk	Jɔn lo													43725	question
 -52670184465	Vie	yq	Niin			Ɲɛnamaya										43725	

@@ -1,3 +1,4 @@
+000000000000	SYNCDATE																
 0f7aaa1a-8b0f-457d-925b-dfa437969f95	Colère	yq	Dimiya			Dusudiya										43725	
 10324820876	Canard	bk	Tongonon													43725	animal
 10327043748	Fourmi	yq	Jugumɛni			Dugumɛnɛ	BFA	Mɛnɛmɛnɛ								43725	animal
@@ -61,13 +62,13 @@
 1529143433498	Short (n)	yq	Kilɔti													43725	
 1529143433499	Rhumatisme	yq	Koloci			Kolobana										43725	santé
 1529143433500	Discipline / Éducation / Obéissance	yq	Kololi													43725	
-1529143433502	Pensée (n.)		Mirili			Miriya										43725	marked
+1529143433502	Pensée (n.)		Mirili			Miriya										43725	
 1529143433503	Pause / Repos / Sièste	yq	Lafiyɛn													43725	marked
 1529143433504	Guinée-Bissao	yq	Laginɛ Biso													43725	geo
 1529143433505	Guinée Equatoriale	yq	Laginɛ Ekuwat.													43725	geo
 1529143433506	Hebdomadaire	yq	Logokun o logokun													43725	calendrier
 15291434335074	Le week-end	yq	Lɔgɔkun laban na													43725	
-1529143433508	Compatissant	yq	Makaritigi													43725	marked
+1529143433508	Compatissant	yq	Makaritigi													43725	
 1529143433509	Besoin (n)	yq	Makoya													43725	
 1529143433510	Egypte	yq	Misira			Ezipti										43725	geo
 1529143433511	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri			Nɛnɛkili										43725	marked santé
@@ -189,7 +190,7 @@
 1538655602	L'homme lui-même	bk	Mɔgɔ yɛrɛ													43725	gens
 1538903026921	Âpre		Basi													43725	
 1538906597740	Ville		Duguba													43725	
-1539113758485	Avenir	mwb	Sinima			Siniɲasigi	tract									43725	
+1539113758485	Avenir	mwb	Sinima			Siniɲasigi	tract									43725	marked
 -15868363272	Fidélité / Intégrité	bk	Kantigiya													43725	
 -15924466213	Porte / bouche	bk	Da		I da tugu !											43725	corp essentiel
 -15925488548	Vent	bk	Fɔɲɔ													43725	essentiel
@@ -224,7 +225,7 @@
 -17508246419	Arrêter / Construire	bk	Lɔ													43725	v
 -17508277250	Nombreux	yq	Cayala			(ka) Ca										43725	
 -17508334753	En tout cas!	bk	Akɔnii!													43725	phrase
--17508347819	Encore	yq	Tuguni			Tugu										43725	essentiel marked
+-17508347819	Encore	yq	Tuguni			Tugu										43725	essentiel
 -17508390259	Chef	bk	Ŋamɔgɔ													43725	gens
 -17509100479	Maladie	yq	Bana													43725	santé
 -17509221102	À Bouaké on doit parler Jula.	bk	Bouake kɔnɔ an ka kan ka julakan fɔ.													43725	phrase
@@ -321,7 +322,7 @@
 27201819760	Arrête !	bk	A dabla !	CIV		A to !										43725	phrase
 27205737326	Oeil		Ɲakili	CIV		Ɲakise	BFA	ɲɛ	bm	Ɲakile						43725	corp
 27206246061	Lutter		Kɛlɛ	CIV		Bondori	BFA									43725	marked
-27206395649	Foi		Lanaya													43725	
+27206395649	Foi		Limaniya			Lanaya										43725	
 27206473406	Quelle heure / quand	bk	Tuma juman	CIV		Wagati juman	BFA									43725	calendrier question
 27206573736	Ou bien	bk	Wala	CIV		Walama	BFA	Walima								43725	
 27207485786	Pourquoi ?	bk	Mu na?			Mun kosɔn?										43725	question
@@ -373,14 +374,14 @@
 27946171926	Envelope	yq	Anwolopu													43725	
 27946171927	Avion	yq	Aviyɔn													43725	
 27946171928	Travail / Tâche	yq	Baara	(n.)												43725	essentiel
-27946171930	Adulte	yq	Baliku													43725	gens marked
+27946171930	Adulte	yq	Baliku													43725	gens
 27946171933	Microbe	yq	Banakisɛ													43725	santé
 27946171934	Maladie contagieuse	yq	Banayɛlɛmata													43725	santé
 27946171935	Naître / Reproduire (enfants)	yq	Bange			Wolo		Wolo								43725	santé
 27946171936	Parent	yq	Bangebaga													43725	gens
 27946171937	Stérilité	yq	Bangekɛbaliya													43725	santé
 27946171938	Fécondité	yq	Bangeli													43725	santé
-27946171939	Neveu	yq	Belen			Dɔgɔnin dencɛ										43725	gens
+27946171939	Neveu	yq	Belen			Dɔgɔnin dencɛ										43725	gens marked
 27946171940	Oncle maternelle	yq	Belencɛ													43725	gens
 27946171941	Cousin	yq	Belenden													43725	marked
 27946171942	Abandonner	yq	Bila													43725	v
@@ -570,7 +571,7 @@
 27946172151	Éternuer	yq	Tiso													43725	santé
 27946172152	Langue des signes	yq	Tulogwɛlɛnw ka kumacogo													43725	
 27946172153	Arrière petit fils	yq	Tulomasama													43725	gens marked
-27946172155	Appeler	yq	wele			Kiri		Kiri		weele						43725	v
+27946172155	Appeler	yq	wele			Kiri				weele						43725	v
 27946172156	Bouillir	yq	Wili wili													43725	v
 27946172157	Trier	yq	Woloma													43725	v
 27946172158	Sud	yq	Worodugu yan fan fɛ													43725	
@@ -593,7 +594,7 @@
 28367283754	Casser	alasane	ci	vitre pneu bois		kare										43725	alasane
 28367609785	Vesicule bilaire	alasane	kuna kuna						bm							43725	alasane corp marked
 28367778141	Intestins	alasane	Kɔnɔ nogo					Nugu	bm							43725	alasane corp
-28367944447	Nombril	alasane	Bara kun	CIV		Kɔnɔbara										43725	corp marked
+28367944447	Nombril	alasane	Bara kun	CIV		Kɔnɔbara										43725	corp
 28367971257	Veine	source	Joli sira					Jolifìnsira	bm							43725	corp marked
 28368107720	Sang	alasane	Joli (n.)	(n.)				Joli / Basi	MLI							43725	corp
 28368192363	Levres	alasane	Dagwolo					Dawolo	bm							43725	alasane corp
@@ -761,7 +762,7 @@
 -48185883127	Encourager		Jija	v												43725	marked v
 -48185883128	Prix	yq	Sɔngɔ	what is the diff?	Bara ka den sara ka caya	Sara (n.)		Sɔngɔn								43725	essentiel marked
 -48185883129	Amitié	bk	Teriya													43725	
--48185883132	Afin que / pour que	yq	Walasa			Janko		Walisa ka …								43725	marked
+-48185883132	Afin que / pour que	yq	Walasa			Janko		Walisa ka…								43725	marked
 -48185883133	Accepter	yq	Son													43725	vt
 -48185883134	Abeille	yq	Liden													43725	animal
 -48185883135	Réviser	bk	Segi a kan													43725	essentiel
@@ -820,7 +821,7 @@
 -53182470323	Pardon	yq	Sabari			Hake to										43725	essentiel
 -53241136646	Chanson	bk	Dɔnkili													43725	
 -53241176888	Semer	bk	Sɛnɛ													43725	v
--53241205095	Cuisine	yq	Gwabugu			Gwa										43725	essentiel
+-53241205095	Cuisine		Gwa			Gwabugu		Tobili								43725	essentiel
 -53241239980	Préparer	bk	Tobi													43725	v
 -53257444419	Vendre	yq	Feere													43725	v vt
 -53257498070	Boire	kodi	Min			Mini kɛ										43725	v
@@ -1008,7 +1009,7 @@
 67340019297	Exactement		cɔ													43725	
 -6758381958	J'ai une chemise	bk	Dereke be ne fɛ													43725	phrase
 -6758788631	Le mal guéri le mal	bk	Dimi lebɛ dimi sa													43725	phrase
-68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la													43725	
+68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la		change note type											43725	
 68319737253	Revenir		Segi		A segira / Ala y'a ɲuma segi			Sekɔ								43725	vi
 68382609274	Ali ka jan	cours	Ali est grand													43725	phrase
 68382680537	Le frère de Moussa est plus gros que moi		Musa dɔgɔcɛ ka bon ni n ye													43725	phrase
@@ -1048,7 +1049,7 @@
 -7455322472	et	bk	...ni...			...ani...										43725	essentiel
 -7539514123	C'est mieux aujourd'hui	bk	Bi ka fisa													43725	phrase
 -7539576588	Comment va l'enfant	bk	Den fari be di?													43725	phrase
--7539868355	Louche	bk	Kuru ba			Yelen										43725	marked
+-7539868355	Louche	bk	Kuru ba													43725	marked
 -7539952918	Fourchette ou écumoire	bk	Kuru sɔgɔsɔgɔ													43725	
 -7539976876	Cuillière	bk	Kuru													43725	
 -7540204535	Connaissance	yq	Lɔniya													43725	v

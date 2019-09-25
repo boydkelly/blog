@@ -432,7 +432,7 @@
 1528499809489	La paix universelle : d'ou viendra-t-elle ?	wt	Hɛɛrɛ, duniɲa kuru bɛɛ kɔnɔ: o bena bɔ min?	122												43726	dp
 1528499809490	Pourquoi les chretiens doivent être différents	wt	Mun na kerecɛnw ka kan ka kɛ daan na?	123												43726	dp
 1528499809491	Raisons de croire que Dieu est l'Auteur de la Bible	wt	Dalilu minw b’a yira ko ala lo ye bibulu tigi ye	124												43726	dp
-1528499809492	Pourquoi l'humanite a-t-elle besoin d'une rançon ?	wt	Mun na hadamadenya mako be kunmabɔsara la	125												43726	dp
+1528499809492	Pourquoi l'humanite a-t-elle besoin d'une rançon ?	wt	Mun na hadamadenya mako be kunmabɔsara la	125												43726	dp
 1528499809493	Qui sera sauvé ?	wt	Jɔn lo be se ka kisi?	126												43726	dp
 1528499809494	Que se passe-t-il quand on meurt ?	wt	Mun lo be kɛ n’an sara?	127												43726	dp
 1528499809495	L'enfer est-il réellement un lieu de flammes et de tourments ?	wt	Yala jahanama ye tasuma ni tɔɔrɔ yɔrɔ ye tiɲɛn na wa?	128												43726	dp
@@ -504,7 +504,7 @@
 1528677420982	Exode		Bɔri	WYI		Ɛkizɔdo	ABBF							Ekisode	MLI	43726	bible
 1528677420983	Lévitique		Sarakalasebagaw	WYI		Levitiki	ABBF							Levitike	MLI	43726	bible
 1528677420984	Nombres		Jateri	WYI		Nɔmburw	ABBF							Nɔnburuw	MLI	43726	bible
-1528677420985	Deutéronome		Sariya	WYI		Deteronɔmu	ABBF							Dutɛrɔnɔmɛ	MLI	43726	bible 
+1528677420985	Deutéronome		Sariya	WYI		Deteronɔmu	ABBF							Dutɛrɔnɔmɛ	MLI	43726	bible
 1528677420986	Josué		Yosuwe	WYI		Zozuwe	ABBF							Josue	MLI	43726	bible
 1528677420987	Juges		Kitigɛbagaw	WYI		Cɛfariw	ABBF							Kiritigɛlaw	MLI	43726	bible
 1528677420988	Ruth		Ruti	WYI		Uruti	ABBF							Ruti	MLI	43726	bible
@@ -566,7 +566,7 @@
 1528677421044	3 Jean		Zan sabanan	WYI		Zan sabanan	ABBF							3 Yuhana	MLI	43726	bible
 1528677421045	Jude		Zude	WYI		Zude	ABBF							Jude	MLI	43726	bible
 1528677421046	Révélation		Yirali	WYI		Yirali	ABBF							Jirali	MLI	43726	bible
-1529143433510	Egypte	yq	Misira			Ezipti										43725	wt
+1529143433510	Egypte	yq	Misira			Ezipti										43725	geo
 1529244629184	Ambiance chaleureuse	yq	Jɛnɲɔgɔnya teriman													43726	wt
 1529244629185	Ambitieux	yq	Dusutigi					Min te yɛrɛ dan lɔn								43726	wt
 1529244629186	Arche	yq	Waganden													43726	wt
@@ -674,7 +674,7 @@
 1529599765434	Boisson	jl 10	Minnifɛn													43726	
 1529599765435	Nourriture	jl 10	Dumunifɛn													43726	
 1529599765436	Moment propice	jl 10	Wagati kɛrɛnkɛrɛnnin													43726	
-1529599765437	Bénir	jl 10	Duga	vi												43726	v wt
+1529599765437	Bénir	jl 10	Duga	vi												43726	v wt
 1529599765439	Assemblée	jl 11	Lajɛnba													43726	
 1529599765440	Empressement	jl 11	Kɔrɔtɔ													43726	
 1529599765441	Chaque année	jl 11	Saan o saan													43726	
@@ -780,6 +780,7 @@
 1529599765561	Choses spirituelles	jl 20	Alakow													43726	
 1529599765562	Premier siècle	jl 20	Saan kɛmɛkulu fɔlɔ													43726	
 1529599765563	Commandements / Instructions	jl 20	Cikanw													43726	wt
+1529599765564	Lettre	jl 20	Lɛtɛrɛw														
 1529599765565	Autres moyens	jl 20	Fɛɛrɛ wɛrɛw													43726	wt
 1529599765566	Peuple de Dieu	jl 20	Ala ka jama													43726	
 1529599765567	Surveiller	jl 20	Kɔrɔsi													43726	duplicate
@@ -860,7 +861,6 @@
 27783419421	Il croit en …	yq	A lanen be .. na													43726	wt
 27783419422	Il croyait en …	yq	A lanen tun be…na													43726	wt
 27783419423	Il n'est pas intéressé.		A m'a mako don.													43726	wt
-27783419424	Il nous a oublié		A ɲinɛna an kɔ													43726	wt
 27783419425	Écrit à l'envers		A sɛbɛra ka yɛlɛma ɲɛjugu kan													43726	wt
 27783419426	Elle m'est allée droit au cœur.		A sinna ka ne dusu minɛ.													43726	wt
 27783419427	Il ne cherche pas ses propres intérêts		A t'a yɛrɛ nafa ɲini													43726	wt
@@ -1009,7 +1009,6 @@
 27783419590	Montrer sa reconnaissance		Ka walenyumanlon yira													43726	wt
 27783419591	Paganisme / Païenne	jl	Kafiriya													43726	wt
 27783419592	Formulaire		Kafolisɛbɛ													43726	wt
-27783419593	Discours / Enseignement	jl 3	Kalan													43726	wt
 27783419594	Leçon importante		Kalan nafaman													43726	wt
 27783419595	Exposé constructif		Kalan ɲuman													43726	wt
 27783419596	Disciple		Kalanden													43726	wt
@@ -1128,10 +1127,9 @@
 3656657915	Communications	jl 27	Kunnafoni													43726	wt
 3656948736	De maison en maison	jl 12	Soo ni soo													43726	wt
 3830892769	Tour de garde	bk	Kɔrɔsili sangaso													43726	wt
-40322554868	Leçon	mwb	Kalensen													43726	
+40322554868	Leçon	mwb	Kalensen													43726	
 403520813	Introduction	bk	Dadon kumaw													43726	wt
 -40927278615	Bible	bk	Bibulu													43726	wt
--4123020142	Punir		Ɲangi	BFA												43726	unbouake v wt
 43139702982	Tout puissant	wt	Sebagayabɛɛtigi													43726	wt
 -44178618673	Lecture de la bible	bk	Bibulu kalangwɛ													43726	wt
 -4434272399	Révision	jl 9	Segikanni													43726	wt
@@ -1140,7 +1138,7 @@
 4894740815	Messie	bk	Masiya													43726	wt
 4894757744	Royaume	bk	Masaya													43726	wt
 4896872164	Interlocuteur	bk	Lamɛnbaga			Lamɛnnikɛla										43726	wt
--52670184468	Monde / terre 	tract	Duniɲa			Diɲe	ABBF									43726	
+-52670184468	Monde / terre	tract	Duniɲa			Diɲe	ABBF									43726	
 -53017499366	Envoyé de dieu	bk	Ala ka ciden													43726	wt
 -53017833927	Commandement	jl 16	Cii													43726	wt
 -53017885414	Gloire	bk	Nɔɔrɔ													43726	wt
@@ -1165,7 +1163,6 @@
 -54217186340	Famille du béthel	jl 21	Betɛli ka denbayamɔgɔw													43726	wt
 -54217186341	Béthel	jl 21	Bɛtɛli													43726	wt
 -5583657714	Démon	bk	Jina													43726	wt
--55856535110	Sacrifier	bk	Saraka	v	N ka wari saraka											43726	v vt wt
 -55856535126	Ressussiter	bk	Lakunun													43726	wt
 -55856535130	Éternellement	bk	Kudayi													43726	wt
 -55856535132	Originel		Kɔrɔba													43726	marked wt
@@ -1177,3 +1174,4 @@
 -7054053843	Expliquer	jl 19	Ɲɛfɔ													43726	wt
 -7054111008	Guider	bk	Ɲɛminɛ (v)	v												43726	v wt
 -8263134106	Dessein	bk	Sago													43726	wt
+	Est-ce que le poisson est mieux que la viande?	kodi	Jɛgɛ ma di ni sogo ye wa?														

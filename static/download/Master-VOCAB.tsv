@@ -1,4 +1,3 @@
-000000000000	SYNCDATE																
 0f7aaa1a-8b0f-457d-925b-dfa437969f95	Colère	yq	Dimiya			Dusudiya										43725	
 10324820876	Canard	bk	Tongonon													43725	animal
 10327043748	Fourmi	yq	Jugumɛni			Dugumɛnɛ	BFA	Mɛnɛmɛnɛ								43725	animal
@@ -27,7 +26,7 @@
 1527946171929	Travailler	yq	Baara kɛ													43725	vi
 1527946171945	Fuir / Echapper / Courir / Conduire	kodi	Bori			Boli										43725	essentiel vi
 1527946172032	Mal / Douleur	yq	Dimi (n)													43725	corp essentiel
-1527946172154	Quand ?	yq	Waati jumɛn			Tuma jumɛn	BKE									43725	essentiel
+1527946172154	De temps en temps	kamagate	Tuma kelen kelen													43725	essentiel
 1528479911909	Argent	yq	Wari			Warigwɛ										43725	essentiel
 1528479911910	Argile	yq	Bɔgɔn													43725	
 1528479911911	Au travail	yq	Baarakɛyɔrɔ la													43725	
@@ -330,7 +329,7 @@
 -27410066336	Bonne nuit	bk	Ala an bɔ su la													43725	marked phrase
 -27414022752	Discussion	bk	Baro (n.)													43725	essentiel
 -27502629559	Louer	bk	Tando													43725	v
--27502669907	Toujours	yq	Bele													43725	marked
+-27502669907	Toujours	yq	Tuma bɛɛ													43725	marked
 27767656744	Ananas	bk	Jabibi	MLI												43725	nourriture
 27768736655	Guêpe	yq	Dondoli													43725	animal
 27768736657	Fourmi ailée	yq	Dugumani siman													43725	animal
@@ -630,7 +629,7 @@
 28382876295	Viande	yq	Sogo													43725	nourriture
 30110950854	Effort pour qu'ils ne te trouvent pas		Jija Kana to o b'i sɔrɔ		Jija Kana to o b'i sɔrɔ											43725	
 30111284369	Bon retour	kamagate	Ala y'a ɲuma segi													43725	
-30111789607	Quelques rares fois	kamagate	Tuma dama dama			Tuma kelen kelen										43725	
+30111789607	Quelques rares fois	kamagate	Tuma dama dama													43725	
 30113296305	D'ici peu / Bientôt		Yani dɔɔni													43725	
 30113742890	Oublier		Ɲini													43725	
 30116592468	Repas de midi	kamagate	Terela												30116592468	43725	
@@ -979,12 +978,13 @@
 -55856535181	Dieu	bk	Ala													43725	essentiel
 -55856535182	C'est bon	bk	A ka ɲi													43725	essentiel
 -55856535183	Merci / diminuer	bk	Barika													43725	essentiel
--55856535184	Jamais / À toujours	yq	Abada			Fewu										43725	essentiel
--5587347447	C'est comme ça	bk	A be tɛ													43725	essentiel phrase
+-55856535184	Jamais / À toujours	yq	Abada													43725	essentiel
+-5587347447	C'est comme ça	bk	A be ten													43725	essentiel phrase
 -5642987963	Bonté	yq	Ɲumanya			Ɲumaya										43725	
 -5643947273	Exemple	wt	Ɲɛyirali	bke		Misali	ma									43725	
 -5644181930	Courage	rc	Jagwɛlɛya	CIV		Jagɛlɛya	MLI									43725	
 -5810084146	C'est moi	bk	Ne lo													43725	phrase
+5826eb35-1ffb-4c00-9c87-a5524498ab4a	Jamais (Never)		Fewu														
 -5841878338	Un long chemin	bk	Sira ka jan													43725	phrase
 -5843352880	Regarder	yq	Filɛ	CIV	N be filɛli kɛ			Lajɛ	MLI							43725	
 -5926327875	Je suis entré dans la maison	bk	N dola bon na.													43725	phrase
@@ -1100,6 +1100,7 @@
 ac0eae92-b771-4811-8705-b2cf5779f267	Arranger (les choses) / Régler (problème) / Résoudre	yq	Ɲɛnabɔ			Ɲɛ										43725	
 b74bf067-2956-4fa7-986c-f2e5e65f127f	Selon son dire	yq	A ka fɔta la													43725	
 c25c5017-0b81-4201-aa10-6a33221570f8	Bénédiction	yq	Baraji			Duga		Duba								43725	
+daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement		Pewu		Domuni bana pewu												
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	Ban (v)													43725	v vt
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq	Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko		a ko be na	Nege										43725	

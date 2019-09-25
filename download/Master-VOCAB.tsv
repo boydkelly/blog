@@ -81,7 +81,7 @@
 1529143433521	Sucre	yq	Sukaro													43725	nourriture
 1529143433522	Diabète	yq	Sukarobana													43725	santé
 1529143433523	Totem / Interdit	yq	Tana		Tana lo											43725	
-1529143433525	Histoire (une)	yq	Tariki			Maana										43725	marked
+1529143433525	Histoire (une)	yq	Tariku			Maana										43725	marked
 1529143433526	Disenterie	yq	Tɔgɔtɔgɔmi													43725	santé
 1529143433528	Malheur / Peine / Souffrance	yq	Tɔɔrɔ													43725	
 1529143433529	Week-End	yq	Wikɛni			Lɔgɔkun laban na										43725	calendrier
@@ -338,13 +338,13 @@
 27768736666	Mouche	yq	Limɔgɔ													43725	animal
 27768736668	Veau	yq	Misiden													43725	animal
 27768736670	Agneau	yq	Sagaden													43725	animal
-27768736671	Éléphant	yq	Sama													43725	animal
+27768736671	Éléphant	<br>	Sama (n)													43725	animal
 27768736672	Poulet	yq	Sisɛ	CIV		Sɛsɛ	BFA									43725	animal
 27768736675	Moustique	yq	Soso													43725	animal
 27768736676	Singe	yq	Sula													43725	animal
 27768736677	Grenouille	yq	Tɔri sen jan	CIV		Tɔri	BFA	Ntɔri	MLI							43725	animal
 27783419432	Bénin	yq	Benɛn													43725	geo
-27783419593	Discours / Enseignement	jl 3	Kalan													43725	wt
+27783419593	Discours / Enseignement	jl 3	Kalan													43726	wt
 27783419693	A leur insu		U ɲina ma													43725	export
 27809169043	Humilité / Modestie	yq	Majigilenya													43725	
 27809169044	Poing	yq	Bolokuru					bolokurun	bm							43725	corp
@@ -398,7 +398,7 @@
 27946171957	Homme / Mâle / Mari	yq	Cɛɛ			Cɛman										43725	gens essentiel
 27946171958	Vieux (homme)	yq	Cɛkɔrɔba													43725	gens
 27946171959	Vieillard	yq	Cɛkɔrɔnin													43725	gens
-27946171960	Porte	yq	Daa			Koon		Koon								43725	marked
+27946171960	Porte	yq	Daa			Koon										43725	marked
 27946171961	Limite / Fin / Extrémité	yq	Daan			Danyɔrɔ				Dan na		A ka misɛn				43725	marked
 27946171962	Limiter	yq	Daan bɔ													43725	v
 27946171963	Mettre fin	yq	Daan sigi													43725	v
@@ -529,7 +529,7 @@
 27946172106	Bonne épouse / femme	yq	Muso ɲuman													43725	gens
 27946172107	Affaiblir	yq	Nagasi													43725	v
 27946172109	Larme	yq	Ɲaji			Ɲɛji		ɲɛji	bm							43725	corp
-27946172111	Plaindre (se)	yq	Ŋuna			Ŋunuŋunu		Dajukɔrɔ kuma fɔ								43725	v
+27946172111	Plaindre (se)	yq	Ŋuna			Ŋunuŋunu										43725	marked v
 27946172112	Patron	yq	Patɔrɔn													43725	gens
 27946172113	Permis (de conduire)	yq	Pɛrɛmi													43725	
 27946172114	Acheter		San	v												43725	essentiel v
@@ -688,7 +688,7 @@
 -40927312869	Aujourd'hui	yq	Bi													43725	calendrier
 410971251534	Fin		Laban													43725	
 -4122869514	Esclavage	bk	Jɔnya													43725	
--4123020142	Punir		Ɲangi	BFA												43725	unbouake v wt
+-4123020142	Punir		Ɲangi	BFA												43726	unbouake v wt
 -4123054025	Humble	yq	Majiginin			Majigilen										43725	marked
 4294519453	Dos	bk	Kɔ													43725	corp
 43139787968	Il se souvient		A hakili b'a													43725	
@@ -742,7 +742,7 @@
 -44639764826	Conscience	bk	Dusukun													43725	
 -44647220195	Réponse	bk	Jabili													43725	essentiel question
 -44647367870	Questionner	yq	Ɲiniga		Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ	Ɲiningan										43725	v
--45246239492	Montrer	yq	Yira			Yira mɔgɔ la										43725	v
+-45246239492	Montrer	yq	Yira		Yira mɔgɔ la											43725	v
 4542062599	Coriandre	bk	Kusubara													43725	marked nourriture
 -4633547634	Ancêtre	yq	Bɛmacɛ													43725	bambara v
 -4633571900	Peut-être	yq	N'a sɔrɔ													43725	essentiel marked
@@ -863,7 +863,7 @@
 -53958647738	Oreille	yq	Toro			Tulo										43725	corp
 -53958647739	École	yq	Lakɔli													43725	essentiel
 -53958647740	Roue	bk	Pine													43725	essentiel
--53958647741	Repas / Nourriture / Plat	jl 14	Domuni	CDI		Dumuni	BF	Fana								43725	essentiel
+-53958647741	Repas / Nourriture / Plat	jl 14	Domuni	CDI		Dumuni	BF	Fana								43725	essentiel n
 -53958647742	Cheveux	yq	Kunsigi					kùnsigi	bm							43725	corp
 -53958647743	Amie	kodi	Terimuso													43725	essentiel
 -53958647744	Bolo	bk	Bras / Main													43725	essentiel
@@ -922,7 +922,7 @@
 -55856535102	Lion	yq	Waraba	MLI		Jara / Jaraba	CIV									43725	animal
 -55856535105	Partir / Aller	bk	Taga		A tagala Abidjan	Taa										43725	essentiel vi
 -55856535106	Dépouilles, morts	bk	Suw													43725	
--55856535110	Sacrifier	bk	Saraka	v	N ka wari saraka											43725	v vt wt
+-55856535110	Sacrifier	bk	Saraka	v	N ka wari saraka											43726	v vt wt
 -55856535111	Mourir	bk	Saya		Wulu sala											43725	v vi
 -55856535114	Grande pluie	bk	Sanjiba													43725	essentiel
 -55856535115	Pluie / Année	kodi	Sanji													43725	essentiel
@@ -1041,6 +1041,7 @@
 68384336274	Voler		Sonyali kε		N'i t’a fε ka kaso kε, I ma kan ka sonyali kε.	Soɲɛ		Sɔɲa								43725	essentiel
 68384730115	Viens vite ! sinon je vais partir.		Nan jonan n’o tɛ n bɛna taga!													43725	phrase
 68479908582	Quelques		damanin		Saan damanin o kɔ												
+69417151835	Parler doucement	musa	Dajukɔrɔ kuma fɔ														
 -6966007741	Jai un bic.	bk	Biki be ne fɛ.													43725	phrase
 -7051617887	Joie	yq	Ninsɔndiya			Nyagali		Nagali								43725	v
 -7056601206	J'ai une montre	bk	Montɔrɔ be ne fɛ													43725	

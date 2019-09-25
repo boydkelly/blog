@@ -287,7 +287,7 @@
 22159483862	Avant que	kodi	Sani		Sani i facɛ ye nan, i ka kan ka yɔrɔ labɛn.											43725	marked
 22161653911	Ce n'est pas ça / lui	bk	Ale tɛ													43725	phrase
 22488632402	C'est l'homme qui fait l'homme	bk	Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye													43725	phrase
-24580719515	Depuis	bk	Kabini		Kabini a nan na a ma a bamuso ye.											43725	
+24580719515	Depuis	bk	Kabi		Kabini a nan na a ma a bamuso ye.	Kabini										43725	
 24580780075	Si	yq	Ni...			Mana										43725	bambara unbouake
 2476966392	Criquet / Sauterelle	bk	Tɔɔn			Ngreni	bke			Jolon						43725	animal marked
 2476995342	Griot	bk	Jeli													43725	
@@ -889,7 +889,7 @@
 -54218752720	Laquelle?	bk	Juman?													43725	question
 -54218752721	Qu'est que c'est?	bk	Nin ye mun lo ye?			Mun lo?										43725	phrase question
 -54218752722	C'est quoi ?	bk	Mun lo?													43725	question
--54218752723	Comment?	bk	Cogo di?													43725	question
+-54218752723	Comment - de quelle façon?	bk	Cogo di?													43725	question
 -54218752724	Écouter	yq	Lamɛni kɛ													43725	v
 -54218752725	Dormir	yq	Sinɔgɔ			Sunɔgɔ										43725	v
 -54218752726	Ce / Celui-ci / Celui-là	bk	Nin													43725	essentiel
@@ -978,7 +978,7 @@
 -55856535181	Dieu	bk	Ala													43725	essentiel
 -55856535182	C'est bon	bk	A ka ɲi													43725	essentiel
 -55856535183	Merci / diminuer	bk	Barika													43725	essentiel
--55856535184	Jamais / À toujours	yq	Abada													43725	essentiel
+-55856535184	À jamais / À toujours	yq	Abada													43725	essentiel
 -5587347447	C'est comme ça	bk	A be ten													43725	essentiel phrase
 -5642987963	Bonté	yq	Ɲumanya			Ɲumaya										43725	
 -5643947273	Exemple	wt	Ɲɛyirali	bke		Misali	ma									43725	
@@ -1002,7 +1002,7 @@
 6684371870	Gauche (à)	yq	Numan (bolo) fɛ													43725	essentiel
 -6713724513	Je veux dire que...	bk	Ne be fɛ ka fɔ ko...													43725	marked phrase
 -6713968474	Je dis	bk	Ne ko													43725	phrase
--6714023040	Jusqu'à	kodi	Fɔɔ		example	Kabini										43725	essentiel
+-6714023040	Jusqu'à	kodi	Fɔɔ		example											43725	essentiel
 -6714070575	Je ne viendrai pas	bk	N tena na													43725	phrase
 67259722212	Idole / Fétiche		Boli		Boli sɔn											43725	
 67339326626	Ainsi / Comme ça		Ten		I kana kuma ten !											43725	essentiel
@@ -1084,6 +1084,7 @@
 -8360992248	J'ai compris. / J'ai entendu.	bk	N ka mɛn.													43725	phrase
 -8361038700	Je t'ai entendu.	bk	N k'i lamɛn.													43725	phrase
 -8439635054	Il est grand	bk	A ka jan													43725	phrase
+848a5746-4503-435d-8a05-514144b3b49c	Éternelle		Banbali														
 -8521542029	Poisson fumé	bk	Jɛgɛ usu													43725	nourriture
 -8522151866	Attends moi	bk	Lɔ ka n kɔnɔ													43725	phrase
 -8522305713	Un jour avant hier	bk	Kuna sini kɔfɛ													43725	calendrier

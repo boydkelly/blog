@@ -26,7 +26,7 @@
 1527946171929	Travailler	yq	Baara kɛ													43725	vi
 1527946171945	Fuir / Echapper / Courir / Conduire	kodi	Bori			Boli										43725	essentiel vi
 1527946172032	Mal / Douleur	yq	Dimi (n)													43725	corp essentiel
-1527946172154	De temps en temps	kamagate	Tuma kelen kelen													43725	essentiel
+1527946172154	Chaque fois	kamagate	Tuma kelen kelen													43725	essentiel
 1528479911909	Argent	yq	Wari			Warigwɛ										43725	essentiel
 1528479911910	Argile	yq	Bɔgɔn													43725	
 1528479911911	Au travail	yq	Baarakɛyɔrɔ la													43725	
@@ -36,12 +36,12 @@
 1528816741117	Python	kamagate	Mininyanba			Mininyan suruni										43725	animal
 1529143433471	Discuter / Bavarder	yq	Baro kɛ													43725	essentiel vi
 1529143433472	Animal domestique	yq	Bɛgan	CIV	Soo ye bɛgan ye	Bigan		Bagan								43725	animal
-1529143433473	Cailloux / Gravier / Pierre	yq	Kabakuru	CIV		Farakolo			Donner / (Livrer / Fournir)	yq				Di ... ma		43725	
+1529143433473	Cailloux / Gravier / Pierre	yq	Kabakuru	CIV		Farakolo										43725	
 1529143433474	Bobo-Dioulasso	yq	Bobo-Julaso													43725	geo
 1529143433475	Artisant	yq	Bololabaara													43725	gens marked
 1529143433476	Gros / Vaste	yq	Bon (adj.)													43725	essentiel marked
 1529143433477	Constructeur	yq	Boon lɔbaga													43725	gens
-1529143433478	Sac	yq	Saki			Bɔrɔ		Sakɔsi		saki						43725	
+1529143433478	Sac	yq	Saki			Bɔrɔ		Sakɔsi								43725	
 1529143433479	Panetier	yq	Buru dilanbaga			Buru kera tigi										43725	gens
 1529143433480	Museau	yq	Dakala													43725	corp
 1529143433482	Diphtérie	yq	Falakabana													43725	santé
@@ -630,7 +630,7 @@
 30111284369	Bon retour	kamagate	Ala y'a ɲuma segi													43725	
 30111789607	Quelques rares fois	kamagate	Tuma dama dama													43725	
 30113296305	D'ici peu / Bientôt		Yani dɔɔni													43725	
-30113742890	Oublier		Ɲini													43725	
+30113742890	Oublier		Ɲini		A ɲinɛna an kɔ	Ɲinɛ										43725	
 30116592468	Repas de midi	kamagate	Terela												30116592468	43725	
 -31737613286	Sur	kodi	Kan													43725	essentiel
 -31737677739	À côté de	yq	Gɛrɛfɛ													43725	
@@ -1022,13 +1022,13 @@
 68383266906	Ali est une bonne personne		Ali ye mɔgɔ nyuman ye													43725	
 68383285942	Combien ya t-il d’œufs dans la corbeille ?		sisɛfan den joli bɛ segi kɔnɔ?													43725	
 68383345081	Je ne sais pas compter jusqu’à dix		n tɛ se ka jatebɔ fɔ ka se tan													43725	phrase
-68383402573	Hier, j’ai acheté une chaussure.		kunu n ka samara san.													43725	phrase
+68383402573	Hier, j’ai acheté des chaussures.		kunu n ka samara san.													43725	phrase
 68383536529	Madou a porté une chemise.		Madu ka dereke do.													43725	phrase
 68383551473	Penda a salué son ami.		Penda k'a tericɛ fo.													43725	phrase
 68383566545	Le professeur a acheté une voiture.		lakɔlifa ka mobili san.													43725	phrase
 68383581521	Ma femme a eu du travail.		n muso ka baara sɔrɔ.													43725	phrase
 68383600492	parle fort		i bɛ i kan labɔ													43725	phrase
-68383905287	On doit respecter les parents		Mɔgɔ ka kan ka a bangebagaw bonya													43725	phrase
+68383905287	On doit respecter ses parents		Mɔgɔ ka kan ka a bangebagaw bonya													43725	phrase
 68384036972	Laves-toi les mains avant de manger.		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.													43725	phrase
 68384052710	Siriki n’ira pas au travail aujourd'hui parce qu’il ne se porte pas bien.		Siriki tεna taga baarakɛyɔrɔ la bi sabu a ma kɛnɛ.													43725	phrase
 68384079903	Amidou a un mauvais comportement pour cela il n’a pas d’amis.		Amidu jogo ma nyi, o kosɔn teri tɛ a fɛ.													43725	phrase

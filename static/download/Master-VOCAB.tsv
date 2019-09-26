@@ -14,7 +14,7 @@
 1451813917579	Combien	yq	Joli		Joli bɛ i kuŋ / bolo											43725	question
 1516095877	Il est parti la bas	bk	A tagala yen													43725	bouake
 -15176919454	Amour	yq	Kanuya													43725	essentiel
--15266935615	Entrer	bk	Do													43725	v
+-15266935615	Entrer	bk	Do			Don										43725	v
 -15266981711	Donner / (Livrer / Fournir)	bk	Di ... ma													43725	v
 -15267201502	Profit / Bénéfice / Important		Nafa		N ka nafa / tɔnɔn sɔrɔ / Nafa la bon	Tɔnɔn										43725	marked
 -15267243828	Blanc	yq	Gɛ			Gwɛman				Jɛ						43725	
@@ -93,21 +93,21 @@
 1529227811242	Concombre	wt	Kɔkɔnburu													43725	nourriture
 1529227963980	Ail	wt	Layi													43725	nourriture
 1529496492240	Tousser		Sɔgɔsɔgɔ													43725	santé
-1529599765334	Tout comme	jl 1	I n’a fɔ													43726	
-1529599765401	Choix	jl 8	Sugandili													43725	
-1529599765409	Radio	jl 9	Arajo													43725	
-1529599765412	Soucis	jl 9	Haminankow													43726	
-1529599765431	L'age	jl 10	Sanda													43725	
-1529599765462	La plage	jl 12	Kɔgɔjida													43725	
+1529599765334	Tout comme	jl 1	I n’a fɔ													43726	export
+1529599765401	Choix	jl 8	Sugandili													43725	export
+1529599765409	Radio	jl 9	Arajo													43725	export
+1529599765412	Soucis	jl 9	Haminankow													43726	export
+1529599765431	L'age	jl 10	Sanda													43725	export
+1529599765462	La plage	jl 12	Kɔgɔjida													43725	export
 1529599765466	Téléphone	jl 12	Telefɔni													43725	
-1529599765470	Gens de la maison	jl 12	Somɔgɔw													43725	
-1529599765512	Travail manuel	jl 16	Bolo baara													43725	
+1529599765470	Gens de la maison	jl 12	Somɔgɔw													43725	export
+1529599765512	Travail manuel	jl 16	Bolo baara													43725	export
 1529599765537	L'eau à boire	jl 18	Jii minta													43725	
 1529599765545	Se dépêcher	jl 18	Teliya													43725	v
 1529599765547	Transmettre / envoyer	jl 18	Lase		Lase ... a ma											43725	
-1529599765579	Internet	jl 21	Ɛntɛrɛnɛti													43726	
+1529599765579	Internet	jl 21	Ɛntɛrɛnɛti													43726	export
 1529599765589	La venue	jl 22	Nali													43725	
-1529599765600	Ordinateur	jl 23	Ɔrdinatɛriw													43726	
+1529599765600	Ordinateur	jl 23	Ɔrdinatɛriw													43726	export
 1529599765613	Années passées	jl 25	Saan tɛmɛninw													43725	
 1529657783606	Cheville		Ntama / ntamakuru	BMI												43725	corp
 1529657783607	Cil		Ɲɛsi					ɲɛsi,ɲɛwolosi	bm							43725	corp
@@ -190,7 +190,7 @@
 1538906597740	Ville		Duguba													43725	
 1539113758485	Avenir	mwb	Sinima			Siniɲasigi	tract									43725	marked
 -15868363272	Fidélité / Intégrité	bk	Kantigiya													43725	
--15924466213	Porte / bouche	bk	Da		I da tugu !											43725	corp essentiel
+-15924466213	Porte / bouche	bk	Da		I da tugu !	Koon										43725	corp essentiel
 -15925488548	Vent	bk	Fɔɲɔ													43725	essentiel
 -15925527333	Tais-toi !	bk	I da tugu !			I da je !										43725	marked phrase
 -16300439867	Oiseau	yq	Kɔnɔnin			Kɔnɔn										43725	animal
@@ -338,7 +338,7 @@
 27768736666	Mouche	yq	Limɔgɔ													43725	animal
 27768736668	Veau	yq	Misiden													43725	animal
 27768736670	Agneau	yq	Sagaden													43725	animal
-27768736671	Éléphant	&lt;br&gt;	Sama (n)													43725	animal
+27768736671	Éléphant	<br>	Sama (n)													43725	animal
 27768736672	Poulet	yq	Sisɛ	CIV		Sɛsɛ	BFA									43725	animal
 27768736675	Moustique	yq	Soso													43725	animal
 27768736676	Singe	yq	Sula													43725	animal
@@ -346,7 +346,7 @@
 27783419424	Il nous a oublié		A ɲinɛna an kɔ													43726	wt
 27783419432	Bénin	yq	Benɛn													43725	geo
 27783419593	Discours / Enseignement	jl 3	Kalan													43726	wt
-27783419693	A leur insu		U ɲina ma													43725	
+27783419693	A leur insu		U ɲina ma													43725	export
 27809169043	Humilité / Modestie	yq	Majigilenya													43725	
 27809169044	Poing	yq	Bolokuru					bolokurun	bm							43725	corp
 27809169045	Barbe	yq	Bonbonsi					Boonsi	bm							43725	corp
@@ -1099,8 +1099,8 @@
 9184759070	Salutation marché	bk	I ni lɔgɔ													43725	essentiel salutations
 9184791617	Salutation lessive ou porter l'eau	bk	I ni kɔɔ													43725	essentiel salutations
 95f2352d-13de-4565-8b50-f8428fbc3448	Selon toi	yq	A ka miiriya la			Alu fɛ										43725	
+9783eddb-def7-4658-a22b-2995eeb440bf	Conviction / Point de vue	yq	Fɛta		An be min fɔra an yɛrɛ lanen b'o la tigitigi			Jigisigi								export	
 ac0eae92-b771-4811-8705-b2cf5779f267	Arranger (les choses) / Régler (problème) / Résoudre	yq	Ɲɛnabɔ			Ɲɛ										43725	
-	Amical		Teriman														
 b74bf067-2956-4fa7-986c-f2e5e65f127f	Selon son dire	yq	A ka fɔta la													43725	
 c25c5017-0b81-4201-aa10-6a33221570f8	Bénédiction	yq	Baraji			Duga		Duba								43725	
 daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement		Pewu		Domuni bana pewu												

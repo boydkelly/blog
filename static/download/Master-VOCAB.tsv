@@ -67,11 +67,11 @@
 1529143433505	Guinée Equatoriale	yq	Laginɛ Ekuwat.													43725	geo
 1529143433506	Hebdomadaire	yq	Logokun o logokun													43725	calendrier
 15291434335074	Le week-end	yq	Lɔgɔkun laban na													43725	
-1529143433508	Compatissant	yq	Makaritigi													43725	
+1529143433508	Compatissant	yq	Makaritigi													43725	marked
 1529143433509	Besoin (n)	yq	Makoya													43725	
 1529143433511	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri			Nɛnɛkili										43725	marked santé
 1529143433512	Trouble respiratoire	yq	Nɛnɛkiri bana													43725	santé
-1529143433513	Faux / Mensonge / Calomnie	yq	Faniɲan	BKE		Ngalon	BFA	uwia	CDI							43725	
+1529143433513	Faux / Mensonge / Calomnie	yq	Faniɲan	BKE		Ngalon	BFA	Wuya	CDI							43725	marked
 1529143433514	Cadeau	yq	Nilifɛn			Kado										43725	
 1529143433516	Centrafrique	yq	Santarafiriki													43725	geo
 1529143433517	Or	yq	Sanu													43725	
@@ -252,7 +252,7 @@
 -18512229590	Ensemble	kodi	Ɲɔngɔn fɛ		An be ɲɔgɔn fɛ											43725	essentiel
 -18512251732	Prochain / À venir	yq	Nata													43725	essentiel
 -18512314835	Étudiant	yq	Lakoliden			Kalanden										43725	gens
--18766567636	Perdre	bk	Tunu													43725	v
+-18766567636	Perdre	bk	Tunu													43725	leech v
 -18766759486	Partout	yq	Yɔrɔ bɛɛ													43725	essentiel
 -18766798266	Chercher	yq	Ŋini													43725	v
 -18767289424	Cahier / papier	bk	Sɛbɛ													43725	essentiel
@@ -498,7 +498,7 @@
 27946172072	Mots	yq	Kumadenw			Daɲɛw										43725	
 27946172073	Phrase	yq	Kumasen													43725	
 27946172074	Lèpre	yq	kunatɔ			Kuna		Kunatɔbana								43725	santé
-27946172077	Délivrer / Racheter / Sauver	yq	Kunmabɔ			Kisi		Kisi		Hɔɔrɔnya		Labɔ				43725	marked v
+27946172077	Délivrer / Racheter / Sauver	yq	Kunmabɔ			Kisi		Labɔ		Hɔɔrɔnya						43725	marked v
 27946172078	Chef, propriétaire	yq	Kuntigi			Tigi		Tigi								43725	gens
 27946172080	Conseiller	yq	Ladi													43725	v
 27946172081	Suggestion / Conseil / Recommandation	yq	Ladili													43725	v
@@ -556,7 +556,7 @@
 27946172137	Feu	yq	Tasuma			Ta	(n)									43725	
 27946172138	Véritable ami	yq	Teri sɔbɛ													43725	gens
 27946172139	Bras / Main	yq	Bolo													43725	corp
-27946172141	Couper / Traverser	yq	Tigɛ													43725	v
+27946172141	Couper / Traverser		Tigɛ (v)													43725	v
 27946172142	Découper	yq	Tigɛtigɛ													43725	v
 27946172143	Propriétaire	yq	Tigitigi			Tigi										43725	gens
 27946172144	Achever / Terminer / Finir (un travail)	yq	Tila													43725	v
@@ -683,7 +683,7 @@
 40379018800	Manger		Domu		Kunu, n ka jɛgɛ domu. / N ka domuni kɛ.	Domuni kɛ										43725	vi vt
 40399670729	Je compte sur toi		N jigi b'i kan													43725	phrase
 407185730834	Visage		Ɲa	CIV	N bena ɲa ko.	Ɲɛ	BFA	ɲɛda,ɲɛna	bm							43725	corp essentiel
-408441172584	Toutefois / Cependant	dico	O bɛɛ n'a taa													43725	
+408441172584	Toutefois / Cependant / Malgré tout	dico	O bɛɛ n'a taa													43725	
 408444538694	Raté	dico	Jɛn													43725	
 -40927183476	Cendre	yq	Buguri			Buguri(gwɛ)										43725	
 -40927312869	Aujourd'hui	yq	Bi													43725	calendrier
@@ -1033,7 +1033,7 @@
 68383905287	On doit respecter ses parents		Mɔgɔ ka kan ka a bangebagaw bonya													43725	phrase
 68384036972	Laves-toi les mains avant de manger.		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.													43725	phrase
 68384052710	Siriki n’ira pas au travail aujourd'hui parce qu’il ne se porte pas bien.		Siriki tεna taga baarakɛyɔrɔ la bi sabu a ma kɛnɛ.													43725	phrase
-68384079903	Amidou a un mauvais comportement pour cela il n’a pas d’amis.		Amidu jogo ma nyi, o kosɔn teri tɛ a fɛ.													43725	phrase
+68384079903	Amidou a un mauvais comportement pour cela il n’a pas d’amis.		Amidu jogo ma ɲi, o kosɔn teri tɛ a fɛ.													43725	phrase
 68384094188	Je veux acheter une voiture mais je n’ai pas d’argent.		N b’a fɛ ka mobili san nka wari tɛ n bolo.													43725	phrase
 68384116357	Travaille bien sinon je ne te payerai pas.		baara kε kanyan n’o tε n tεna i sara													43725	phrase
 68384142440	Allons vite avant qu’il ne pleuve.		An ye taga jonan sani sanji bε ben.													43725	phrase
@@ -1047,6 +1047,8 @@
 69417151835	Parler doucement	musa	Dajukɔrɔ kuma fɔ														
 -6966007741	Jai un bic.	bk	Biki be ne fɛ.													43725	phrase
 69690639735	Réussir		Ɲana														
+69916885057	Que Dieu vous accompagne		Ala ka ɲuman do														
+69921165450	Que Dieu fasse que nous soyons d'accord		Ala an ben sen na														
 -7051617887	Joie	yq	Ninsɔndiya			Nyagali		Nagali								43725	v
 -7056601206	J'ai une montre	bk	Montɔrɔ be ne fɛ													43725	
 7214395493	Compatir		Makari													43725	marked wt
@@ -1093,7 +1095,7 @@
 -8522151866	Attends moi	bk	Lɔ ka n kɔnɔ													43725	phrase
 -8522305713	Un jour avant hier	bk	Kuna sini kɔfɛ													43725	calendrier
 -8523273944	Ils ne sont pas ici	bk	O tɛ yen													43725	marked phrase
--8878884938	Ca fait deux jours	bk	A kɛla tere fila	CIV				I ni la fila	MLI							43725	essentiel phrase
+-8878884938	Ca fait deux jours	bk	A kɛla tere fila	CIV		I ni fama	OD	I ni la fila	MLI							43725	essentiel phrase
 899da4f4-e157-4031-8e4b-cf59702a1303	C'est dangereux	yq	Farati  b'a la													43725	
 8f72e15d-72e6-47bf-b99d-164b41eabc8c	Danger		Farati		Farati b'a la											43725	
 -9126606725	Neuf / Nouveau	yq	Kura													43725	essentiel
@@ -1112,9 +1114,7 @@ c25c5017-0b81-4201-aa10-6a33221570f8	Bénédiction	yq	Baraji			Duga		Duba							
 	Cesser / Interompre	wt 	Wo														v
 daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement		Pewu		Domuni bana pewu												
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	Ban (v)													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE							anki	20191003150206								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE							anki	20191003171234								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq	Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq	Dimi			Dusubɔ										43725	
-	Que Dieu fasse que nous soyons d'accord		Ala an ben sen na														
-	Que Dieu vous accompagne		Ala ka ɲuman do														

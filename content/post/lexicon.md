@@ -30,17 +30,15 @@ n k'aw ye.
 Je vous ai vus.
 
 à
-
 : pr 3è s.
 
 * Awa be min ? a be bon kɔnɔ.
-
   Où est Awa ? Elle est dans la maison.
+  
 * Musa k'a dɔgɔcɛ bugɔ.
-
   Mussa a frappé son frère.
+  
 * i ta mobili, n m'a ye fɔlɔ.
-
   Ta voiture, je ne l'ai ps encore vue.
 
 abada

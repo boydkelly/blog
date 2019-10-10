@@ -1,13 +1,15 @@
 ---
 title: "Lexique du Dioula"
 date: 2018-05-23T14:32:15Z
+type: "post"
 draft: true
-
-categories: []
-tags: []
 author: "COULIBALY Moussa, HARAGUCHI Takehiko"
 
+keywords: ["jula", "lexicon"]
+topics: ["Jula"]
+tags: ["afrique", "langue", "jula"]
 
+---
 
 <p style="text-align: center;">PREFACE</p>
 

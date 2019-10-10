@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseurl = "http://www.coastsystems.net"
+baseurl = "http://coastsystems.net"
 canonifyurls = true
 disqusShortname = "www-coastsystems-net"
 metaDataFormat = "toml"

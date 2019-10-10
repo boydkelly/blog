@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Coast Business Technologies</title>
+    <link>http://coastsystems.net/fr/marques/tech/</link>
+    <description>Recent content in Tech on Coast Business Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
+    <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
+    <copyright>(c) 2018 Boyd Kelly</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://coastsystems.net/fr/marques/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clavier Ivoirien</title>
+      <link>http://coastsystems.net/fr/2018/07/01/clavier-ivoirien/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://coastsystems.net/fr/2018/07/01/clavier-ivoirien/</guid>
+      <description>Je suis très heureux de publier le &amp;lsquo;Clavier Ivoirien&amp;rsquo; sur un repo publique pour distros à base rpm. Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes. Il y inclut aussi un clavier standard &amp;laquo;Français (Côte d,Ivoire). On peut l&amp;rsquo;installer sur les systems &amp;lsquo;rpm&amp;rsquo;: Fedora, Suse, Mageia etc. Simplement ajouter le repo approprié disponible ici:
+https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/
+** Installation
+*** Fedora:
+ sudo dnf copr enable boydkelly/xkeyboard-config-ci</description>
+    </item>
+    
+    <item>
+      <title>Datally</title>
+      <link>http://coastsystems.net/fr/2018/05/22/datally/</link>
+      <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://coastsystems.net/fr/2018/05/22/datally/</guid>
+      <description>&lt;h2 id=&#34;nouvelle-application-de-google-pour-gérer-l-usage-wifi&#34;&gt;Nouvelle application de Google pour gérer l&amp;rsquo;usage wifi&lt;/h2&gt;
+
+&lt;p&gt;Voici une nouvelle application Datally, de Google qui permet de suivre et de contrôler les applications qui mangent la volume internet.  Gratuit et sans pub.  Une nécessité pour les connections 3g/4g&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

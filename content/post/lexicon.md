@@ -23,11 +23,9 @@ Ce lexique est inspiré du Petit Dictionnaire Dioula que C. Braconnier et M. J. 
 a / aw
 : pr. 2è pl.
 
-a bamuso nana.
-Votre mère est venue.
+a bamuso nana.	| Votre mère est venue.
 
-n k'aw ye.
-Je vous ai vus.
+n k'aw ye. | Je vous ai vus.
 
 à
 : pr 3è s.

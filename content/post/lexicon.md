@@ -18,7 +18,7 @@ draft: true
 
 Ce lexique est inspiré du Petit Dictionnaire Dioula que C. Braconnier et M. J. Derive ont publié en 1978 [^1].  Comme le dictionnaire précédent, il voudrait être simplement un outil commode pour les personnes qui souhaitent pouvoir parler Dioula en Côte d'Ivoire. Il peut être utilisé comme complément à la méthode "ko dì"? de l'Institut de Linguistique Appliquée d'Abidjan.
 
-[^]; C. Braconnier et M. J. Derive, <b>Petit Dictionnaire Dioula</b>. Institut de Linguistique Appliquée, Abidjan, 1978
+[^1]; C. Braconnier et M. J. Derive, <b>Petit Dictionnaire Dioula</b>. Institut de Linguistique Appliquée, Abidjan, 1978
 
 a / aw
 : pr. 2è pl.

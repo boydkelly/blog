@@ -21,21 +21,28 @@ Ce lexique est inspiré du Petit Dictionnaire Dioula que C. Braconnier et M. J. 
 \[^\]; C. Braconnier et M. J. Derive, <b>Petit Dictionnaire Dioula</b>. Institut de Linguistique Appliquée, Abidjan, 1978
 
 a / aw
+
 : pr. 2è pl.
 
-* a bamuso nana.
+* a bamuso nana. 
+
   Votre mère est venue.
-  * n k'aw ye.
-    Je vous ai vus.
+* n k'aw ye.
+  Je vous ai vus.
 
 à
-: pr 3è s.
-\-Awa be min ? a be bon kɔnɔ.
-Où est Awa ? Elle est dans la maison.
-\- Musa k'a dɔgɔcɛ bugɔ.
-Mussa a frappé son frère.
-\- i ta mobili, n m'a ye fɔlɔ.
-Ta voiture, je ne l'ai ps encore vue.
+
+: pr 3è s. 
+
+* Awa be min ? a be bon kɔnɔ. 
+
+  Où est Awa ? Elle est dans la maison. 
+* Musa k'a dɔgɔcɛ bugɔ. 
+
+  Mussa a frappé son frère. 
+* i ta mobili, n m'a ye fɔlɔ. 
+
+  Ta voiture, je ne l'ai ps encore vue.
 
 abada
 : jamais

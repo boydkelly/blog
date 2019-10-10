@@ -21,12 +21,12 @@ Ce lexique est inspiré du Petit Dictionnaire Dioula que C. Braconnier et M. J. 
 \[^\]; C. Braconnier et M. J. Derive, <b>Petit Dictionnaire Dioula</b>. Institut de Linguistique Appliquée, Abidjan, 1978
 
 a / aw
-
 : pr. 2è pl.
 
-* a bamuso nana. 
 
+* a bamuso nana. 
   Votre mère est venue.
+
 * n k'aw ye.
   Je vous ai vus.
 

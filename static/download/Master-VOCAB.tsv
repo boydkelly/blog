@@ -49,7 +49,7 @@
 1529143433485	Peau	yq	Fara			Farikolo		Wolo	bm							43725	corp
 1529143433486	France	yq	Faransi jamana													43725	geo
 1529143433487	Athlétisme	yq	Farijo													43725	
-1529143433488	Nu	yq	Farilakolon			Fanita kan										43725	corp
+1529143433488	Nu	kamagate	Farilakolon			Fanita kan										43725	corp
 1529143433489	Folie	yq	Fatɔya			Hakilitanya				Faa						43725	
 1529143433490	Aile	yq	Gama fura													43725	corp
 1529143433492	Condamnation	yq	Jalakili													43725	
@@ -67,7 +67,7 @@
 1529143433505	Guinée Equatoriale	yq	Laginɛ Ekuwat.													43725	geo
 1529143433506	Hebdomadaire	yq	Logokun o logokun													43725	calendrier
 15291434335074	Le week-end	yq	Lɔgɔkun laban na													43725	
-1529143433508	Compatissant	yq	Makaritigi													43725	marked
+1529143433508	Quelqu'un de compatissant	yq	Makaritigi													43725	marked
 1529143433509	Besoin (n)	yq	Makoya													43725	
 1529143433511	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri			Nɛnɛkili										43725	marked santé
 1529143433512	Trouble respiratoire	yq	Nɛnɛkiri bana													43725	santé
@@ -98,7 +98,7 @@
 1529599765409	Radio	jl 9	Arajo													43725	
 1529599765412	Soucis	jl 9	Haminankow													43726	
 1529599765431	L'age	jl 10	Sanda													43725	
-1529599765462	La plage	jl 12	Kɔgɔjida													43725	
+1529599765462	Plage	jl 12	Kɔgɔjida													43725	
 1529599765466	Téléphone	jl 12	Telefɔni													43725	
 1529599765470	Gens de la maison	jl 12	Somɔgɔw													43725	
 1529599765512	Travail manuel	jl 16	Bolo baara													43725	
@@ -268,7 +268,7 @@
 -19139923953	Cochon	bk	Kɔkɔti													43725	animal bouake
 -19139969925	Citron	bk	Lenburu kumu													43725	nourriture
 -19140002611	Chiot	bk	Wuluden													43725	animal
--19140085269	Chemin / Route	bk	Sira													43725	essentiel
+-19140085269	Chemin	bk	Sira													43725	essentiel
 -19140257313	Assiette	bk	Tasa													43725	essentiel
 -19140267857	Arachide	yq	Tiga			Tigɛn										43725	nourriture
 -19338911167	Cest le prix	bk	A sɔngɔ lo													43725	phrase
@@ -376,7 +376,7 @@
 27946171930	Adulte	yq	Baliku													43725	gens
 27946171933	Microbe	yq	Banakisɛ													43725	santé
 27946171934	Maladie contagieuse	yq	Banayɛlɛmata													43725	santé
-27946171935	Naître / Reproduire (enfants)	yq	Bange			Wolo										43725	santé
+27946171935	Naître / Reproduire (enfants)	yq	Bange		I wolola min?	Wolo										43725	santé
 27946171936	Parent	yq	Bangebaga													43725	gens
 27946171937	Stérilité	yq	Bangekɛbaliya													43725	santé
 27946171938	Fécondité	yq	Bangeli													43725	santé
@@ -396,14 +396,14 @@
 27946171954	Centre / Milieu	yq	Camancɛ		A bla a camancɛ la											43725	essentiel
 27946171955	Ramasser / Rassembler	yq	Cɛ			Lajɛn		Lajɛn								43725	v
 27946171956	Célibataire (homme)	yq	Cɛ gwanna													43725	gens
-27946171957	Homme / Mâle / Mari	yq	Cɛɛ			Cɛman										43725	gens essentiel
+27946171957	Homme / Mâle / Mari		Cɛɛ													43725	essentiel gens
 27946171958	Vieux (homme)	yq	Cɛkɔrɔba													43725	gens
 27946171959	Vieillard	yq	Cɛkɔrɔnin													43725	gens
 27946171961	Limite / Fin / Extrémité	yq	Daan			Danyɔrɔ				Dan na		A ka misɛn				43725	marked
 27946171962	Limiter	yq	Daan bɔ													43725	v
 27946171963	Mettre fin	yq	Daan sigi													43725	v
 27946171964	Sevrage	yq	Dabɔli													43725	corp
-27946171965	Accomplir / Comptéter / Réaliser	yq	Dafa													43725	v
+27946171965	Accomplir / Comptéter / Réaliser	yq	Dafa		example											43725	v
 27946171966	Voyelle	yq	Dafanin													43725	
 27946171967	Consonne	yq	Dafata													43725	
 27946171969	Fermer / Enfermer / Couvrir	yq	Tugu			Datugu										43725	v
@@ -476,14 +476,14 @@
 27946172047	Sentir	yq	Kasabɔ													43725	marked v
 27946172048	Accident	yq	Kasara													43725	
 27946172049	Pleurer	yq	Kasi													43725	v
-27946172050	Devenir	yq	Kɛ ... yɛ													43725	v
+27946172050	Devenir	yq	Kɛ ... yɛ		need example											43725	v
 27946172051	Livre	yq	Gafe													43725	v
 27946172052	Exciser	yq	Kɛnɛ-kɛnɛ			Kɔrɔ		Siginɛgɛ								43725	santé
 27946172053	Santé	yq	Kɛnɛya		A be kɛnɛya di											43725	santé
 27946172054	Juge	yq	Kititigɛla													43725	gens marked
 27946172055	Annoncer	yq	Ko fɔ													43725	v
 27946172056	Nord	yq	Kɔgɔdugu yan fan fɛ													43725	
-27946172057	Rivière	yq	Kɔji													43725	geo
+27946172057	Rivière		Kɔɔ			baa										43725	geo
 27946172058	Puit	yq	Kɔlɔn													43725	
 27946172059	Prendre garde / Prêter attention	yq	Kɔrɔsi		ka dusubɔ kɔrɔsi	Kɔlɔsi										43725	v
 27946172061	Diarrhée	yq	Kɔnɔboli													43725	santé
@@ -539,7 +539,7 @@
 27946172119	Arc en ciel	yq	Sanmuru			Ala ka muru										43725	
 27946172120	Tonnerre	yq	Sanpɛrɛ													43725	
 27946172121	Payer	yq	Sara (v.)													43725	v
-27946172123	Répéter	yq	Fɔ tugu													43725	essentiel
+27946172123	Répéter		Fɔ tugu			Segi a kan										43725	essentiel
 27946172124	Voisin	yq	Sigiɲogon													43725	gens
 27946172125	Cohabitant	yq	Sigiɲɔgɔw													43725	gens
 27946172126	Peur (n)	yq	Siranya													43725	
@@ -550,7 +550,7 @@
 27946172131	Soldats	yq	Sɔrɔdasiw													43725	gens
 27946172132	Palu	yq	Sumaya		Sumaya be a la											43725	santé
 27946172133	Bouton / Furoncle	yq	Suguni			Sumunin										43725	santé
-27946172135	Partez d'ici	yq	Ta ka bɔ yan.													43725	phrase
+27946172135	Partez d'ici	yq	Ta ka bɔ yan.													43725	marked phrase
 27946172136	Aller / Partir	yq	Taa			Taga		Taga								43725	v
 27946172137	Feu	yq	Tasuma			Ta	(n)									43725	
 27946172138	Véritable ami	yq	Teri sɔbɛ													43725	gens
@@ -572,7 +572,7 @@
 27946172156	Bouillir	yq	Wili wili													43725	v
 27946172157	Trier	yq	Woloma													43725	v
 27946172158	Sud	yq	Worodugu yan fan fɛ													43725	
-27946172159	Charpentier / Menuisier		Yiri barakɛla	BKE		Yiri dɛsɛla		Yiri gwingwila		Miniziye						43725	gens unbouake
+27946172159	Charpentier / Menuisier		Yiri barakɛla	BKE		Yiri dɛsɛla		Yiri gwingwila								43725	gens unbouake
 27946172160	Sculpteur	yq	Yirilɛsɛla													43725	gens
 27946172161	Journaliste	yq	Zurunali sɛbɛrikɛla													43725	gens
 28035546765	Ajuster / Aplanir / Niveler	yq	Dakɛɲɛ													43725	v
@@ -589,7 +589,7 @@
 28366846362	Pomme d'Adam	alasane	Kaan file file													43725	alasane corp
 28367029046	Sein	alasane	Siin					Sin	bm							43725	corp
 28367076607	Poitrine	alasane	Disi			Disikolo		Disi,kɔgɔ	bm							43725	corp
-28367283754	Éclater, casser, Fendre, Briser	alasane	ci (v)			Kare										43725	alasane
+28367283754	Casser	alasane	ci (v)			Kare										43725	alasane
 28367609785	Vesicule bilaire	alasane	kuna kuna						bm							43725	alasane corp marked
 28367778141	Intestins	alasane	Kɔnɔ nogo					Nugu	bm							43725	alasane corp
 28367944447	Nombril	alasane	Bara kun	CIV		Kɔnɔbara										43725	corp
@@ -671,7 +671,7 @@
 39597583385	Entendre		Lamɛn		N k'i lamɛn	Mɛn		Mɛnni kɛ								43725	marked v
 39805608170	Orange		Lenburu													43725	nourriture
 3b7839e0-090d-4ddd-8173-0774e783aa97	Protéger / Couvrir / Soutenir	yq	Sutara		Ala i sutara											43725	
-3b9a3b6d-10bd-43e1-9e8f-01cbca0eb834	Envers (à l')	yq	A ɲɛɛ jugu kan														
+3b9a3b6d-10bd-43e1-9e8f-01cbca0eb834	À l'envers 	yq	A ɲɛɛ jugu kan														
 3f4ab054-450d-44d6-872b-b30c6f08f9b8	Couvercle	yq	Datugunan														
 40026202749	Voleur		Sɔn			Soncɛ		Sonyalikɛla								43725	
 -4003352986	Continue / vas-y	bk	A kɛ dɔrɔn			Taga a fɛ		Taga a man								43725	bouake
@@ -681,7 +681,7 @@
 40321636200	Unité	mwb	Kelenya													43725	
 40322027585	Demande-toi	mwb	I yɛrɛ ɲininga ko													43725	phrase
 403627311	Commencer	yq	Dabɔ (v)			Daminɛ (v.)		Damina								43725	v vi
-403694429	Cesser / abandonner / Arrêter / Laisser	bk	Dabla			To										43725	bouake marked v
+403694429	Cesser / abandonner / Arrêter / Laisser	bk	Dabla													43725	bouake marked v
 40379018800	Manger		Domu		Kunu, n ka jɛgɛ domu. / N ka domuni kɛ.	Domuni kɛ										43725	vi vt
 40399670729	Je compte sur toi		N jigi b'i kan													43725	phrase
 407185730834	Visage		Ɲa	CIV	N bena ɲa ko.	Ɲɛ	BFA	ɲɛda,ɲɛna	bm							43725	corp essentiel
@@ -741,7 +741,7 @@
 -44437459979	S'assoir	bk	Sigi													43725	v
 -44437573903	Étranger	bk	Lonacɛ			Lonan		Dunan	MLI							43725	gens
 -44437908548	Sortir	bk	Bɔ													43725	v
--44439246043	Gater	bk	Can			Ciɛn										43725	marked v vt
+-44439246043	Gater	bk	Can													43725	marked v vt
 -44639764826	Conscience	bk	Dusukun													43725	
 -44647220195	Réponse	bk	Jabili													43725	essentiel question
 -44647367870	Questionner	yq	Ɲiniga		Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ	Ɲiningan										43725	v
@@ -787,7 +787,7 @@
 -52135832225	Jeter	yq	Firi			Fili										43725	v vt
 -52136264022	Ordures	bk	Ɲaman													43725	essentiel
 -52136464178	Dire	yq	Fɔ													43725	v vt
--52136790920	Réparer	yq	Lalaga	CIV		Ladinɛ	BFA									43725	essentiel v
+-52136790920	Réparer	yq	Lalaga	CIV												43725	essentiel v
 -52136836214	Poisson	yq	Jɛgɛ	CIV	Jɛgɛ ma di ni sogo ye wa?	Jigɛ	BFA									43725	animal nourriture
 -52136922846	Frire	bk	Yiran													43725	v
 -52139218999	Tirer	yq	Saman													43725	v vt
@@ -837,7 +837,7 @@
 -53545395748	Lait	yq	Nɔnɔ													43725	nourriture
 -53545395749	Riz	yq	Malo			Kini										43725	essentiel
 -53545395750	Étoile	yq	Lolo													43725	essentiel
--53545395751	Penser / Réfléchir / Méditer	yq	Miiri							Bisigi						43725	marked vi
+-53545395751	Penser	yq	Miiri							Bisigi						43725	marked vi
 -53545395752	Boeuf	yq	Misi tora			Misi										43725	animal
 -53545395753	Entente	bk	Bɛn													43725	
 -53805499233	Français	yq	Faransika			Faransikan										43725	essentiel
@@ -866,7 +866,7 @@
 -53958647738	Oreille	yq	Toro			Tulo										43725	corp
 -53958647739	École	yq	Lakɔli													43725	essentiel
 -53958647740	Roue	bk	Pine													43725	essentiel
--53958647741	Repas / Nourriture / Plat	jl 14	Domuni	CDI		Dumuni	BF	Fana								43725	essentiel n
+-53958647741	Repas / Nourriture / Plat	jl 14	Domuni	CDI				Fana								43725	essentiel marked n
 -53958647742	Cheveux	yq	Kunsigi					kùnsigi	bm							43725	corp
 -53958647743	Amie	kodi	Terimuso													43725	essentiel
 -53958647744	Bolo	bk	Bras / Main													43725	essentiel
@@ -967,7 +967,7 @@
 -55856535163	Garçon / Fils	bk	Dencɛ													43725	essentiel gens
 -55856535165	Mendier / demander	bk	Deli	ODI	A b'a fɛ k'i dari	Dari	BKE									43725	v
 -55856535166	Créature	bk	Danfɛn													43725	
--55856535167	Parfait	yq	Dafalen													43725	
+-55856535167	Parfait	yq	Dafalen													43725	leech
 -55856535168	Faire		Kɛ		Kunu, a ka kɛ											43725	v vt
 -55856535170	Droite	bk	Bolo ɲuman	CIV		Kini bolo	MLI									43725	essentiel
 -55856535171	Gauche	bk	Bolo jugu	CIV		Numan bolo	MLI									43725	essentiel
@@ -989,7 +989,7 @@
 5826eb35-1ffb-4c00-9c87-a5524498ab4a	Jamais (Never)		Fewu														
 -5841878338	Un long chemin	bk	Sira ka jan													43725	phrase
 -5843352880	Regarder	yq	Filɛ	CIV	N be filɛli kɛ			Lajɛ	MLI							43725	
--5926327875	Je suis entré dans la maison	bk	N dola bon na.													43725	phrase
+-5926327875	Je suis entré dans la maison	bk	N dola bon na.													43725	leech phrase
 -5926384811	J'ai un rhume.	bk	Mura be n na.													43725	phrase
 -5926408929	Rhume	yq	Mura													43725	santé
 6098503772	Que dieu accept salutations	bk	Ala duga amina													43725	marked
@@ -1063,11 +1063,15 @@
 70809314191	Il a trouvé une solution	dico	A ka cogo sɔrɔ														
 70809341877	N'importe comment	dico	Cogo o cogo														phrase
 70809381847	De toutes les façons possibles	dico	Cogo bɛɛ la														phrase
-70809424450	De cette façon / Ansi	dico	O cogo la														phrase
+70809424450	De cette façon	dico	O cogo la														phrase
 70809451217	D'une autre façon	dico	Cogo wɛrɛ la														phrase
 70809485089	Chacun a sa prope manière	dico	Mɔgɔ bɛɛ ni a cogo														phrase
 70809882964	Meilleur / Préférable	dico	fisa		Jumɛn ka fisa aw ma?												
 70809962274	Lequel est le meilleur pour vous ?	dico	Jumɛn ka fisa aw ma?														
+70879497894	Dis a Mussa see venir		a fɔ Musa ye ko a ye na														
+70892333380	Différance	dico	Danfara (n)		Manje ni mangoro danfara ye jumɛn ye ?												
+70892740875	Promener		yalayala	CDI		munumunu	BF										
+71052749651	Masculin		Cɛman														
 7214395493	Compatir		Makari													43725	marked wt
 72a17002-5089-4c1d-8a33-b13fe514894f	De bien des façons	yq	Cogoya caaman na														
 -7455322472	et	bk	...ni...			...ani...										43725	essentiel
@@ -1102,7 +1106,7 @@
 -8088147732	Rouge	yq	Wuleman													43725	couleur
 -8088212970	Noir	yq	Finman		phrase avez couleur											43725	
 -8099771854	Devant	yq kodi	Ɲa fɛ	civ		Ɲɛ fɛ	bfa									43725	essentiel
--8219438417	2018		Saan waa fila ani tan ni segi													43725	calendrier chiffre
+-8219438417	2019		Saan waa fila ani tan ni kɔnɔton													43725	calendrier chiffre
 -8345687794	Je ne veux pas te fatiguer	bk	N tɛ fɛ k' i sɛgɛ													43725	phrase
 -8360950170	J'ai compris.	bk	N ka faamu.													43725	phrase
 -8360992248	J'ai compris. / J'ai entendu.	bk	N ka mɛn.													43725	phrase
@@ -1137,10 +1141,10 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement		Pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	Méditation	yq	Miirili			Miiriya											
 e506434d-e343-411c-875f-8374151055eb	Il y a quelques années	yq	A saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	Ban (v)													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191013153238	anki	20191011175147								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191004080045	anki	20191014124309								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq	Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko (n)		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq	Dimi			Dusubɔ										43725	
 ee709b4c-c85a-4ae1-9728-5b083ae0d5e9	Commencement / Début	yq	Daminɛ (n.)														
-f4385255-ce4b-4369-85ec-e8ef33c0dd00	Rebelle 	yq	Murutilen														
+f4385255-ce4b-4369-85ec-e8ef33c0dd00	Rebelle	yq	Murutilen														
 fbbbedfe-374d-4e28-b7dd-437837311709	Exact	yq	Cɔ														

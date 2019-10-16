@@ -98,7 +98,7 @@
 1529599765409	Radio	jl 9	Arajo													43725	
 1529599765412	Soucis	jl 9	Haminankow													43726	
 1529599765431	L'age	jl 10	Sanda													43725	
-1529599765462	Plage	jl 12	Kɔgɔjida													43725	
+1529599765462	Plage	jl 12	Kɔgɔjida			Plagi										43725	
 1529599765466	Téléphone	jl 12	Telefɔni													43725	
 1529599765470	Gens de la maison	jl 12	Somɔgɔw													43725	
 1529599765512	Travail manuel	jl 16	Bolo baara													43725	
@@ -111,7 +111,7 @@
 1529599765613	Années passées	jl 25	Saan tɛmɛninw													43725	
 1529657783606	Cheville		Ntama / ntamakuru	BMI												43725	corp
 1529657783607	Cil		Ɲɛsi					ɲɛsi,ɲɛwolosi	bm							43725	corp
-1529657783608	Colonne vertébrale							Kɔkolo / Jɔkolo	bm							43725	corp
+1529657783608	Colonne vertébrale		Kɔkolo					Kɔkolo / Jɔkolo	bm							43725	corp
 1529657783609	Côte		Galaga					galaka,sabakolo	bm							43725	corp
 1529657783610	Coude													Tùgùkun / nɔnkɔn	bm	43725	corp marked
 1529657783611	Bon sens		Hakili ɲuman													43725	
@@ -183,7 +183,7 @@
 1536516490491	Je vais rencontrer quelqu'un	Bouaké	Ne ni mɔgɔ dɔ  bena ɲɔgɔn ye													43725	marked
 1538147693870	Son affaire	kodi	Taako													43725	l3
 1538147724121	venue (n)		nako													43725	
-1538147755443	retour	kodi	sekɔ													43725	l3
+1538147755443	retour	kodi	Sekɔ (n)													43725	l3
 1538505721010	Brebis	tg	Sagadenw													43725	animal wt
 1538655602	L'homme lui-même	bk	Mɔgɔ yɛrɛ													43725	gens
 1538903026921	Âpre		Basi													43725	
@@ -286,7 +286,7 @@
 22159483862	Avant que	kodi	Sani		Sani i facɛ ye nan, i ka kan ka yɔrɔ labɛn.											43725	marked
 22161653911	Ce n'est pas ça / lui	bk	Ale tɛ													43725	phrase
 22488632402	C'est l'homme qui fait l'homme	bk	Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye													43725	phrase
-24580719515	Depuis	bk	Kabi		Kabini a nan na a ma a bamuso ye.	Kabini										43725	
+24580719515	Depuis	bk	Kabini		Kabini a nan na a ma a bamuso ye.											43725	
 24580780075	Si	yq	Ni...			Mana										43725	bambara unbouake
 2476966392	Criquet / Sauterelle	bk	Tɔɔn			Ngreni	bke			Jolon						43725	animal marked
 2476995342	Griot	bk	Jeli													43725	
@@ -464,7 +464,7 @@
 27946172034	L'eau favorise la santé		Jii be kɛnɛya di													43725	phrase santé
 27946172035	Vacciner	yq	Ka boloci													43725	santé
 27946172036	En outre / Par ailleurs / Ensuite	yq	Ka fara o kan			Fan wɛrɛ fɛ										43725	essentiel
-27946172037	Rappeler (se)	yq	Ka hakili jigi													43725	v
+27946172037	Rappeler / Souvenir (se)	yq	Ka hakili jigi													43725	v
 27946172038	Être naturel	yq	Ka kɛ i yɛrɛ ye													43725	phrase
 27946172039	Analyser	yq	Ka sɛgɛsɛgɛ (ka filɛ)													43725	v
 27946172040	Ralentir	yq	Ka sumaya													43725	v
@@ -488,7 +488,7 @@
 27946172059	Prendre garde / Prêter attention	yq	Kɔrɔsi		ka dusubɔ kɔrɔsi	Kɔlɔsi										43725	v
 27946172061	Diarrhée	yq	Kɔnɔboli													43725	santé
 27946172062	Avortement	yq	Kɔnɔcɛn													43725	santé
-27946172063	Couple	yq	Kɔɲɔcɛ ni kɔɲɔmuso													43725	gens
+27946172063	Couple	yq	Kɔɲɔcɛ ni kɔɲɔmuso													43725	gens marked
 27946172064	Mariée	yq	Kɔɲɔmuso													43725	gens
 27946172068	Vieillesse	yq	Kɔrɔya													43725	santé
 27946172069	S'écrier / Crier	yq	Kule			Ka kule										43725	v
@@ -528,7 +528,7 @@
 27946172106	Bonne épouse / femme	yq	Muso ɲuman													43725	gens
 27946172107	Affaiblir	yq	Nagasi													43725	v
 27946172109	Larme	yq	Ɲaji			Ɲɛji		ɲɛji	bm							43725	corp
-27946172111	Plaindre (se)	yq	Ŋuna			Ŋunuŋunu										43725	marked v
+27946172111	Plaindre (se)	yq	Ŋuna													43725	marked v
 27946172112	Patron	yq	Patɔrɔn													43725	gens
 27946172113	Permis (de conduire)	yq	Pɛrɛmi													43725	
 27946172114	Acheter		San	v												43725	essentiel v
@@ -904,7 +904,7 @@
 -54727441325	Compréhension	yq	Faamuli			Faamuyali		Famuli								43725	
 -54727486070	Vraiment	yq	Tiɲɛ tiɲɛ	CIV		Tiɲɛn na		Tigitigi								43725	corp essentiel
 -54727515367	Pousser  / motiver	bk	Lasun													43725	v
--54727531939	Coeur	bk	Dusu			Dusukun		Sɔn, Dusu	bm							43725	corp
+-54727531939	Coeur	bk	Dusu			Dusukun		Sɔn								43725	corp
 -54727546144	Parce que		Sabu		Siriki tεna taga baarakɛyɔrɔ la bi sabu a ma kɛnɛ.					Katuguni						43725	marked
 -5481833799	Marcher	yq	Taagama	CIV		Taama										43725	v
 -55000189426	Samedi	yq	Samedilɔn / Sibirilɔn	CIV		Samedilɔn	BFA	Sibiridɔn / Sibiri	MLI							43725	calendrier
@@ -953,7 +953,7 @@
 -55856535144	Image	bk	Jaa													43725	
 -55856535145	Vivre	bk	Ɲɛnamaya													43725	v
 -55856535146	Paix / bonheur	bk	Hɛrɛ (n.)													43725	essentiel
--55856535147	Heureux	yq	Hɛrɛ (adj)			Dagamunin										43725	essentiel marked
+-55856535147	Heureux					Dagamunin										43725	essentiel marked
 -55856535148	Détruire	yq	Halaki													43725	v
 -55856535149	Se souvenir / Esprit Penser	bk	Hakili		N hakili t'a la											43725	v
 -55856535150	Marier	bk	Furu		A ma furu / A furula											43725	v vi
@@ -971,7 +971,7 @@
 -55856535168	Faire		Kɛ		Kunu, a ka kɛ											43725	v vt
 -55856535170	Droite	bk	Bolo ɲuman	CIV		Kini bolo	MLI									43725	essentiel
 -55856535171	Gauche	bk	Bolo jugu	CIV		Numan bolo	MLI									43725	essentiel
--55856535173	Gros	bk	Belebele													43725	essentiel
+-55856535173	Gros	kodi	Belebele													43725	essentiel
 -55856535174	Tout / Tous	yq	Bɛɛ													43725	essentiel
 -55856535175	Adorer	yq	Bato													43725	v
 -55856535176	Chèvre	yq	Baa													43725	animal
@@ -1069,7 +1069,7 @@
 70809882964	Meilleur / Préférable	dico	fisa		Jumɛn ka fisa aw ma?												
 70809962274	Lequel est le meilleur pour vous ?	dico	Jumɛn ka fisa aw ma?														
 70879497894	Dis a Mussa see venir		a fɔ Musa ye ko a ye na														
-70892333380	Différance	dico	Danfara (n)		Manje ni mangoro danfara ye jumɛn ye ?												
+70892333380	Différance	dico	Danfara (n)		Manje ni mangoro danfara ye jumɛn ye ?	faranfasi	wt										
 70892740875	Promener		yalayala	CDI		munumunu	BF										
 71052749651	Masculin		Cɛman														
 7214395493	Compatir		Makari													43725	marked wt
@@ -1141,7 +1141,7 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement		Pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	Méditation	yq	Miirili			Miiriya											
 e506434d-e343-411c-875f-8374151055eb	Il y a quelques années	yq	A saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	Ban (v)													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191004080045	anki	20191014124309								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191004080045	anki	20191016160026								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq	Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko (n)		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq	Dimi			Dusubɔ										43725	

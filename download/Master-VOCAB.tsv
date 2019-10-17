@@ -302,7 +302,7 @@
 -25715138543	Oui	yq	Ɔnhɔn													43725	essentiel question
 -25715160808	Quoi	bk	Mun													43725	question
 -25715223912	Est-ce que...	bk	...wa													43725	essentiel question
--25715308632	C'est	bk	Lo													43725	essentiel
+-25715308632	C'est	kodi	Lo			Don	MLI									43725	essentiel
 25810073427	Nourrir / Vivre / Élever	bk	Balo	(v)	A be balo la											43725	v vi
 25b96257-feb8-400a-9417-709a96a1da08	Mûr (fruit)	yq	Mɔnlen														
 26490304959	Déchirer	bk	Farafara			Faran										43725	v
@@ -605,7 +605,7 @@
 28369148070	Moustache	alasane	Nun sii	CIV				Dalasi / Nukɔrɔsi	bm							43725	corp
 28370590572	Gros coeur (qui se fâche facilement)	alasane	Dusuba													43725	alasane
 28371300085	L'homme a une jambe	alasane	Cɛ sen kele nin													43725	alasane corp
-28382876273	Jusqu'aujourd'hui	yq	Hali bi													43725	essentiel
+28382876273	Jusqu'aujourd'hui		Hali bi													43725	essentiel
 28382876274	Banane	yq	Baranda			Namasa	MLI									43725	nourriture
 28382876275	Beignet de haricot	etb	Sɔsɔ furu	CIV		Faaro	BFA									43725	nourriture
 28382876276	Bouillie / Poison	yq	Baga													43725	nourriture
@@ -631,7 +631,7 @@
 30111284369	Bon retour	kamagate	Ala y'a ɲuma segi													43725	
 30111789607	Quelques rares fois	kamagate	Tuma dama dama													43725	
 30113296305	D'ici peu / Bientôt		Yani dɔɔni													43725	
-30113742890	Oublier		Ɲini		A ɲinɛna an kɔ	Ɲinɛ										43725	
+30113742890	Oublier		Ɲinɛ		A ɲinɛna an kɔ	Ɲini										43725	
 30116592468	Repas de midi	kamagate	Terela												30116592468	43725	
 -31737613286	Sur	kodi	Kan													43725	essentiel
 -31737677739	À côté de	yq	Gɛrɛfɛ													43725	
@@ -1008,7 +1008,7 @@
 -6714070575	Je ne viendrai pas	bk	N tena na													43725	phrase
 67259722212	Idole / Fétiche		Boli		Boli sɔn											43725	
 67339326626	Ainsi / Comme ça		Ten		I kana kuma ten !											43725	essentiel
-67340019297	Exactement		cɔ													43725	
+67340019297	Exactement		cɔ			Jati										43725	essentiel
 -6758381958	J'ai une chemise	bk	Dereke be ne fɛ													43725	phrase
 -6758788631	Le mal guéri le mal	bk	Dimi lebɛ dimi sa													43725	phrase
 68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la		change note type											43725	
@@ -1074,6 +1074,10 @@
 71052749651	Masculin		Cɛman														
 71247074451	How do you say X in Jula?		X be fɔ di julakan na?														essentiel
 71247154778	Que veut dire X en Français		X kɔrɔ ko di fransikan na?														essentiel
+71324439844	Même si / Même lorsque		Hali ni		Hali ni kunko bena kɛ												
+71326956025	Murir	Mɔ			&nbsp;Baranda mɔna wa?&nbsp; O ma mɔ fɔlɔ												
+71327080839	Est-ce que les bananes sont mûres?&nbsp; Ils ne sont pas mûres.		&nbsp;Baranda mɔna wa?&nbsp; O ma mɔ fɔlɔ														phrase
+71327834946	Mûre&nbsp;		Mɔnin		A mɔnin lo												
 7214395493	Compatir		Makari													43725	marked wt
 72a17002-5089-4c1d-8a33-b13fe514894f	De bien des façons	yq	Cogoya caaman na														
 -7455322472	et	bk	...ni...			...ani...										43725	essentiel
@@ -1143,10 +1147,9 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement		Pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	Méditation	yq	Miirili			Miiriya											
 e506434d-e343-411c-875f-8374151055eb	Il y a quelques années	yq	A saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	Ban (v)													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191004080045	anki	20191017091306								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191004080045	anki	20191017160925								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq	Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko (n)		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq	Dimi			Dusubɔ										43725	
 ee709b4c-c85a-4ae1-9728-5b083ae0d5e9	Commencement / Début	yq	Daminɛ (n.)														
 f4385255-ce4b-4369-85ec-e8ef33c0dd00	Rebelle	yq	Murutilen														
-fbbbedfe-374d-4e28-b7dd-437837311709	Exact	yq	Cɔ														

@@ -1,4 +1,4 @@
-0f7aaa1a-8b0f-457d-925b-dfa437969f95	Colère	yq	Dimiya			Dusudiya										43725	
+0f7aaa1a-8b0f-457d-925b-dfa437969f95	Colère		Dimiya													43725	
 10324820876	Canard	bk	Tongonon													43725	animal
 10327043748	Fourmi	yq	Jugumɛni			Dugumɛnɛ	BFA	Mɛnɛmɛnɛ								43725	animal
 -10943763535	Prendre soin / Faire attention		Janto		I janto kɔnɔn nin na											43725	v
@@ -33,7 +33,7 @@
 1528479911912	Au-dessus / En haut	yq	San fɛ													43725	essentiel
 1528524001	Un doigt ne peut pas lever un cailloux.	bk	Bolokumande kelen tɛ se ka bɛrɛ ta.			kabakuru	CIV									43725	phrase
 1528620781278	Ce n'est pas tout	dictionaire	O dɔrɔn tɛ													43725	phrase
-1528816741117	Python	kamagate	Mininyanba			Mininyan suruni										43725	animal
+1528816741117	Python	kamagate	Mininyan ba			Mininyan suruni										43725	animal
 1529143433471	Discuter / Bavarder	yq	Baro kɛ													43725	essentiel vi
 1529143433472	Animal domestique	yq	Bɛgan	CIV	Soo ye bɛgan ye	Bigan		Bagan								43725	animal
 1529143433473	Cailloux / Gravier / Pierre	yq	Kabakuru	CIV		Farakolo										43725	
@@ -54,7 +54,7 @@
 1529143433490	Aile	yq	Gama fura													43725	corp
 1529143433492	Condamnation	yq	Jalakili													43725	
 1529143433493	Trahir	yq	Janfa		I ka n jigitigɛ	Jigitigɛ	bke									43725	marked v
-1529143433494	Traitre	yq	Janfanci			Janfaci										43725	
+1529143433494	Traitre	yq	Janfancɛ			Janfaci										43725	
 1529143433495	Découvrir	yq	Ka lon													43725	marked
 1529143433496	Il a demandé à boire		A ka minji deli													43725	
 1529143433497	Langue (parlée) / Voix	yq	Kaan		need example											43725	
@@ -174,7 +174,6 @@
 1530780907553	La critique ne tue pas	taxi	Fɔ tɛ mɔgɔ ban													43725	proverbe
 1530781321340	Menteur		Faniɲantigɛla	BKE		Ngalontigɛla	BFA									43725	gens
 1530877568081	Il a eu peur		A jatigɛla			A sirana										43725	phrase
-1531388892354	Fɔ tɛ mɔgɔ ban		Les paroles ne tuent pas													43725	phrase proverbe
 1535119308748	Plainte	rc	ɲunuɲunu													43725	
 1535205454371	Mangouste	rc	Wata juba													43725	animal
 1535205494493	Colibri	rc	Kɔnɔ dakalajan													43725	animal
@@ -304,7 +303,7 @@
 -25715223912	Est-ce que...	bk	...wa													43725	essentiel question
 -25715308632	C'est	kodi	Lo			Don	MLI									43725	essentiel
 25810073427	Nourrir / Vivre / Élever	bk	Balo	(v)	A be balo la											43725	v vi
-25b96257-feb8-400a-9417-709a96a1da08	Mûr (fruit)	yq	Mɔnlen														
+25b96257-feb8-400a-9417-709a96a1da08	Mûr (fruit)	yq	Mɔnlen		need example												
 26490304959	Déchirer	bk	Farafara			Faran										43725	v
 26490383932	Ce n'est pas pour moi	bk	N ta tɛ													43725	phrase
 26490421635	C'est à moi	bk	N ta lo	CIV		N ta don	MLI									43725	phrase
@@ -497,8 +496,8 @@
 27946172072	Mots	yq	Kumadenw			Daɲɛw										43725	
 27946172073	Phrase	yq	Kumasen													43725	
 27946172074	Lèpre	yq	kunatɔ			Kuna		Kunatɔbana								43725	santé
-27946172077	Délivrer / Racheter / Sauver	yq	Kunmabɔ			Kisi		Labɔ		Hɔɔrɔnya						43725	marked v
-27946172078	Chef, propriétaire	yq	Kuntigi			Tigi		Tigi								43725	gens
+27946172077	Délivrer / Racheter / Sauver	yq	Kunmabɔ			Kisi		Hɔɔrɔnya								43725	marked v
+27946172078	Chef, propriétaire	yq	Kuntigi			Tigi										43725	gens
 27946172080	Conseiller	yq	Ladi													43725	v
 27946172081	Suggestion / Conseil / Recommandation	yq	Ladili													43725	v
 27946172082	Raconter / Relater	yq	Lakali													43725	v
@@ -551,7 +550,7 @@
 27946172132	Palu	yq	Sumaya		Sumaya be a la											43725	santé
 27946172133	Bouton / Furoncle	yq	Suguni			Sumunin										43725	santé
 27946172135	Partez d'ici	yq	Ta ka bɔ yan.													43725	marked phrase
-27946172136	Aller / Partir	yq	Taa			Taga		Taga								43725	v
+27946172136	Aller / Partir	yq	Taa			Taga										43725	v
 27946172137	Feu	yq	Tasuma			Ta	(n)									43725	
 27946172138	Véritable ami	yq	Teri sɔbɛ													43725	gens
 27946172139	Bras / Main	yq	Bolo													43725	corp
@@ -1002,7 +1001,7 @@
 64914778130	réjouir		ninsɔndiya													43725	vi
 6681786393	Quelqu'un honnête	bk	Kankelentigi													43725	marked
 6684371870	Gauche (à)	yq	Numan (bolo) fɛ													43725	essentiel
--6713724513	Je veux dire que...	bk	Ne be fɛ ka fɔ ko...													43725	marked phrase
+-6713724513	Je veux dire que...	bk	Ne be fɛ ka fɔ ko...													43725	phrase
 -6713968474	Je dis	bk	Ne ko													43725	phrase
 -6714023040	Jusqu'à	kodi	Fɔɔ		example											43725	essentiel
 -6714070575	Je ne viendrai pas	bk	N tena na													43725	phrase
@@ -1012,7 +1011,7 @@
 -6758381958	J'ai une chemise	bk	Dereke be ne fɛ													43725	phrase
 -6758788631	Le mal guéri le mal	bk	Dimi lebɛ dimi sa													43725	phrase
 68014560850	Ne pas manquer	wt	Kana {{c1::fɔn}} o la		change note type											43725	
-68319737253	Revenir		Segi		A segira / Ala y'a ɲuma segi			Sekɔ								43725	vi
+68319737253	Revenir		Segi		A segira / Ala y'a ɲuma segi	kɔsegi		Sekɔ								43725	vi
 68382609274	Ali ka jan	cours	Ali est grand													43725	phrase
 68382680537	Le frère de Moussa est plus gros que moi		Musa dɔgɔcɛ ka bon ni n ye													43725	phrase
 68382716346	Je ne suis pas le plus court		N ma surun ni bɛɛ ye													43725	phrase
@@ -1023,7 +1022,7 @@
 68383210135	l’ami de son petit frère est élève		a dɔgɔcɛ tericɛ ye lakɔliden ye													43725	
 68383249877	Moussa est le fils de Madou		Musa ye Madu dencɛ ye													43725	
 68383266906	Ali est une bonne personne		Ali ye mɔgɔ nyuman ye													43725	
-68383285942	Combien ya t-il d’œufs dans la corbeille ?		Sisɛfan den joli be yen segi kɔnɔ?													43725	
+68383285942	Combien ya t-il d’œufs dans le pannier ?		Sisɛfan den joli be yen segi kɔnɔ?													43725	
 68383345081	Je ne sais pas compter jusqu’à dix		n tɛ se ka jatebɔ fɔ ka se tan													43725	phrase
 68383402573	Hier, j’ai acheté des chaussures.		Kunu n ka samara san.													43725	phrase
 68383536529	Madou a porté une chemise.		Madu ka dereke do.													43725	phrase
@@ -1032,7 +1031,7 @@
 68383581521	Ma femme a eu du travail.		n muso ka baara sɔrɔ.													43725	phrase
 68383600492	parle fort		i bɛ i kan labɔ													43725	phrase
 68383905287	On doit respecter ses parents		Mɔgɔ ka kan ka a bangebagaw bonya													43725	phrase
-68384036972	Laves-toi les mains avant de manger.		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.													43725	phrase
+68384036972	Laves-toi les mains avant de manger.		i be i tɛgɛ ko kasɔrɔ ka domuni kɛ.													43725	phrase
 68384052710	Siriki n’ira pas au travail aujourd'hui parce qu’il ne se porte pas bien.		Siriki tεna taga baarakɛyɔrɔ la bi sabu a ma kɛnɛ.													43725	phrase
 68384079903	Amidou a un mauvais comportement pour cela il n’a pas d’amis.		Amidu jogo ma ɲi, o kosɔn teri tɛ a fɛ.													43725	phrase
 68384094188	Je veux acheter une voiture mais je n’ai pas d’argent.		N b’a fɛ ka mobili san nka wari tɛ n bolo.													43725	phrase
@@ -1075,9 +1074,10 @@
 71247074451	How do you say X in Jula?		X be fɔ di julakan na?														essentiel
 71247154778	Que veut dire X en Français		X kɔrɔ ko di fransikan na?														essentiel
 71324439844	Même si / Même lorsque		Hali ni		Hali ni kunko bena kɛ												
-71326956025	Murir	Mɔ			&nbsp;Baranda mɔna wa?&nbsp; O ma mɔ fɔlɔ												
+71326956025	Murir		Mɔ		&nbsp;Baranda mɔna wa?&nbsp; O ma mɔ fɔlɔ												
 71327080839	Est-ce que les bananes sont mûres?&nbsp; Ils ne sont pas mûres.		&nbsp;Baranda mɔna wa?&nbsp; O ma mɔ fɔlɔ														phrase
 71327834946	Mûre&nbsp;		Mɔnin		A mɔnin lo												
+71501212861	La prochaine fois	wt	Siɲɛ wɛrɛ														
 7214395493	Compatir		Makari													43725	marked wt
 72a17002-5089-4c1d-8a33-b13fe514894f	De bien des façons	yq	Cogoya caaman na														
 -7455322472	et	bk	...ni...			...ani...										43725	essentiel
@@ -1101,7 +1101,7 @@
 -7792110343	Doigt	yq	Bolokumande	CIV		Bolokanden		Bolokɔni / Bolonkɔni	bm							43725	corp
 -7839977565	Bleu	yq	Bula			Bulaman										43725	couleur
 -7840058159	Jaune	yq	Nere			Nɛrɛnu(man)										43725	couleur
--7840060490	Vert	yq	Biŋkɛnɛ			Binkɛnɛman										43725	couleur
+-7840060490	Vert	yq	Biŋkɛnɛ			Binkɛnɛman										43725	couleur leech
 -7878131213	Il est venu sur moto.	bk	A nan na moto kan.													43725	phrase
 -7878259120	Je suis venu en voiture.	bk	N nan na mobili kɔnɔ.													43725	phrase
 -7878326931	Bonne guerison	bk	Ala ka nɔgɔya kɛ													43725	phrase
@@ -1134,7 +1134,7 @@
 9184791617	Salutation lessive ou porter l'eau	bk	I ni kɔɔ													43725	essentiel salutations
 94978d99-5e23-4c73-b7ad-bf244b68ff3e	Bénir	yq	Duga (v.)														
 95f2352d-13de-4565-8b50-f8428fbc3448	Selon toi	yq	A ka miiriya la			Alu fɛ										43725	
-9783eddb-def7-4658-a22b-2995eeb440bf	Conviction / Point de vue	yq	Fɛta		An be min fɔra an yɛrɛ lanen b'o la tigitigi			Jigisigi								export	
+9783eddb-def7-4658-a22b-2995eeb440bf	Conviction / Point de vue	yq	Fɛta		An be min fɔra an yɛrɛ lanen b'o la tigitigi			Jigisigi								export	marked
 ab344d4a-3a50-4dec-becf-7535283127e6	Nuit / Ténèbre / Obscurité	yq	Dibi														
 ac0eae92-b771-4811-8705-b2cf5779f267	Arranger (les choses) / Régler (problème) / Résoudre	yq	Ɲɛnabɔ			Ɲɛ										43725	
 b74bf067-2956-4fa7-986c-f2e5e65f127f	Selon son dire	yq	A ka fɔta la													43725	
@@ -1144,10 +1144,10 @@ c25c5017-0b81-4201-aa10-6a33221570f8	Bénédiction	yq	Baraji			Duga		Duba							
 c8e0d22b-de46-47f4-ae69-b85b49fd2a0c	Du début à la fin	yq	Daminɛ na fɔɔ ka taga se a laban na														
 d1e9d991-45f5-43c7-9dc0-25fe9c3997a7	Lumière / Dissoudre / Fondre	yq	Yeelen														
 daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement		Pewu		Domuni bana pewu												
-df14ff8f-2732-4af9-a3e7-c7102d40615f	Méditation	yq	Miirili			Miiriya											
+df14ff8f-2732-4af9-a3e7-c7102d40615f	Pensée / Méditation	yq	Miirili			Miiriya											
 e506434d-e343-411c-875f-8374151055eb	Il y a quelques années	yq	A saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	Ban (v)													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191004080045	anki	20191017202142								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE					sheets	20191004080045	anki	20191126091629								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq	Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	Ko (n)		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq	Dimi			Dusubɔ										43725	

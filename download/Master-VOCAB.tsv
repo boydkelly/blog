@@ -1,6 +1,6 @@
 0f7aaa1a-8b0f-457d-925b-dfa437969f95	Colère			Dimiya													43725	
 10324820876	Canard	bk		Tongonon													43725	animal
-10327043748	Fourmi	yq		Jugumɛni			Dugumɛnɛ	BFA	Mɛnɛmɛnɛ								43725	animal
+10327043748	Fourmi	yq		Jugumɛni			Dugumɛnɛ	"<img src=""_BFA.png"">"	Mɛnɛmɛnɛ								43725	animal
 -10943763535	Prendre soin / Faire attention			Janto		I janto kɔnɔn nin na											43725	v
 -1159348157	La semaine passée	bk		Lɔgokun tɛmɛni													43725	calendrier
 -1161642427	Justice  / honnêteté	bk		Tileninya													43725	
@@ -31,12 +31,12 @@
 1528479911910	Argile	yq		Bɔgɔn													43725	
 1528479911911	Au travail	yq		Baarakɛyɔrɔ la													43725	
 1528479911912	Au-dessus / En haut	yq		San fɛ													43725	essentiel
-1528524001	Un doigt ne peut pas lever un cailloux.	bk		Bolokumande kelen tɛ se ka bɛrɛ ta.			kabakuru	CIV									43725	phrase
+1528524001	Un doigt ne peut pas lever un cailloux.	bk		Bolokumande kelen tɛ se ka bɛrɛ ta.			kabakuru	"<img src=""_CIV.png"">"									43725	phrase
 1528620781278	Ce n'est pas tout	dictionaire		O dɔrɔn tɛ													43725	phrase
 1528816741117	Python	kamagate		Mininyan ba			Mininyan suruni										43725	animal
 1529143433471	Discuter / Bavarder	yq		Baro kɛ													43725	essentiel vi
-1529143433472	Animal domestique	yq		Bɛgan	CIV	Soo ye bɛgan ye	Bigan		Bagan								43725	animal
-1529143433473	Cailloux / Gravier / Pierre	yq		Kabakuru	CIV		Farakolo										43725	
+1529143433472	Animal domestique	yq		Bɛgan	"<img src=""_CIV.png"">"	Soo ye bɛgan ye	Bigan		Bagan								43725	animal
+1529143433473	Cailloux / Gravier / Pierre	yq		Kabakuru	"<img src=""_CIV.png"">"		Farakolo										43725	
 1529143433474	Bobo-Dioulasso	yq		Bobo-Julaso													43725	geo
 1529143433475	Artisant	yq		Bololabaara													43725	gens marked
 1529143433476	Gros / Vaste	yq		Bon (adj.)													43725	essentiel marked
@@ -46,7 +46,7 @@
 1529143433480	Museau	yq		Dakala													43725	corp
 1529143433482	Diphtérie	yq		Falakabana													43725	santé
 1529143433484	Fort, Puissant (adj)	yq		Fangaman	adj	exemple											43725	marked
-1529143433485	Peau	yq		Fara			Farikolo		Wolo	bm							43725	corp
+1529143433485	Peau	yq		Fara			Farikolo		Wolo	"<img src=""_MLI.png"">"							43725	corp
 1529143433486	France	yq		Faransi jamana													43725	geo
 1529143433487	Athlétisme	yq		Farijo													43725	
 1529143433488	Nu	kamagate		Farilakolon			Fanita kan										43725	corp
@@ -71,7 +71,7 @@
 1529143433509	Besoin (n)	yq		Makoya													43725	
 1529143433511	Respirer / Respiration / Respiratoire	yq		Nɛnɛkiri			Nɛnɛkili										43725	marked santé
 1529143433512	Trouble respiratoire	yq		Nɛnɛkiri bana													43725	santé
-1529143433513	Faux / Mensonge / Calomnie	yq		Faniɲan	BKE		Ngalon	BFA	Wuya	CDI							43725	marked
+1529143433513	Faux / Mensonge / Calomnie	yq		Faniɲan	BKE		Ngalon	"<img src=""_BFA.png"">"	Wuya	CDI							43725	marked
 1529143433514	Cadeau	yq		Nilifɛn			Kado										43725	
 1529143433516	Centrafrique	yq		Santarafiriki													43725	geo
 1529143433517	Or	yq		Sanu													43725	
@@ -108,29 +108,29 @@
 1529599765589	La venue	jl 22		Nali													43725	marked
 1529599765600	Ordinateur	jl 23		Ɔrdinatɛriw													43726	
 1529599765613	Années passées	jl 25		Saan tɛmɛninw													43725	
-1529657783606	Cheville			Ntama / ntamakuru	BMI												43725	corp
-1529657783607	Cil			Ɲɛsi					ɲɛsi,ɲɛwolosi	bm							43725	corp
-1529657783608	Colonne vertébrale			Kɔkolo					Kɔkolo / Jɔkolo	bm							43725	corp
-1529657783609	Côte			Galaga					galaka,sabakolo	bm							43725	corp
-1529657783610	Coude														Tùgùkun / nɔnkɔn	bm	43725	corp marked
+1529657783606	Cheville			Ntama / ntamakuru	"<img src=""_MLI.png"">"I												43725	corp
+1529657783607	Cil			Ɲɛsi					ɲɛsi,ɲɛwolosi	"<img src=""_MLI.png"">"							43725	corp
+1529657783608	Colonne vertébrale			Kɔkolo					Kɔkolo / Jɔkolo	"<img src=""_MLI.png"">"							43725	corp
+1529657783609	Côte			Galaga					galaka,sabakolo	"<img src=""_MLI.png"">"							43725	corp
+1529657783610	Coude														Tùgùkun / nɔnkɔn	"<img src=""_MLI.png"">"	43725	corp marked
 1529657783611	Bon sens			Hakili ɲuman													43725	
-1529657783612	Front								ten,fɔn	bm							43725	corp
-1529657783613	Hanche			Tɔgɔ	bm		gerɛn										43725	corp marked
-1529657783615	Jambe / Pied			Sen					sen	bm							43725	corp
-1529657783616	Joue								kènken,dafuruku	bm							43725	corp
-1529657783620	Menton			Bonbon kun					Bonbon	bm							43725	corp
+1529657783612	Front								ten,fɔn	"<img src=""_MLI.png"">"							43725	corp
+1529657783613	Hanche			Tɔgɔ	"<img src=""_MLI.png"">"		gerɛn										43725	corp marked
+1529657783615	Jambe / Pied			Sen					sen	"<img src=""_MLI.png"">"							43725	corp
+1529657783616	Joue								kènken,dafuruku	"<img src=""_MLI.png"">"							43725	corp
+1529657783620	Menton			Bonbon kun					Bonbon	"<img src=""_MLI.png"">"							43725	corp
 1529657783621	Muscle			Fasa													43725	corp
-1529657783622	Narine			Nuwo			Nudinga		Nuwo / Nufile	bm							43725	corp
-1529657783623	Nerf			Fasa juru					fàsàjuru,fàsàsira,sɔmìnan	bm							43725	corp
-1529657783624	Orteil			Sen Kumande					Sɛnkɔni	bm							43725	corp
-1529657783625	Os		(n.)	Kolo					kolo	bm							43725	corp
+1529657783622	Narine			Nuwo			Nudinga		Nuwo / Nufile	"<img src=""_MLI.png"">"							43725	corp
+1529657783623	Nerf			Fasa juru					fàsàjuru,fàsàsira,sɔmìnan	"<img src=""_MLI.png"">"							43725	corp
+1529657783624	Orteil			Sen Kumande					Sɛnkɔni	"<img src=""_MLI.png"">"							43725	corp
+1529657783625	Os		(n.)	Kolo					kolo	"<img src=""_MLI.png"">"							43725	corp
 1529657783627	Poignet			Bolokan					Bolonɛgɛladonyɔrɔ	"<img src=""NKo_Ny.svg"">"							43725	corp
-1529657783628	f								pu	bm							43725	corp
-1529657783630	Rein								Kɔmɔkìli	bm							43725	corp
-1529657783631	Ride			Ɲugu / Ɲuguɲugu	bm												43725	corp
-1529657783634	Squelette								Kolojalan	bm							43725	corp
+1529657783628	f								pu	"<img src=""_MLI.png"">"							43725	corp
+1529657783630	Rein								Kɔmɔkìli	"<img src=""_MLI.png"">"							43725	corp
+1529657783631	Ride			Ɲugu / Ɲuguɲugu	"<img src=""_MLI.png"">"												43725	corp
+1529657783634	Squelette								Kolojalan	"<img src=""_MLI.png"">"							43725	corp
 1529657783635	Sueur			Wɔsiji													43725	corp
-1529657783636	Talon	jm		Sen ju					Sen tontòli	bm							43725	corp
+1529657783636	Talon	jm		Sen ju					Sen tontòli	"<img src=""_MLI.png"">"							43725	corp
 1529678551506	Deuxièmement	yq		Filanan													43725	chiffre essentiel
 1529678551507	Sagesse	yq		Hakilitigiya													43725	
 1529678551508	Stylo	yq		Biki		Biki be ne fɛ.	Sɛbɛri kɛlan										43725	
@@ -169,9 +169,9 @@
 1529866417683	Rien ne se fait sans raison	dns		Foyi tɛ kɛ ni kun t'a ra		Foyi tɛ kɛ ni kun tɛ a ra											43725	phrase
 1530110576627	Tu vas le trouver			I be taa a sɔrɔ													43725	
 1530116564391	Repas de soir	kamagate		Sula												30116564391	43725	
-1530699154018	C'est  ça			O lo	CIV		jati	BFA									43725	
+1530699154018	C'est  ça			O lo	"<img src=""_CIV.png"">"		jati	"<img src=""_BFA.png"">"									43725	
 1530780907553	La critique ne tue pas	taxi		Fɔ tɛ mɔgɔ ban													43725	proverbe
-1530781321340	Menteur			Faniɲantigɛla	BKE		Ngalontigɛla	BFA									43725	gens
+1530781321340	Menteur			Faniɲantigɛla	BKE		Ngalontigɛla	"<img src=""_BFA.png"">"									43725	gens
 1530877568081	Il a eu peur			A jatigɛla			A sirana										43725	phrase
 1535119308748	Plainte	rc		ɲunuɲunu													43725	
 1535205454371	Mangouste	rc		Wata juba													43725	animal
@@ -209,7 +209,7 @@
 -16979630904	Viens ici!	bk		Na yan!													43725	phrase
 -16979685475	Demande lui	bk		A ɲini ka													43725	phrase
 -17134557414	Ville / Région	bk		Dugu													43725	essentiel
--17233297689	Pauvre			Fangan tan / Fangan t'a la	CIV	Cɛ nin fangan tan lo.	Faniɲa / Fantan	BFA									43725	gens marked
+-17233297689	Pauvre			Fangan tan / Fangan t'a la	"<img src=""_CIV.png"">"	Cɛ nin fangan tan lo.	Faniɲa / Fantan	"<img src=""_BFA.png"">"									43725	gens marked
 -17233337994	Homme riche	bk		Nafolotigi			wari tigi										43725	gens
 -17233546115	Changer	bk		Yɛlɛma													43725	v
 -17233891349	Que dieu fasse que les enfants grandissent	bk		Ala ye denmisɛnw balo													43725	phrase
@@ -272,9 +272,9 @@
 -19338985231	Le prix est cher	bk		A sɔngɔ ka ca													43725	phrase
 -19339865406	Combien côute les oignons	bk		Jaba ye joli													43725	phrase
 -19339921610	Aubergine	bk		Gɔyɔ													43725	nourriture
--19754582047	Bonne soirée	bk		Ala ya wula nɔgɔya	CIV		Ala ka wula nɔgɔya	MLI									43725	phrase
+-19754582047	Bonne soirée	bk		Ala ya wula nɔgɔya	"<img src=""_CIV.png"">"		Ala ka wula nɔgɔya	"<img src=""_MLI.png"">"									43725	phrase
 -20534178906	Abattoir	bk		Misifaga yɔrɔ													43725	
-21895485548	Allons	bk		An ya taga.	CIV				An ka taga.	MLI							43725	phrase
+21895485548	Allons	bk		An ya taga.	"<img src=""_CIV.png"">"				An ka taga.	"<img src=""_MLI.png"">"							43725	phrase
 21895511963	Arretes-toi	bk		Ile lɔ													43725	phrase
 22159347319	Avant de / que	yq		Kasɔrɔ ka		i bɛ i tɛgɛ ko kasɔrɔ ka domuni kɛ.	Ka sɔrɔ										43725	marked
 22159392751	Sinon	yq		N'o tɛ		Nan jonan n’o tɛ n bɛna taga!											43725	
@@ -299,12 +299,12 @@
 -25715138543	Oui	yq		Ɔnhɔn													43725	essentiel question
 -25715160808	Quoi	bk		Mun													43725	question
 -25715223912	Est-ce que...	bk		...wa													43725	essentiel question
--25715308632	C'est	kodi		Lo			Don	MLI									43725	essentiel
+-25715308632	C'est	kodi		Lo			Don	"<img src=""_MLI.png"">"									43725	essentiel
 25810073427	Nourrir / Vivre / Élever	bk	(v.)	Balo		A be balo la											43725	v vi
 25b96257-feb8-400a-9417-709a96a1da08	Mûr (fruit)	yq		Mɔnlen		need example												
 26490304959	Déchirer	bk		Farafara			Faran										43725	v
 26490383932	Ce n'est pas pour moi	bk		N ta tɛ													43725	phrase
-26490421635	C'est à moi	bk		N ta lo	CIV		N ta don	MLI									43725	phrase
+26490421635	C'est à moi	bk		N ta lo	"<img src=""_CIV.png"">"		N ta don	"<img src=""_MLI.png"">"									43725	phrase
 26568426171	Fais le venir.	bk		Taa a la na.													43725	bouake phrase
 26641994456	Douter	yq		Siga		Siga t'a la											43725	essentiel v
 -26807921802	Pardonner			Yafa	Yafa... ma												43725	v
@@ -315,53 +315,53 @@
 -27001294005	Bonne route (arrivé / retour)	bk		Ala y'a ɲuma nan													43725	phrase
 -27001359839	Bonne route (arriver)	bk		Ala y'a ɲuma se													43725	marked phrase
 -27012867677	Je veut te montrer quelque chose	bk		N' be fɛ  ka fɛn dɔ yira i la													43725	phrase
-27201819760	Arrête !	bk		A dabla !	CIV		A to !										43725	phrase
-27205737326	Oeil			Ɲakili	CIV		Ɲakise	BFA	ɲɛ	bm	Ɲakile						43725	corp
-27206246061	Lutter			Kɛlɛ	CIV		Bondori	BFA									43725	marked
+27201819760	Arrête !	bk		A dabla !	"<img src=""_CIV.png"">"		A to !										43725	phrase
+27205737326	Oeil			Ɲakili	"<img src=""_CIV.png"">"		Ɲakise	"<img src=""_BFA.png"">"	ɲɛ	"<img src=""_MLI.png"">"	Ɲakile						43725	corp
+27206246061	Lutter			Kɛlɛ	"<img src=""_CIV.png"">"		Bondori	"<img src=""_BFA.png"">"									43725	marked
 27206395649	Foi			Limaniya			Lanaya										43725	
-27206473406	Quelle heure / quand	bk		Tuma juman	CIV		Wagati juman	BFA									43725	calendrier question
-27206573736	Ou bien	bk		Wala	CIV		Walama	BFA	Walima								43725	
+27206473406	Quelle heure / quand	bk		Tuma juman	"<img src=""_CIV.png"">"		Wagati juman	"<img src=""_BFA.png"">"									43725	calendrier question
+27206573736	Ou bien	bk		Wala	"<img src=""_CIV.png"">"		Walama	"<img src=""_BFA.png"">"	Walima								43725	
 27207485786	Pourquoi ?	bk		Mu na?			Mun kosɔn?										43725	question
 27249273076	Voir	yq	(v.)	Ye		I ka mobili ye											43725	vt
 -27410066336	Bonne nuit	bk		Ala an bɔ su la													43725	marked phrase
 -27414022752	Discussion	bk		Baro (n.)													43725	essentiel
 -27502629559	Louer	bk		Tando													43725	v
 -27502669907	Toujours	yq		Tuma bɛɛ													43725	marked
-27767656744	Ananas	bk		Jabibi	MLI												43725	nourriture
+27767656744	Ananas	bk		Jabibi	"<img src=""_MLI.png"">"												43725	nourriture
 27768736655	Guêpe	yq		Dondoli													43725	animal
 27768736657	Fourmi ailée	yq		Dugumani siman													43725	animal
-27768736661	Lionceau	yq		Jaraden	civ		Waraden	mli									43725	animal
+27768736661	Lionceau	yq		Jaraden	"<img src=""_CIV.png"">"		Waraden	"<img src=""_MLI.png"">"									43725	animal
 27768736662	Corbeau	yq		Kaankaan													43725	animal
-27768736663	Loup	yq		Kongo wulu					Lu	MLI							43725	animal
+27768736663	Loup	yq		Kongo wulu					Lu	"<img src=""_MLI.png"">"							43725	animal
 27768736666	Mouche	yq		Limɔgɔ													43725	animal
 27768736668	Veau	yq		Misiden													43725	animal
 27768736670	Agneau	yq		Sagaden													43725	animal
 27768736671	Éléphant		(n.)	Sama													43725	animal
-27768736672	Poulet	yq		Sisɛ	CIV		Sɛsɛ	BFA									43725	animal
+27768736672	Poulet	yq		Sisɛ	"<img src=""_CIV.png"">"		Sɛsɛ	"<img src=""_BFA.png"">"									43725	animal
 27768736675	Moustique	yq		Soso													43725	animal
 27768736676	Singe	yq		Sula													43725	animal
-27768736677	Grenouille	yq		Tɔri sen jan	CIV		Tɔri	BFA	Ntɔri	MLI							43725	animal
+27768736677	Grenouille	yq		Tɔri sen jan	"<img src=""_CIV.png"">"		Tɔri	"<img src=""_BFA.png"">"	Ntɔri	"<img src=""_MLI.png"">"							43725	animal
 27783419424	Il nous a oublié			A ɲinɛna an kɔ													43726	wt
 27783419432	Bénin	yq		Benɛn													43725	geo
 27783419593	Discours / Enseignement	jl 3	(n.)	Kalan													43726	wt
 27783419693	A leur insu			U ɲina ma													43725	
 27809169043	Humilité / Modestie	yq		Majigilenya													43725	
-27809169044	Poing	yq		Bolokuru					bolokurun	bm							43725	corp
-27809169045	Barbe	yq		Bonbonsi					Boonsi	bm							43725	corp
+27809169044	Poing	yq		Bolokuru					bolokurun	"<img src=""_MLI.png"">"							43725	corp
+27809169045	Barbe	yq		Bonbonsi					Boonsi	"<img src=""_MLI.png"">"							43725	corp
 27809169046	Salive	yq		Daji													43725	corp
 27809169047	Haleine	yq		Dakasa													43725	corp
 27809169048	Utérus	yq		Denso													43725	corp
 27809169050	Pénis	yq alasane		Fɔrɔ			Sogoni										43725	corp
-27809169051	Épaule	yq		Gama					Kama	bm							43725	corp
-27809169052	Cou / Gorge	yq		Kaan		need example			Kan / Kankala	bm							43725	corp
-27809169053	Nuque	yq		Kaankala					tɔn	bm							43725	corp
-27809169054	Genou	yq		Kunbiri kun			Kunbiri		Kunbere	bm							43725	corp
+27809169051	Épaule	yq		Gama					Kama	"<img src=""_MLI.png"">"							43725	corp
+27809169052	Cou / Gorge	yq		Kaan		need example			Kan / Kankala	"<img src=""_MLI.png"">"							43725	corp
+27809169053	Nuque	yq		Kaankala					tɔn	"<img src=""_MLI.png"">"							43725	corp
+27809169054	Genou	yq		Kunbiri kun			Kunbiri		Kunbere	"<img src=""_MLI.png"">"							43725	corp
 27809169056	Vache	yq		Misi muso													43725	animal
 27809169057	Yeux	yq		Ɲadenw			Ɲɛw		Ɲɛdenw								43725	corp
 27809169058	Uriner	yq		Ɲɛgɛnɛ													43725	corp
-27809169059	Dent	yq		Ɲiin					ɲi	bm							43725	corp
-27809169060	Poil	yq		Sii					Sin	bm							43725	corp
-27809169061	Paume	yq		Tɛgɛ	BFA		Tigɛ	MLI									43725	corp
+27809169059	Dent	yq		Ɲiin					ɲi	"<img src=""_MLI.png"">"							43725	corp
+27809169060	Poil	yq		Sii					Sin	"<img src=""_MLI.png"">"							43725	corp
+27809169061	Paume	yq		Tɛgɛ	"<img src=""_BFA.png"">"		Tigɛ	"<img src=""_MLI.png"">"									43725	corp
 27946171920	Enceinte	yq		Kɔnɔman		A kɔnɔman lo											43725	santé
 27946171921	Indifférent	yq		A tɛ  mako don													43725	
 27946171923	Dans nos régions	yq		An ka mara la													43725	marked
@@ -419,7 +419,7 @@
 27946171982	Papa	yq		Baba													43725	gens
 27946171983	Frère / Demi-frère	yq		Faden													43725	gens
 27946171985	Comportement			Jogo		Amidu jogo ma ɲi, o kosɔn teri tɛ a fɛ.											43725	
-27946171986	Orphelin	kamagate		Feretani	BKE		Falatɔ	BFA									43725	gens
+27946171986	Orphelin	kamagate		Feretani	BKE		Falatɔ	"<img src=""_BFA.png"">"									43725	gens
 27946171987	Vers (n)	bk		Tumu													43725	animal marked
 27946171989	Tailleur	yq		Fanikalanla													43725	gens
 27946171990	Ajouter		(v.)	Fara		ka fara o kan											43725	v
@@ -433,7 +433,7 @@
 279461720004	Peste	yq		Finyɛbana			Bana yɛlɛmata										43725	marked santé
 27946172002	Aveugle	yq		Fiyɛntɔ													43725	gens santé wt
 27946172003	Manquer	yq		Fɔn		Kana fɔn o la											43725	v
-27946172004	Médicament	yq		Fila	CIV		Fura	MLI									43725	santé
+27946172004	Médicament	yq		Fila	"<img src=""_CIV.png"">"		Fura	"<img src=""_MLI.png"">"									43725	santé
 27946172005	Soigner	yq		Fura	(v.)												43725	santé v
 27946172006	Meilleurs soins	yq		Furakɛcogo fisamanw													43725	santé
 27946172007	Epoux / Mari	yq		Furucɛ													43725	gens
@@ -514,7 +514,7 @@
 27946172095	Fiancer	yq		Maminɛ													43725	gens marked
 27946172096	Million	yq		Miliyɔn													43725	chiffre
 27946172097	Centaines de millions	yq		Miliyɔn kɛmɛ-kɛmɛ													43725	chiffre
-27946172098	Soif			Minlɔgɔ	CIV	Ji minlɔgɔ be na	Minnɔgɔ	BFA									43725	
+27946172098	Soif			Minlɔgɔ	"<img src=""_CIV.png"">"	Ji minlɔgɔ be na	Minnɔgɔ	"<img src=""_BFA.png"">"									43725	
 27946172099	Automobiliste	yq		Mobilitigi													43725	gens
 27946172100	Meurtrier	yq		Mɔgɔ fagala			Fagalikɛla										43725	gens
 27946172101	Prochain (personne)	yq		mɔgɔɲogon													43725	gens
@@ -543,7 +543,7 @@
 27946172127	Maintenant / Tout de suite	yq		Sisan			Sisan sisan										43725	essentiel
 27946172128	Partager	yq	(v)	Son			Tilan										43725	v
 27946172129	Tuberculose	yq		Sɔgɔsɔgɔgwɛ													43725	santé
-27946172130	Crapeau			Tɔri	CIV												43725	animal
+27946172130	Crapeau			Tɔri	"<img src=""_CIV.png"">"												43725	animal
 27946172131	Soldats	yq		Sɔrɔdasiw													43725	gens
 27946172132	Palu	yq		Sumaya		Sumaya be a la											43725	santé
 27946172133	Bouton / Furoncle	yq		Suguni			Sumunin										43725	santé
@@ -577,40 +577,40 @@
 28299761196	Il est venu ici.	bk		A nan na yan.													43725	phrase
 282f35ae-118f-4eeb-bb65-68f4501ebc39	Froid	yq		Nɛnɛ														
 28364392934	Nous sommes dans la main de Dieu.	alasane		An be Ala bla la.													43725	phrase
-28365516628	Ongle	alasane		Bolo sɔɔni					Sɔni / Sɔnìfara	bm							43725	corp
+28365516628	Ongle	alasane		Bolo sɔɔni					Sɔni / Sɔnìfara	"<img src=""_MLI.png"">"							43725	corp
 28366095760	Testicules	alasane		Belekili													43725	alasane corp
-28366286693	Sourcis / Cil	alasane		Ɲa sii			Ɲɛ sii		Ɲɛkonkonasi	bm							43725	alasane corp
-28366354150	Paupière	alasane		Ɲa fara					Ɲɛfara / Ɲɛwolo	bm							43725	alasane corp
+28366286693	Sourcis / Cil	alasane		Ɲa sii			Ɲɛ sii		Ɲɛkonkonasi	"<img src=""_MLI.png"">"							43725	alasane corp
+28366354150	Paupière	alasane		Ɲa fara					Ɲɛfara / Ɲɛwolo	"<img src=""_MLI.png"">"							43725	alasane corp
 28366446248	Pupille	alasane		Ɲakiseden													43725	alasane corp
 28366622927	Heure	yq		Lɛri													43725	calendrier
 28366846362	Pomme d'Adam	alasane		Kaan file file													43725	alasane corp
-28367029046	Sein	alasane		Siin					Sin	bm							43725	corp
-28367076607	Poitrine	alasane		Disi			Disikolo		Disi,kɔgɔ	bm							43725	corp
+28367029046	Sein	alasane		Siin					Sin	"<img src=""_MLI.png"">"							43725	corp
+28367076607	Poitrine	alasane		Disi			Disikolo		Disi,kɔgɔ	"<img src=""_MLI.png"">"							43725	corp
 28367283754	Casser	alasane	(v.)	ci			Kare										43725	alasane
-28367609785	Vesicule bilaire	alasane		kuna kuna						bm							43725	alasane corp marked
-28367778141	Intestins	alasane		Kɔnɔ nogo					Nugu	bm							43725	alasane corp
-28367944447	Nombril	alasane		Bara kun	CIV		Kɔnɔbara										43725	corp
-28367971257	Veine	source		Joli sira					Jolifìnsira	bm							43725	corp marked
-28368107720	Sang	alasane		Joli (n.)	(n.)				Joli / Basi	MLI							43725	corp
-28368192363	Levres	alasane		Dagwolo					Dawolo	bm							43725	alasane corp
+28367609785	Vesicule bilaire	alasane		kuna kuna						"<img src=""_MLI.png"">"							43725	alasane corp marked
+28367778141	Intestins	alasane		Kɔnɔ nogo					Nugu	"<img src=""_MLI.png"">"							43725	alasane corp
+28367944447	Nombril	alasane		Bara kun	"<img src=""_CIV.png"">"		Kɔnɔbara										43725	corp
+28367971257	Veine	source		Joli sira					Jolifìnsira	"<img src=""_MLI.png"">"							43725	corp marked
+28368107720	Sang	alasane		Joli (n.)	(n.)				Joli / Basi	"<img src=""_MLI.png"">"							43725	corp
+28368192363	Levres	alasane		Dagwolo					Dawolo	"<img src=""_MLI.png"">"							43725	alasane corp
 28368284086	Langue (corps)	alasane		Nɛɛn			Nɛɛnkun										43725	corp
-28368362045	Fesse	alasane		Bobara					jùkuna,jùmugu	bm							43725	corp
-28368415340	Cerveau	alasane		Kun nɛɛn			Zɛmɛ	abidjan	kùnkòlòsɛmɛ,kùnkòlòsɔmi	bm							43725	corp
+28368362045	Fesse	alasane		Bobara					jùkuna,jùmugu	"<img src=""_MLI.png"">"							43725	corp
+28368415340	Cerveau	alasane		Kun nɛɛn			Zɛmɛ	abidjan	kùnkòlòsɛmɛ,kùnkòlòsɔmi	"<img src=""_MLI.png"">"							43725	corp
 28368659410	Piqure	alasane		Kuru													43725	
-28368841297	Crâne	alasane		Kun kolo					Kunkolo / Kunkolofilen	bm							43725	corp
-28368987505	Machoire	alasane		Dagwana					Dakolo / Dagɛlɛkɛ	bm							43725	alasane corp marked
-28369148070	Moustache	alasane		Nun sii	CIV				Dalasi / Nukɔrɔsi	bm							43725	corp
+28368841297	Crâne	alasane		Kun kolo					Kunkolo / Kunkolofilen	"<img src=""_MLI.png"">"							43725	corp
+28368987505	Machoire	alasane		Dagwana					Dakolo / Dagɛlɛkɛ	"<img src=""_MLI.png"">"							43725	alasane corp marked
+28369148070	Moustache	alasane		Nun sii	"<img src=""_CIV.png"">"				Dalasi / Nukɔrɔsi	"<img src=""_MLI.png"">"							43725	corp
 28370590572	Gros coeur (qui se fâche facilement)	alasane		Dusuba													43725	alasane
 28371300085	L'homme a une jambe	alasane		Cɛ sen kele nin													43725	alasane corp
 28382876273	Jusqu'aujourd'hui			Hali bi													43725	essentiel
-28382876274	Banane	yq		Baranda			Namasa	MLI									43725	nourriture
-28382876275	Beignet de haricot	etb		Sɔsɔ furu	"<img src=""_CIV.png""><br>"		Faaro	"<img src=""_BFA.png""><br>"									43725	nourriture
+28382876274	Banane	yq		Baranda			Namasa	"<img src=""_MLI.png"">"									43725	nourriture
+28382876275	Beignet de haricot	etb		Sɔsɔ furu	"<img src=""_CIV.png"">"		Faaro	"<img src=""_BFA.png""><br>"									43725	nourriture
 28382876276	Bouillie / Poison	yq		Baga													43725	nourriture
 28382876277	Bouillon	yq		Nanji													43725	nourriture
 28382876278	Café	yq		Kafe													43725	nourriture
 28382876279	Condiments	yq		Nanfɛnw													43725	nourriture
-28382876281	Foie	yq		Biɲɛ					biyɛn	bm							43725	corp
-28382876282	Galette	ebt		Farin	CIV		Ɲɔmi	BFA									43725	marked nourriture
+28382876281	Foie	yq		Biɲɛ					biyɛn	"<img src=""_MLI.png"">"							43725	corp
+28382876282	Galette	ebt		Farin	"<img src=""_CIV.png"">"		Ɲɔmi	"<img src=""_BFA.png"">"									43725	marked nourriture
 28382876283	Huile	ebt		Tulu													43725	nourriture
 28382876284	Il s'est exclamé que	yq		A kabara k'a fɔ ko													43725	phrase
 28382876285	Il s'est exclamé:	yq		A kabara ko:													43725	
@@ -641,7 +641,7 @@
 -3582266273	Promesse	yq		Layiri			Layidu		Dajuru								43725	marked
 3661703856	Endurance			Muɲuli													43725	wt
 3670486778	Aigle	bk		Segɛn													43725	animal
-3670506647	Hippopotame	bk		Meeri	CIV				Mali	MLI							43725	animal
+3670506647	Hippopotame	bk		Meeri	"<img src=""_CIV.png"">"				Mali	"<img src=""_MLI.png"">"							43725	animal
 3670546453	Chèvre de montagne	bk		Kongo baa													43725	animal
 3670593377	Crocodile	bk		Bamba													43725	animal
 3671015070	Caffard	bk		Ɲɛmbɛrɛ													43725	animal bouake
@@ -681,14 +681,14 @@
 403694429	Cesser / abandonner / Arrêter / Laisser	bk		Dabla													43725	bouake marked v
 40379018800	Manger			Domu		Kunu, n ka jɛgɛ domu. / N ka domuni kɛ.	Domuni kɛ										43725	vi vt
 40399670729	Je compte sur toi			N jigi b'i kan													43725	phrase
-407185730834	Visage			Ɲa	CIV	N bena ɲa ko.	Ɲɛ	BFA	ɲɛda,ɲɛna	bm							43725	corp essentiel marked
+407185730834	Visage			Ɲa	"<img src=""_CIV.png"">"	N bena ɲa ko.	Ɲɛ	"<img src=""_BFA.png"">"	ɲɛda,ɲɛna	"<img src=""_MLI.png"">"							43725	corp essentiel marked
 408441172584	Toutefois / Cependant / Malgré tout	dico		O bɛɛ n'a taa													43725	
 408444538694	Raté	dico		Jɛn		N ka jɛn											43725	marked
 -40927183476	Cendre	yq		Buguri			Buguri(gwɛ)										43725	
 -40927312869	Aujourd'hui	yq		Bi													43725	calendrier
 410971251534	Fin			Laban													43725	
 -4122869514	Esclavage	bk		Jɔnya													43725	
--4123020142	Punir			Ɲangi	BFA												43726	unbouake v wt
+-4123020142	Punir			Ɲangi	"<img src=""_BFA.png"">"												43726	unbouake v wt
 -4123054025	Humble	yq		Majiginin			Majigilen										43725	marked
 4294519453	Dos	bk		Kɔ													43725	corp
 43139787968	Il se souvient			A hakili b'a													43725	
@@ -748,12 +748,12 @@
 -4633571900	Peut-être	yq		N'a sɔrɔ													43725	essentiel marked
 4639316715	Espérance	yq		Jigiya													43725	
 4696293185	Venir	yq		Na													43725	vi
--47881654071	Ils / Eux	bk		O / Olugu / Olu	CIV		U / Ula	BFA	U / Olu	MLI							43725	essentiel pp
--47881692877	Vous	bk		Aw / Alugu	CIV		A / Aw	BFA	A / Aw	MLI							43725	essentiel pp
--47881764516	Nous	bk		An / Anugu / Anu	CIV		An / Anw	BFA	An / Anw	MLI							43725	essentiel pp
--47881810910	Il elle lui	bk		A / Ale	CIV		A / Ale	BFA	A / Ale	MLI							43725	essentiel pp
--47881877351	Tu / Toi	bk		I / Ile	CIV		E / Ele	BFA	I / E	MLI							43725	essentiel pp
--47881986758	Je moi	bk		N / Ne	CIV		N / Ne	BFA	N / Ne	MLI							43725	essentiel pp
+-47881654071	Ils / Eux	bk		O / Olugu / Olu	"<img src=""_CIV.png"">"		U / Ula	"<img src=""_BFA.png"">"	U / Olu	"<img src=""_MLI.png"">"							43725	essentiel pp
+-47881692877	Vous	bk		Aw / Alugu	"<img src=""_CIV.png"">"		A / Aw	"<img src=""_BFA.png"">"	A / Aw	"<img src=""_MLI.png"">"							43725	essentiel pp
+-47881764516	Nous	bk		An / Anugu / Anu	"<img src=""_CIV.png"">"		An / Anw	"<img src=""_BFA.png"">"	An / Anw	"<img src=""_MLI.png"">"							43725	essentiel pp
+-47881810910	Il elle lui	bk		A / Ale	"<img src=""_CIV.png"">"		A / Ale	"<img src=""_BFA.png"">"	A / Ale	"<img src=""_MLI.png"">"							43725	essentiel pp
+-47881877351	Tu / Toi	bk		I / Ile	"<img src=""_CIV.png"">"		E / Ele	"<img src=""_BFA.png"">"	I / E	"<img src=""_MLI.png"">"							43725	essentiel pp
+-47881986758	Je moi	bk		N / Ne	"<img src=""_CIV.png"">"		N / Ne	"<img src=""_BFA.png"">"	N / Ne	"<img src=""_MLI.png"">"							43725	essentiel pp
 -48185682132	Bientôt	yq		Yanni dɔnni	bke												43725	
 -48185883125	Effort	bk		Jijali	(n.)												43725	
 -48185883126	Fatiguer	bk	(v.)	Sɛgɛ													43725	v vi
@@ -784,8 +784,8 @@
 -52135832225	Jeter	yq		Firi			Fili										43725	v vt
 -52136264022	Ordures	bk		Ɲaman													43725	essentiel
 -52136464178	Dire	yq		Fɔ													43725	v vt
--52136790920	Réparer	yq		Lalaga	CIV												43725	essentiel v
--52136836214	Poisson	yq		Jɛgɛ	CIV	Jɛgɛ ma di ni sogo ye wa?	Jigɛ	BFA									43725	animal nourriture
+-52136790920	Réparer	yq		Lalaga	"<img src=""_CIV.png"">"												43725	essentiel v
+-52136836214	Poisson	yq		Jɛgɛ	"<img src=""_CIV.png"">"	Jɛgɛ ma di ni sogo ye wa?	Jigɛ	"<img src=""_BFA.png"">"									43725	animal nourriture
 -52136922846	Frire	bk		Yiran													43725	v
 -52139218999	Tirer	yq		Saman													43725	v vt
 -52139281000	Maïs	yq		Kaba													43725	nourriture
@@ -832,7 +832,7 @@
 -53545395744	Vomir	yq		Fɔɔnɔ		A fɔɔnɔna											43725	santé vi
 -53545395747	Mil	yq		Ɲɔ			Ɲɔɔ										43725	nourriture
 -53545395748	Lait	yq		Nɔnɔ													43725	nourriture
--53545395749	Riz	yq		Malo	civ		Kini	mli									43725	essentiel
+-53545395749	Riz	yq		Malo	"<img src=""_CIV.png"">"		Kini	"<img src=""_MLI.png"">"									43725	essentiel
 -53545395750	Étoile	yq		Lolo													43725	essentiel
 -53545395751	Penser	yq		Miiri							Bisigi						43725	marked vi
 -53545395752	Boeuf	yq		Misi tora			Misi										43725	animal
@@ -851,25 +851,25 @@
 -53873102985	Demain	yq		Sini													43725	calendrier
 -53873236373	Après / Derrière	kodi		Kɔ fɛ													43725	essentiel
 -53873263150	Année	bk		Saan													43725	calendrier
--53873303585	Semaine	yq		Lɔgɔkun	CIV				Dɔgɔkun	MLI							43725	calendrier
+-53873303585	Semaine	yq		Lɔgɔkun	"<img src=""_CIV.png"">"				Dɔgɔkun	"<img src=""_MLI.png"">"							43725	calendrier
 -53873333109	Jour			Loon			Tile										43725	calendrier
 -53873557747	Mois	yq		Kalo													43725	calendrier
 -53873571460	Hier	yq		Kunu													43725	calendrier essentiel
 -53873672574	Jeune homme	bk		Kamelen													43725	essentiel
--53873715604	Marché	yq		Lɔgɔ			Lɔgɔfiyɛ		Sugu	MLI							43725	essentiel
--53958647735	Maison / Bâtiment / Chambre	bk		Soo			Bon (n.)		Lu	CIV							43725	essentiel
+-53873715604	Marché	yq		Lɔgɔ			Lɔgɔfiyɛ		Sugu	"<img src=""_MLI.png"">"							43725	essentiel
+-53958647735	Maison / Bâtiment / Chambre	bk		Soo			Bon (n.)		Lu	"<img src=""_CIV.png"">"							43725	essentiel
 -53958647736	Queue			Kokala		Wula ka jɛjɛ ku domu.	Ku		Kukala								43725	corp
 -53958647737	Lapin	bk		Sozani													43725	animal
 -53958647738	Oreille	yq		Toro			Tulo										43725	corp
 -53958647739	École	yq		Lakɔli													43725	essentiel
 -53958647740	Roue	bk		Pine													43725	essentiel
 -53958647741	Repas / Nourriture / Plat	jl 14		Domuni	CDI				Fana								43725	essentiel marked n
--53958647742	Cheveux	yq		Kunsigi					kùnsigi	bm							43725	corp
+-53958647742	Cheveux	yq		Kunsigi					kùnsigi	"<img src=""_MLI.png"">"							43725	corp
 -53958647743	Amie	kodi		Terimuso													43725	essentiel
 -53958647744	Bolo	bk		Bras / Main													43725	essentiel
 -53958647745	Mère	bk		Bamuso													43725	essentiel gens
 -53958647746	Voiture	yq		Mobili													43725	essentiel
--54031938759	Chaussure	yq		Samara			Sanbara	BFA									43725	essentiel
+-54031938759	Chaussure	yq		Samara			Sanbara	"<img src=""_BFA.png"">"									43725	essentiel
 -54031985691	Chemise	bk		Dereke													43725	essentiel
 -54126056361	Septembre	yq		Sɛtanburukalo			Sɛtanburu										43725	calendrier
 -54126083347	Août	yq		Utikalo			Uti										43725	calendrier
@@ -899,18 +899,18 @@
 -54293290889	Octobre	yq		Ɔkutɔburukalo			Ɔkutɔburu										43725	calendrier
 -5462122209	Que dieu te benisse	bk		Ala i duga			Ala i baraji										43725	phrase
 -54727441325	Compréhension	yq		Faamuli			Faamuyali		Famuli								43725	
--54727486070	Vraiment	yq		Tiɲɛ tiɲɛ	CIV		Tiɲɛn na		Tigitigi								43725	corp essentiel
+-54727486070	Vraiment	yq		Tiɲɛ tiɲɛ	"<img src=""_CIV.png"">"		Tiɲɛn na		Tigitigi								43725	corp essentiel
 -54727515367	Pousser  / motiver	bk		Lasun													43725	v
 -54727531939	Coeur	bk		Dusu			Dusukun		Sɔn								43725	corp
 -54727546144	Parce que			Sabu		Siriki tεna taga baarakɛyɔrɔ la bi sabu a ma kɛnɛ.					Katuguni						43725	marked
--5481833799	Marcher	yq		Taagama	CIV		Taama										43725	v
--55000189426	Samedi	yq		Samedilɔn / Sibirilɔn	CIV		Samedilɔn	BFA	Sibiridɔn / Sibiri	MLI							43725	calendrier
--55000189427	Vendredi	yq		Jumalɔn / Juma	CIV		Jumanlɔn	BFA	Jumandɔn / Juman	MLI							43725	calendrier
--55000189428	Mercredi	bk		Arabalɔn / Araba	CIV		Arabalɔn	BFA	Arabadɔn / Araba	MLI							43725	calendrier
--55000189429	Mardi	bk		Taratalɔn / Tarata	CIV		Talatalɔn	BFA	Taratadɔn / Tarata	MLI							43725	calendrier
--55000189430	Lundi	bk		Tɛnɛnlɔn / Tɛnɛn	CIV		Tɛnɛnlɔn	BFA	Ntɛnɛndɔn / Ntɛnɛn	MLI							43725	calendrier
--55000189431	Jeudi	yq		Alamisalɔn / Alamisa	CIV		Lamisalɔn	BFA	Alamisadɔn / Alamisa	MLI							43725	calendrier
--55000189432	Dimanche	yq		Dimansilɔn / Hatilɔn	CIV		Dimansilɔn	BFA	Karidɔn / Kari	MLI							43725	calendrier
+-5481833799	Marcher	yq		Taagama	"<img src=""_CIV.png"">"		Taama										43725	v
+-55000189426	Samedi	yq		Samedilɔn / Sibirilɔn	"<img src=""_CIV.png"">"		Samedilɔn	"<img src=""_BFA.png"">"	Sibiridɔn / Sibiri	"<img src=""_MLI.png"">"							43725	calendrier
+-55000189427	Vendredi	yq		Jumalɔn / Juma	"<img src=""_CIV.png"">"		Jumanlɔn	"<img src=""_BFA.png"">"	Jumandɔn / Juman	"<img src=""_MLI.png"">"							43725	calendrier
+-55000189428	Mercredi	bk		Arabalɔn / Araba	"<img src=""_CIV.png"">"		Arabalɔn	"<img src=""_BFA.png"">"	Arabadɔn / Araba	"<img src=""_MLI.png"">"							43725	calendrier
+-55000189429	Mardi	bk		Taratalɔn / Tarata	"<img src=""_CIV.png"">"		Talatalɔn	"<img src=""_BFA.png"">"	Taratadɔn / Tarata	"<img src=""_MLI.png"">"							43725	calendrier
+-55000189430	Lundi	bk		Tɛnɛnlɔn / Tɛnɛn	"<img src=""_CIV.png"">"		Tɛnɛnlɔn	"<img src=""_BFA.png"">"	Ntɛnɛndɔn / Ntɛnɛn	"<img src=""_MLI.png"">"							43725	calendrier
+-55000189431	Jeudi	yq		Alamisalɔn / Alamisa	"<img src=""_CIV.png"">"		Lamisalɔn	"<img src=""_BFA.png"">"	Alamisadɔn / Alamisa	"<img src=""_MLI.png"">"							43725	calendrier
+-55000189432	Dimanche	yq		Dimansilɔn / Hatilɔn	"<img src=""_CIV.png"">"		Dimansilɔn	"<img src=""_BFA.png"">"	Karidɔn / Kari	"<img src=""_MLI.png"">"							43725	calendrier
 -55362297427	Paysan	bk		Sɛnɛkɛla													43725	essentiel
 -55362297428	Docteur	yq		Dɔkɔtɔrɔcɛ			Dɔgɔtɔrɔ										43725	gens
 -55362297431	Fille	yq		Sunguru			Denmuso										43725	gens
@@ -919,7 +919,7 @@
 -55362297438	Père	yq		Facɛ			Faa		Faa								43725	gens
 -55365479141	Africain	bk		Farafin													43725	essentiel
 -55365492608	Européen / blanc	bk		Tubabu													43725	essentiel
--55856535102	Lion	yq		Waraba	MLI		Jara / Jaraba	CIV									43725	animal
+-55856535102	Lion	yq		Waraba	"<img src=""_MLI.png"">"		Jara / Jaraba	"<img src=""_CIV.png"">"									43725	animal
 -55856535105	Partir / Aller	bk		Taga		A tagala Abidjan	Taa										43725	essentiel vi
 -55856535106	Dépouilles, morts	bk		Suw													43725	
 -55856535110	Sacrifier	bk		Saraka	v	N ka wari saraka											43726	v vt wt
@@ -932,7 +932,7 @@
 -55856535119	Femme	bk		Muso													43725	essentiel
 -55856535120	Homme / personne	bk		Mɔgɔ													43725	essentiel
 -55856535121	Désobéissant	bk		Kanminɛ bali													43725	bambara unbouake
--55856535122	Obéir / Eduquer / Discipliner	bk	(v.)	Kolo	CIV	A ma kolo dɛ !	Kanminɛ	BFA	Kaan minɛni kɛ	BFA							43725	marked v
+-55856535122	Obéir / Eduquer / Discipliner	bk	(v.)	Kolo	"<img src=""_CIV.png"">"	A ma kolo dɛ !	Kanminɛ	"<img src=""_BFA.png"">"	Kaan minɛni kɛ	"<img src=""_BFA.png"">"							43725	marked v
 -55856535123	Ange	yq		Mɛlɛkɛ													43725	
 -55856535124	Décider	yq		Latigɛ													43725	marked v
 -55856535125	Tomber	yq		Ben													43725	vi
@@ -945,7 +945,7 @@
 -55856535139	Interdit	yq		Kana			Dagalen tɛ										43725	essentiel
 -55856535140	Étudier	bk		Degi			Dege										43725	marked v
 -55856535141	Pécher	bk		Jurumu													43725	v
--55856535142	Chose	kodi		Fɛɛn			Fɛn	BM									43725	essentiel
+-55856535142	Chose	kodi		Fɛɛn			Fɛn	"<img src=""_MLI.png"">"									43725	essentiel
 -55856535143	Mauvais	bk		Jugu													43725	essentiel
 -55856535144	Image	bk		Jaa													43725	
 -55856535145	Vivre	bk		Ɲɛnamaya													43725	v
@@ -956,7 +956,7 @@
 -55856535150	Marier	bk		Furu		A ma furu / A furula											43725	v vi
 -55856535152	Aussi			Fana													43725	essentiel
 -55856535153	Oeuf	yq		Fan													43725	essentiel
--55856535154	Âne	yq		Fali	BFA		Sofali										43725	animal
+-55856535154	Âne	yq		Fali	"<img src=""_BFA.png"">"		Sofali										43725	animal
 -55856535155	Tuer, Abattre, Éteindre	bk		Faga		N ya wulu ka sise faga											43725	v vt
 -55856535156	Terre	yq		Dugukolo			Bɔgɔ										43725	essentiel
 -55856535158	Grand / hauteur	bk		Janya													43725	
@@ -966,8 +966,8 @@
 -55856535166	Créature	bk		Danfɛn													43725	
 -55856535167	Parfait	yq		Dafalen													43725	leech
 -55856535168	Faire			Kɛ		Kunu, a ka kɛ											43725	v vt
--55856535170	Droite	bk		Bolo ɲuman	CIV		Kini bolo	MLI									43725	essentiel
--55856535171	Gauche	bk		Bolo jugu	CIV		Numan bolo	MLI									43725	essentiel
+-55856535170	Droite	bk		Bolo ɲuman	"<img src=""_CIV.png"">"		Kini bolo	"<img src=""_MLI.png"">"									43725	essentiel
+-55856535171	Gauche	bk		Bolo jugu	"<img src=""_CIV.png"">"		Numan bolo	"<img src=""_MLI.png"">"									43725	essentiel
 -55856535173	Gros	kodi		Belebele													43725	essentiel
 -55856535174	Tout / Tous	yq		Bɛɛ													43725	essentiel
 -55856535175	Adorer	yq		Bato													43725	v
@@ -981,11 +981,11 @@
 -5587347447	C'est comme ça	bk		A be ten													43725	essentiel phrase
 -5642987963	Bonté	yq		Ɲumanya			Ɲumaya										43725	
 -5643947273	Exemple	wt		Ɲɛyirali			Misali	ma									43725	
--5644181930	Courage	rc		Jagwɛlɛya	CIV		Jagɛlɛya	MLI									43725	
+-5644181930	Courage	rc		Jagwɛlɛya	"<img src=""_CIV.png"">"		Jagɛlɛya	"<img src=""_MLI.png"">"									43725	
 -5810084146	C'est moi	bk		Ne lo													43725	phrase
 5826eb35-1ffb-4c00-9c87-a5524498ab4a	Jamais (Never)			Fewu														
 -5841878338	Un long chemin	bk		Sira ka jan													43725	phrase
--5843352880	Regarder	yq		Filɛ	CIV	N be filɛli kɛ			Lajɛ	MLI							43725	marked
+-5843352880	Regarder	yq		Filɛ	"<img src=""_CIV.png"">"	N be filɛli kɛ			Lajɛ	"<img src=""_MLI.png"">"							43725	marked
 -5926327875	Je suis entré dans la maison	bk		N dola bon na.													43725	leech phrase
 -5926384811	J'ai un rhume.	bk		Mura be n na.													43725	phrase
 -5926408929	Rhume	yq		Mura													43725	santé
@@ -1100,11 +1100,11 @@
 -7788796832	Que chacun se reveil le matin	bk		Ala an kelen kelen wuli													43725	phrase
 -7791876226	Nez	yq		Nu													43725	corp
 -7791903746	Plante de pied	bk		Sen tɛgɛ													43725	corp
--7791941218	Cuisse	bk		Woto					woro	bm							43725	corp
+-7791941218	Cuisse	bk		Woto					woro	"<img src=""_MLI.png"">"							43725	corp
 -7792030022	Gros orteil	bk		Sen kumande ba													43725	corp
 -7792055372	Petit doigt	bk		Bolo kumande fitini													43725	corp
--7792085208	Pouce	bk		Bolo kumande ba					Bolonkɔnikunba	bm							43725	corp
--7792110343	Doigt	yq		Bolokumande	CIV		Bolokanden		Bolokɔni / Bolonkɔni	bm							43725	corp
+-7792085208	Pouce	bk		Bolo kumande ba					Bolonkɔnikunba	"<img src=""_MLI.png"">"							43725	corp
+-7792110343	Doigt	yq		Bolokumande	"<img src=""_CIV.png"">"		Bolokanden		Bolokɔni / Bolonkɔni	"<img src=""_MLI.png"">"							43725	corp
 -7839977565	Bleu	yq		Bula			Bulaman										43725	couleur
 -7840058159	Jaune	yq		Nere			Nɛrɛnu(man)										43725	couleur
 -7840060490	Vert	yq		Biŋkɛnɛ			Binkɛnɛman										43725	couleur leech
@@ -1117,7 +1117,7 @@
 78cce866-b1cb-4fe8-a7d0-6f1c953ff018	Mer / Océan			Kɔgɔji													43725	
 -8088147732	Rouge	yq		Wuleman													43725	couleur
 -8088212970	Noir	yq		Finman		phrase avez couleur											43725	
--8099771854	Devant	yq kodi		Ɲa fɛ	civ		Ɲɛ fɛ	bfa									43725	essentiel
+-8099771854	Devant	yq kodi		Ɲa fɛ	"<img src=""_CIV.png"">"		Ɲɛ fɛ	"<img src=""_BFA.png"">"									43725	essentiel
 -8219438417	2019			Saan waa fila ani tan ni kɔnɔton													43725	calendrier chiffre
 -8345687794	Je ne veux pas te fatiguer	bk		N tɛ fɛ k' i sɛgɛ													43725	phrase
 -8360950170	J'ai compris.	bk		N ka faamu.													43725	phrase
@@ -1129,7 +1129,7 @@
 -8522151866	Attends moi	bk		Lɔ ka n kɔnɔ													43725	phrase
 -8522305713	Un jour avant hier	bk		Kuna sini kɔfɛ													43725	calendrier
 -8523273944	Ils ne sont pas ici	bk		O tɛ yen													43725	marked phrase
--8878884938	Ca fait deux jours	bk		A kɛla tere fila	CIV		I ni fama	OD	I ni la fila	MLI							43725	essentiel phrase
+-8878884938	Ca fait deux jours	bk		A kɛla tere fila	"<img src=""_CIV.png"">"		I ni fama	OD	I ni la fila	"<img src=""_MLI.png"">"							43725	essentiel phrase
 899da4f4-e157-4031-8e4b-cf59702a1303	C'est dangereux	yq		Farati  b'a la													43725	
 8f72e15d-72e6-47bf-b99d-164b41eabc8c	Danger			Farati		Farati b'a la											43725	
 90e182fd-80ba-4239-8438-6d2b470f93c2	Bègue	yq		Dagwara														
@@ -1153,7 +1153,7 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement			Pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	Pensée / Méditation	yq		Miirili			Miiriya											
 e506434d-e343-411c-875f-8374151055eb	Il y a quelques années	yq		A saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	(v.)	Ban													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE						sheets	20191201133818	20191201073713	20191003233730								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE						sheets	20191201135729	20191201073713	20191003233730								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq		Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	(n.)	Ko		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq		Dimi			Dusubɔ										43725	

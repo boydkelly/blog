@@ -106,21 +106,21 @@
 1529599765589	La venue	jl 22		Nali													43725	marked
 1529599765600	Ordinateur	jl 23		Ɔrdinatɛriw													43726	
 1529599765613	Années passées	jl 25		Saan tɛmɛninw													43725	
-1529657783606	Cheville			Ntama / ntamakuru	"<img src=""_MLI.png"">I"												43725	MLI corp
+1529657783606	Cheville			Ntama / Ntamakuru	"<img src=""_MLI.png"">"												43725	MLI corp
 1529657783607	Cil			Ɲɛsi					ɲɛsi,ɲɛwolosi	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783608	Colonne vertébrale			Kɔkolo					Kɔkolo / Jɔkolo	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783609	Côte			Galaga					galaka,sabakolo	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783611	Bon sens			Hakili ɲuman													43725	
-1529657783612	Front								ten,fɔn	"<img src=""_MLI.png"">"							43725	MLI corp
+1529657783612	Front								Ten / fɔn	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783613	Hanche			Tɔgɔ	"<img src=""_MLI.png"">"		gerɛn										43725	MLI corp marked
-1529657783615	Jambe / Pied			Sen					sen	"<img src=""_MLI.png"">"							43725	MLI corp
+1529657783615	Jambe / Pied			Sen													43725	MLI corp
 1529657783616	Joue								kènken,dafuruku	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783620	Menton			Bonbon kun					Bonbon	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783621	Muscle			Fasa													43725	corp
 1529657783622	Narine			Nuwo			Nudinga		Nuwo / Nufile	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783623	Nerf			Fasa juru					fàsàjuru,fàsàsira,sɔmìnan	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783624	Orteil			Sen Kumande					Sɛnkɔni	"<img src=""_MLI.png"">"							43725	MLI corp
-1529657783625	Os		(n.)	Kolo					kolo	"<img src=""_MLI.png"">"							43725	MLI corp
+1529657783625	Os		(n.)	Kolo													43725	MLI corp
 1529657783627	Poignet			Bolokan					Bolonɛgɛladonyɔrɔ	"<img src=""NKo_Ny.svg"">"							43725	corp
 1529657783628	f								pu	"<img src=""_MLI.png"">"							43725	MLI corp
 1529657783630	Rein								Kɔmɔkìli	"<img src=""_MLI.png"">"							43725	MLI corp
@@ -296,7 +296,7 @@
 -25715138543	Oui	yq		Ɔnhɔn													43725	essentiel question
 -25715160808	Quoi	bk		Mun													43725	question
 -25715223912	Est-ce que...	bk		...wa													43725	essentiel question
--25715308632	C'est	kodi		Lo			Don	"<img src=""_MLI.png"">"									43725	MLI essentiel
+-25715308632	C'est	kodi		Lo	"<img src=""_CIV.png""><br>"		Don / Do	"<img src=""_MLI.png"">"									43725	MLI essentiel
 25810073427	Nourrir / Vivre / Élever	bk	(v.)	Balo		A be balo la											43725	v vi
 25b96257-feb8-400a-9417-709a96a1da08	Mûr (fruit)	yq		Mɔnlen		need example												
 26490304959	Déchirer	bk		Farafara			Faran										43725	v
@@ -587,7 +587,7 @@
 28367609785	Vesicule bilaire	alasane		kuna kuna						"<img src=""_MLI.png"">"							43725	MLI alasane corp marked
 28367778141	Intestins	alasane		Kɔnɔ nogo					Nugu	"<img src=""_MLI.png"">"							43725	MLI alasane corp
 28367944447	Nombril	alasane		Bara kun	"<img src=""_CIV.png"">"		Kɔnɔbara										43725	corp
-28367971257	Veine	source		Joli sira	civx				Jolifìnsira	"<img src=""_MLI.png"">"							43725	corp marked MLI
+28367971257	Veine	source		Joli sira	"<img src=""_CIV.png""><br>"				Jolifìnsira	"<img src=""_MLI.png"">"							43725	MLI corp marked
 28368107720	Sang	alasane		Joli (n.)	(n.)				Joli / Basi	"<img src=""_MLI.png"">"							43725	MLI corp
 28368192363	Levres	alasane		Dagwolo					Dawolo	"<img src=""_MLI.png"">"							43725	MLI alasane corp
 28368284086	Langue (corps)	alasane		Nɛɛn			Nɛɛnkun										43725	corp
@@ -600,7 +600,7 @@
 28370590572	Gros coeur (qui se fâche facilement)	alasane		Dusuba													43725	alasane
 28371300085	L'homme a une jambe	alasane		Cɛ sen kele nin													43725	alasane corp
 28382876273	Jusqu'aujourd'hui			Hali bi													43725	essentiel
-28382876274	Banane	yq		Baranda			Namasa	"<img src=""_MLI.png"">"									43725	MLI nourriture
+28382876274	Banane	yq		Baranda	"<img src=""_CIV.png""><br>"		Namasa	"<img src=""_MLI.png"">"									43725	MLI nourriture
 28382876275	Beignet de haricot	etb		Sɔsɔ furu	"<img src=""_CIV.png"">"		Faaro	"<img src=""_BFA.png""><br>"									43725	nourriture
 28382876276	Bouillie / Poison	yq		Baga													43725	nourriture
 28382876277	Bouillon	yq		Nanji													43725	nourriture
@@ -733,7 +733,7 @@
 -44178557456	Passer / dépasser	bk		Tɛmɛ													43725	v
 -4431224777	Même	kodi		Yɛrɛ													43725	essentiel
 -44437459979	S'assoir	bk		Sigi													43725	v
--44437573903	Étranger	bk		Lonacɛ			Lonan	"<img src=""_CIV.png"">&nbsp;&nbsp;<br>"	Dunan	"<img src=""_MLI.png""><br>"							43725	MLI gens
+-44437573903	Étranger	bk		Lonacɛ / Lonamuso	"<img src=""_CIV.png""><br>"		Lonan	"<img src=""_CIV.png"">&nbsp;&nbsp;<br>"	Dunan	"<img src=""_MLI.png""><br>"							43725	MLI gens
 -44437908548	Sortir	bk		Bɔ													43725	v
 -44439246043	Gater	bk		Can													43725	marked v vt
 -44639764826	Conscience	bk		Dusukun													43725	
@@ -861,7 +861,7 @@
 -53958647739	École	yq		Lakɔli													43725	essentiel
 -53958647740	Roue	bk		Pine													43725	essentiel
 -53958647741	Repas / Nourriture / Plat	jl 14		Domuni	CDI				Fana								43725	essentiel marked n
--53958647742	Cheveux	yq		Kunsigi					kùnsigi	"<img src=""_MLI.png"">"							43725	MLI corp
+-53958647742	Cheveux	yq		Kunsigi	"<img src=""_BFA.png""><img src=""_CIV.png""><img src=""_MLI.png""><br>"												43725	MLI corp
 -53958647743	Amie	kodi		Terimuso													43725	essentiel
 -53958647744	Bolo	bk		Bras / Main													43725	essentiel
 -53958647745	Mère	bk		Bamuso													43725	essentiel gens
@@ -916,6 +916,7 @@
 -55362297438	Père	yq		Facɛ			Faa		Faa								43725	gens
 -55365479141	Africain	bk		Farafin													43725	essentiel
 -55365492608	Européen / blanc	bk		Tubabu													43725	essentiel
+-55856535101	Chien	yq		Wulu														animal essentiel
 -55856535102	Lion	yq		Waraba	"<img src=""_MLI.png"">"		Jara / Jaraba	"<img src=""_CIV.png"">"									43725	MLI animal
 -55856535105	Partir / Aller	bk		Taga		A tagala Abidjan	Taa										43725	essentiel vi
 -55856535106	Dépouilles, morts	bk		Suw													43725	
@@ -957,6 +958,7 @@
 -55856535155	Tuer, Abattre, Éteindre	bk		Faga		N ya wulu ka sise faga											43725	v vt
 -55856535156	Terre	yq		Dugukolo			Bɔgɔ										43725	essentiel
 -55856535158	Grand / hauteur	bk		Janya													43725	
+-55856535159	Chat			Jakuma														animal essentiel
 -55856535161	Enfants	bk		Denw			Deenw										43725	essentiel
 -55856535163	Garçon / Fils	bk		Dencɛ													43725	essentiel gens
 -55856535165	Mendier / demander	bk		Deli	ODI	A b'a fɛ k'i dari	Dari	BKE									43725	v
@@ -1150,7 +1152,7 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement			Pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	Pensée / Méditation	yq		Miirili			Miiriya											
 e506434d-e343-411c-875f-8374151055eb	Il y a quelques années	yq		A saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	(v.)	Ban													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE						sheets	20191201135729	anki	20191202122926								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE						sheets	20191201135729	anki	20191202213528								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq		Baji			Baa										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	(n.)	Ko		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq		Dimi			Dusubɔ										43725	

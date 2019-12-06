@@ -27,7 +27,7 @@
 1527946171945	Fuir / Echapper / Courir / Conduire	kodi	(v.)	Bori		n bolila	Boli										43725	essentiel vi
 1527946172032	Mal / Douleur	yq	(n.)	Dimi													43725	corp essentiel
 1527946172154	Chaque fois	kamagate		Tuma kelen kelen													43725	essentiel
-1528479911909	Argent	yq		Wari			Warigwɛ										43725	essentiel
+1528479911909	Argent	yq		Wari		N b’a fɛ ka mobili san nka wari tɛ n bolo.	Warigwɛ										43725	essentiel
 1528479911910	Argile	yq		Bɔgɔn													43725	
 1528479911911	Au travail	yq		Baarakɛyɔrɔ la													43725	
 1528479911912	Au-dessus / En haut	yq		San fɛ													43725	essentiel
@@ -947,7 +947,7 @@
 -55856535144	Image	bk		Jaa													43725	
 -55856535145	Vivre	bk		Ɲɛnamaya													43725	v
 -55856535146	Paix / bonheur	bk		Hɛrɛ (n.)													43725	essentiel
--55856535147	Heureux						Dagamunin										43725	essentiel marked
+-55856535147	Heureux			Dagamunin													43725	essentiel marked
 -55856535148	Détruire	yq		Halaki													43725	v
 -55856535149	Se souvenir / Esprit Penser	bk		Hakili		N hakili t'a la											43725	v
 -55856535150	Marier	bk		Furu		A ma furu / A furula											43725	v vi
@@ -1091,6 +1091,7 @@
 -7540204535	Connaissance	yq		Lɔniya													43725	v
 -7540249164	Connaitre	bk		Lɔn													43725	essentiel v vt
 -7540359438	Changement	yq		Yɛlɛmali			Yɛlɛmani										43725	
+75638259339	Je n'ai pas beaucoup d'argent			Wari caman tɛ ne fɛ	"<img src=""_CIV.png""><br>"				Wari caman tɛ n bolo	"<img src=""_MLI.png""><br>"								
 -7651829509	Miel	yq		Li													43725	nourriture
 -7662480041	Force / Puissance	bk		Fanga													43725	
 -7788796832	Que chacun se reveil le matin	bk		Ala an kelen kelen wuli													43725	phrase
@@ -1149,7 +1150,7 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	Complètement			Pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	Pensée / Méditation	yq		Miirili			Miiriya											
 e506434d-e343-411c-875f-8374151055eb	Il y a quelques années	yq		A saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	Finir / Décéder	yq	(v.)	Ban													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE						sheets	20191201135729	anki	20191206085338								
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE						sheets	20191201135729	anki	20191206163149								
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	Fleuve	yq		Ba		Baji	Baji										43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	Envie	yq	(n.)	Ko		a ko be na	Nege										43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	Fâcher / Agacer / Énerver / Irriter	yq		Dimi			Dusubɔ	is this a verb?									43725	marked

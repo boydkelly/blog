@@ -2,7 +2,7 @@
 	Paroles de conclusion			kuncɛli kumaw														
 	vie			ɲanamanya			ɲɛnamaya											
 	vivant		adj	ɲana														
--11085274429	Réunion	bk		Lajɛn													43726	
+-11085274429	Réunion	bk		Lajɛn	JL				Lajɛ	BM							43726	
 -11287133660	Joie	jl 11		Nagali													43726	wt
 -11287332641	Serviteur / adorateur	bk		Sagokɛla													43726	wt
 -15176835587	Sans foi	bk		Janfanci													43726	duplicate wt
@@ -31,7 +31,7 @@
 -53018428141	Sabbat	bk		Lafiɲɛlon													43726	wt
 -53018531254	Résurrection	bk		Sukununi			Suu kununi										43726	wt
 -53018679285	Rançon	bk		Kunmabɔsara													43726	wt
--53018792198	Assemblée	jl 6		Kafo											Jɛnkulu		43726	wt
+-53018792198	Assemblée	jl 6		Kafo	JL				jɛkulu	BM					Jɛnkulu		43726	wt
 -53019012572	Satan	bk		Sitanɛ													43726	wt
 -53019039215	Diable	bk		Naafigi													43726	wt
 -53019084841	Témoins de jéhovah	jl 1		Jehova seerew													43726	wt
@@ -39,12 +39,12 @@
 -53020406468	Royaume de dieu	bk		Ala ka masaya													43726	wt
 -53277812243	Baisser	bk		Suuri			Sosuuri										43726	wt
 -54217186332	Antenne de traduction	bk		Gafew bayɛlɛma yɔrɔ													43726	wt
--54217186336	Ancien	jl 14		Diinan mɔgɔkɔrɔ													43726	wt
+-54217186336	Ancien	jl 14		diinan mɔgɔkɔrɔ	JL				diinɛ maakɔrɔ	BM							43726	wt
 -54217186337	Responsable itinérant	jl 17		Kɔrɔsibaga tagamakɛlaw													43726	wt
--54217186338	Pionnier	jl 13		Piyɔniye													43726	wt
--54217186339	Assistant ministériel	jl 16		Kɔrɔsigi ciden													43726	wt
+-54217186338	Pionnier	jl 13		Piyɔniye	JL				Tutigɛbaga	BM							43726	wt
+-54217186339	assistant ministériel	jl 16		kɔrɔsigi ciden	JL				cidenyabaara magannaw	BM							43726	wt
 -54217186340	Famille du béthel	jl 21		Betɛli ka denbayamɔgɔw													43726	wt
--54217186341	Béthel	jl 21		Bɛtɛli													43726	wt
+-54217186341	Béthel	jl 21		Betɛli													43726	wt
 -5583657714	Démon	bk		Jina													43726	wt
 -55856535126	Ressussiter	bk		Lakunun													43726	wt
 -55856535130	Éternellement	bk		Kudayi													43726	wt
@@ -126,13 +126,13 @@
 1527665647594	Lors de l'examen du paragraphe	yq		Dakun lajɛtɔ													43726	wt
 1527665647595	Révision orale	yq		Dalafoli segikanni													43726	wt
 1527665647596	Entamer (entamer une conversation)	yq		Daminɛ													43726	wt
-1527665647598	Pionnier spécial	jl 13		Dan na piyɔniye													43726	wt
+1527665647598	Pionnier spécial	jl 13		Dan na piyɔniye	JL				tutigɛbaga kɛrɛnkɛrɛnnenw	BM							43726	wt
 1527665647599	Créature spirituelle	yq		Danfɛn hakililama													43726	wt
 1527665647600	Contemporain de David	Yannick		Daouda ka wagati mɔgɔ			Daouda ka filankuru										43726	wt
 1527665647601	Fils unique-engendré	yq		Dencɛ kelenpɛ bangelen													43726	wt
 1527665647603	Secte	yq		Diinan bolo fara													43726	wt
 1527665647604	Collège d'anciens	yq		Diinan mɔgɔkorow jɛnkulu													43726	wt
-1527665647606	Coordinateur du collège des anciens	yq		Diinan mɔgɔkɔrɔw jɛnkulu ka koow labɛnbaga													43726	wt
+1527665647606	Coordinateur du collège des anciens	yq		Diinan mɔgɔkɔrɔw jɛnkulu ka koow labɛnbaga			Diinan mɔgɔkɔrɔw ɲɛbila										43726	wt
 1527665647608	Responsable de ville	yq		Dugu kɔrɔsibaga													43726	wt
 1527665647609	Sur la terre entière	yq		Dugukolo kuru bɛɛ kan			Dugukolo faan bɛɛ la										43726	wt
 1527665647610	Ruine de la terre	yq		Dugukolo tinyɛni													43726	wt
@@ -181,7 +181,6 @@
 1527665647675	Saine compagnie	yq		Jɛnnyogonya nyuman													43726	wt
 1527665647678	Améliorer sa personnalité	yq		Jogo yɛlɛma													43726	wt
 1527665647681	Transgresseur	yq		Jurumukɛla													43726	wt
-1527665647684	Souligner (accentuer)	yq		K'a yira ka gwɛ													43726	wt
 1527665647686	Nourrir le cœur	yq		K'an dusukun balo													43726	wt
 1527665647687	Nous inciter	yq		K'an lasun													43726	wt
 1527665647688	Donner notre meilleur	yq		K'an seko fisaman kɛ													43726	wt
@@ -190,7 +189,7 @@
 1527665647691	Revêtir un corps humain	yq		Ka adamaden cogoya ta													43726	wt
 1527665647692	Respecter les normes divines	yq		Ka Ala ka siraw labato													43726	wt
 1527665647693	Refuser une transfusion de sang	yq		Ka ban ka joli don an fari la													43726	wt
-1527665647694	Parler d'un sujet d'intérêt local	yq		Ka baro dabo kiin kono koo do kan													43726	wt
+1527665647694	Parler d'un sujet d'intérêt local	yq		Ka baro dabɔ kiin kɔnɔ koo do kan													43726	wt
 1527665647695	Améliorer nos conversations	yq		Ka baro kɛcogo fisaya													43726	wt
 1527665647696	Succomber aux tentations	yq		Ka ben Kɔrɔboliw na													43726	wt
 1527665647697	Apprendre des textes bibliques	yq		Ka bibulusenw degi k'u lɔn													43726	wt
@@ -255,7 +254,7 @@
 1527665647766	Réserver du temps	yq		Ka wagati latigɛ													43726	wt
 1527665647771	Besoin de la Assemblée	yq		Kafo ka mako													43726	wt
 1527665647772	Membre de la Assemblée	jl 15		Kafoden													43726	wt
-1527665647774	Responsable de circonscription	jl 17		Kafokulu kɔrɔsibaga			Kafokulu kɔrɔsibaga										43726	wt
+1527665647774	responsable de circonscription	jl 17		kafokulu kɔrɔsibaga	JL				kafo lakɔlɔsibagaw	BM							43726	wt
 1527665647775	Comment remplir le formulaire	yq		Kafolisɛbɛ dafacogo													43726	wt
 1527665647776	Immoralité	yq		Kakalaya													43726	wt
 1527665647777	Après chaque exposé	yq		Kalan kelen-kelen banni kɔ													43726	wt
@@ -289,12 +288,12 @@
 1527665647812	Compte tenu du temps imparti	yq		Komi wagati daan tigɛra													43726	wt
 1527665647813	Vérifions les choses les plus importantes	yq		Koo minw kɔrɔtanin lo ka tɛmɛ tɔɔw kan, aw k'olu faranfasi													43726	wt
 1527665647814	Système de choses	yq		Koo sigi cogoya			Diɲɛ										43726	wt
-1527665647816	Collège central	jl 20		Koow ɲɛnabɔla jɛnkulu													43726	wt
+1527665647816	Collège central	jl 20		Koow ɲɛnabɔla jɛnkulu	JL				Ɲɛmɔgɔ kulu	BM							43726	wt
 1527665647818	Tentation	yq		Kɔrɔboli													43726	wt
 1527665647821	Assistant ministériel expérimenté	yq		Kɔrɔsigi ciden setigi													43726	wt
 1527665647824	En cas d'urgence	yq		Kɔrɔtɔkow kosɔn													43726	wt
 1527665647828	Service à plein temps	yq		Kudayi cidenya baara													43726	wt
-1527665647829	Pionnier permanent	jl 13		Kudayi Piyoniye													43726	wt
+1527665647829	Pionnier permanent	jl 13		kudayi piyoniye					tutigɛbaga basigilenw	BM							43726	wt
 1527665647830	Technique oratoire	yq		Kumacogo fɛɛrɛ													43726	wt
 1527665647831	Prière de conclusion	yq		Kuncɛli delili													43726	wt
 1527665647832	De nouveaux sommets ont été atteints	yq		Kunkɔrɔta kura caaman sɔrɔla													43726	wt
@@ -318,7 +317,7 @@
 1527665647861	Chez les personnes intéressées	yq		Makodon mɔgɔw fɛ													43726	wt
 1527665647862	Ne doit pas durer plus de	yq		Man kan ka mɛɛn ka tɛmɛ … kan													43726	wt
 1527665647863	Codirigeant	yq		Marakɛɲɔgɔn													43726	wt
-1527665647865	Salle du Royaume	jl 15		Masaya Boon					Massaya Soo	Bambara					Masaya So		43726	wt
+1527665647865	Salle du Royaume	jl 15		Masaya Boon	JL				Massaya So	BM					Masaya So		43726	wt
 1527665647866	Ministère du royaume	yq		Masaya cidenyabaara													43726	wt
 1527665647870	Repas du seigneur	yq		Matigi ka surafana seli													43726	wt
 1527665647872	Attitude mentale	yq		Miiriya cogo													43726	wt
@@ -394,7 +393,7 @@
 1527665647967	Intendant	yq		Sokunnasigibaga													43726	wt
 1527665647968	Système de sonorisation	yq		Sono juru													43726	wt
 1527665647971	Société	yq		Sosiyete													43726	wt
-1527665647972	Filiale	yq		Sosiyete ka biro			Tonbolo		Tɔnbolo biro								43726	wt
+1527665647972	ministère		(n.)	cidenya baara													43726	wt
 1527665647973	Sujet controversé	yq		Sɔsɔli kuma													43726	wt
 1527665647974	Esprit des ancêtres	yq		Sukɔrɔ													43726	wt
 1527665647978	Trébucher (physiquement)	yq		Talon													43726	wt
@@ -404,7 +403,7 @@
 1527665647982	Assemblée spéciale d'un jour	yq		Tile kelen lajɛnba													43726	wt
 1527665647983	Assemblée régional	yq		Tile saba lajɛnba													43726	wt
 1527665647984	Texte du jour	yq		Tilera kalan			Lon o lon ka miiriya										43726	wt
-1527665647988	Bureau de la filiale	jl 22		Tɔnbolo biro													43726	wt
+1527665647988	siège national	jl 22		tɔnbolo biro	JL				tɔn bolofara	BM							43726	wt
 1527665647990	Alliance	jl		Layidu													43726	wt
 1527665647991	Grande tribulation	yq		Tɔɔrɔba													43726	wt
 1527665647992	Déluge	yq		Tufane jii			Sanjiba										43726	wt
@@ -417,7 +416,7 @@
 1527665648000	Verset clé	yq		Vɛrise jonjon													43726	wt
 1527665648002	Devoir sacré	yq		Waajibiko senuman													43726	wt
 1527665648004	Quand nous prêchons	yq		Waajuli kɛto													43726	wt
-1527665648005	Ministère (prédication)	yq		Waajulibaara													43726	wt
+1527665648005	prédication	yq		Waajulibaara													43726	wt
 1527665648006	Responsable au service	yq		Waajulibaara kɔrɔsibaga													43726	wt
 1527665648007	Année de service	yq		Waajulibaara saan													43726	wt
 1527665648008	Évangélisateur zélé	yq		Waajulikɛla kisɛman													43726	wt
@@ -443,7 +442,7 @@
 1527665648036	Journée de périodiques	yq		Zurunaliw dilon													43726	wt
 1527665648037	Tournée de périodiques	yq		Zurunaliw disira													43726	wt
 1527665648038	Diffusion des périodiques	yq		Zurunaliw jɛnsɛnni													43726	wt
-1528499809450	Titre			Kalankun				Évangélisation/ Ministère		Foi/ Spiritualité							43726	
+1528499809450	Titre			Kalankun													43726	
 1528499809451	Soyons des auditeurs et des pratiquants de la Parole de Dieu	wt		Aw kana kɛ tulogwerenw ye fewu	9												43726	dp
 1528499809452	Soyons honnêtes en paroles et en actions	wt		An ka koow kɛ ni hɔɔrɔnya ye tuma bɛɛ	10												43726	dp
 1528499809453	Faisons de Jéhovah notre confiance	wt		An k’an jigi la Jehova kan	70												43726	dp
@@ -594,7 +593,7 @@
 1529599765347	vrai	jl 3		lakika													43726	marked
 1529599765349	Passage de la bible	jl 3		Bibulusen													43726	
 1529599765350	Compréhension	jl 3		Famuyali													43726	
-1529599765351	Espoir de la résurection	jl 3		Sukununi jigiya													43726	
+1529599765351	espoir de la résurection	jl 3		sukununi jigiya													43726	
 1529599765352	Fausse croyance	jl 3		Ngalon lannako													43726	
 1529599765353	Traduction de la bible	jl 4		Bibulu bayɛlɛmani													43726	
 1529599765354	Authentique / vrai	jl 4		Tigitigi			Lakika										43726	duplicate
@@ -628,11 +627,10 @@
 1529599765390	Étude biblique de la Assemblée	jl 7		Kafo ka Bibulu kalan													43726	
 1529599765391	Lecture	jl 7		Kalangwɛ													43726	
 1529599765392	Démonstration	jl 7		Nɛyiraliw													43726	
-1529599765393	Interview	jl 7		Fɛtaw													43726	wt
+1529599765393	Interviews	jl 7		Fɛtaw													43726	wt
 1529599765394	Manière de s'habiller	jl 8		Fani doncogo													43726	
 1529599765395	Respect de dieu	jl 8		Ala ka bonya													43726	
 1529599765396	Couvrir	jl 8		Sutara													43726	
-1529599765397	Provoquer	jl 8		Darabɔ													43726	
 1529599765398	Se montrer; se glorifier	jl 8		Yɛrɛ yira													43726	
 1529599765402	Simple	jl 8		Dama kɛɲɛnin													43726	
 1529599765403	Moulant	jl 8		Ferekenin													43726	
@@ -655,7 +653,7 @@
 1529599765424	Grace à	jl 10		Sababu													43726	
 1529599765425	Approcher de Jéhovah	jl 10		Magwɛrɛ Jehova la													43726	
 1529599765426	Conduite	jl 10		Jogo													43726	
-1529599765427	Acte/comportement	jl 10		Kɛwale													43726	
+1529599765427	Acte / comportement	jl 10		Kɛwale													43726	
 1529599765433	Cantique / Mélodie / Chanson / Chant	jl 10		Dɔnkili													43726	duplicate
 1529599765434	Boisson	jl 10		Minnifɛn													43726	
 1529599765435	Nourriture	jl 10		Dumunifɛn													43726	
@@ -689,7 +687,7 @@
 1529599765469	Camarades de classe	jl 12		Lakɔli filankuruw													43726	
 1529599765471	Bonne nouvelle du Royaume de Dieu	jl 12		Ala ka Masaya kibaro diiman													43726	
 1529599765472	Avenir	jl 12		Siniɲasigi													43726	
-1529599765473	Message d'espoir	jl 12		Jigiya kuma													43726	
+1529599765473	message d'espoir	jl 12		Jigiya kuma													43726	
 1529599765474	Route de la vie	jl 13		Kisili sira													43726	
 1529599765475	Entreprendre le service de pionnier	jl 13		Ka seen don piyɔniye baara la													43726	
 1529599765476	Prédicateur à plein temps	jl 13		Kudayi waajulikɛla													43726	
@@ -729,13 +727,13 @@
 1529599765518	Zèle	jl 16		Kisɛya													43726	
 1529599765519	Celui qui aide	jl 16		Dɛmɛbaga													43726	
 1529599765520	Tenir promesse	jl 16		Saratiw dafa													43726	
-1529599765521	Genre d'homme	jl 16		Mɔgɔ sifa													43726	
+1529599765521	genre d'homme	jl 16		mɔgɔ sifa													43726	marked
 1529599765522	S'inquiéter	jl 17		Hami													43726	
 1529599765523	Centaines de kilomètres	jl 17		Kilomɛtɛrɛ kɛmɛ-kɛmɛ													43726	
 1529599765524	Personnes âgées	jl 17		Mɔgɔkɔrɔbaw													43726	
 1529599765526	Études bibliques	jl 17		Bibulukalanw													43726	
 1529599765527	Réunions et assemblées	jl 17		Lajɛnw ni lajɛnbaw													43726	
-1529599765528	Progrès	jl 17		Ɲɛtaga													43726	
+1529599765528	Progrès	jl 17	(n.)	Ɲɛtaga													43726	wt
 1529599765529	Populaire (notoriété)	jl 17		Ka sanga sɔrɔ													43726	
 1529599765530	Les nouveaux	jl 17		Mɔgɔ kuraw													43726	
 1529599765531	Fidélité	jl 17		Kantigiya													43726	
@@ -750,14 +748,12 @@
 1529599765543	Transport	jl 18		Taransipɔri													43726	
 1529599765546	Le Père de toute consolation	jl 18		Dusu saaloli bɛɛ tigi													43726	
 1529599765548	Rassurer	jl 18		Jigi sigi													43726	
-1529599765549	Esclave filèle et avisé	jl 19		Jɔncɛ kantigiman hakiliman													43726	
 1529599765550	Symbole	jl 19		Tagamasiɲɛ													43726	
-1529599765551	Esclave filèle et avisé (Bible)	jl 19		Jɔncɛ dannamɔgɔ hakiliman													43726	
 1529599765552	Moment opportun	jl 19		Wagati latigɛlen na													43726	
 1529599765553	Vrai étudiant	jl 19		Kalanden lakikaw													43726	
 1529599765555	Objets matériels	jl 19		Bololafɛnw													43726	
 1529599765556	Vérités bibliques	jl 19		Bibulu ka tiɲɛn kumaw													43726	
-1529599765557	Progresser	jl 19		Yiriwa													43726	
+1529599765557	augmenter / prospérer	jl 19		Yiriwa													43726	wt
 1529599765558	Chrétien oint	jl 20		Kerecɛn mɔlenw													43726	
 1529599765559	Basé la discussion sur la Bible	jl 20		Ka baro basigi Bibulu ka fɔta kan													43726	
 1529599765560	Parole de Dieu	jl 20		Ala ka kuma													43726	
@@ -773,7 +769,6 @@
 1529599765570	Lieu de travail	jl 21		Baarakɛbonw													43726	
 1529599765571	Siège des Témoins de Jéhovah	jl 21		Jehovah Seerew ka sigiyɔrɔsoba													43726	
 1529599765572	Esprit de sacrifice	jl 21		Yɛrɛsaraka hakili													43726	
-1529599765573	Bureau	jl 21		Biro													43726	
 1529599765575	Salle à manger	jl 21		Dumunikɛ boon													43726	
 1529599765576	Assainir la maison	jl 21		Boon saniya													43726	
 1529599765577	Repasser	jl 21		Pase													43726	
@@ -821,7 +816,7 @@
 20017719262	Vin	bk		Duvɛn													43726	wt
 20017782740	Valider	bk		Sɛmɛtiya													43726	wt
 20017822377	Levure	bk		Funufen													43726	wt
-2217883563	Païen	bk		Kafiri													43726	wt
+2217883563	païen	bk		kafiri													43726	wt
 2477044405	Puissant	bk		Sebagaya													43726	wt
 25806141398	Encadré	bk		Koorilen													43726	wt
 27783419414	Fondé sur les Écritures			A basiginen be Bibulu kan													43726	wt
@@ -840,6 +835,7 @@
 27783419428	Il ne les lisait jamais			A tun m'u kalan ka ye													43726	wt
 27783419429	Veuillez l'utiliser largement			A' ye baara kɛ n'a ye caaman													43726	wt
 27783419430	Abonnement			Abɔneman													43726	wt
+27783419432	Ésclave fidèle et avisé	yq		Jɔncɛ kantigiman hakiliman	JL				jɔnkɛ dannamɔgɔ hakiliman	BM							43725	wt
 27783419434	Fidèle intendant de la faveur imméritée de Dieu			Ala ka nɛɛma nilifɛn marabaga dannamɔgɔw													43726	wt
 27783419435	Obéissance à Dieu			Ala kanminɛli													43726	wt
 27783419436	Impie			Ala lɔnbali													43726	wt
@@ -897,7 +893,6 @@
 27783419493	Renier			Dalacɛ													43726	wt
 27783419494	Reniement			Dalacɛli													43726	wt
 27783419496	Emblème			Dasiri													43726	wt
-27783419497	Coordinatuer du collège des anciens			Diinan mɔgɔkɔrɔw ɲɛbila													43726	wt
 27783419498	Abîme			Dingɛ dunba													43726	wt
 27783419499	Volonté / Plaisir			Diyanako													43726	wt
 27783419502	Recueil de cantiques			Donkili gafe													43726	wt
@@ -1048,7 +1043,7 @@
 27783419661	Exemple remarquable			Nyɛyirali cɛnyumanba													43726	wt
 27783419662	Fixer du regard			Ɲɛɛ jɔlen to													43726	wt
 27783419663	Progrès sensibles (notables)			Ɲɛtaga bɛrɛ kɛ													43726	wt
-27783419664	Progrès (faire)			Ɲɛtaga kɛ													43726	wt
+27783419664	Progresser			taga ɲa		<div><div>Ka taga ɲɛ Alako ta fan fɛ</div></div>	ɲɛtaga kɛ&nbsp;&nbsp;										43726	wt
 27783419665	Volonté			Ŋaniya													43726	wt
 27783419666	Murmurer			Ŋunuŋunu			Dajukɔrɔ kuma fɔ										43726	wt
 27783419667	Murmure			Ŋunuŋunukan													43726	wt
@@ -1062,7 +1057,7 @@
 27783419675	Principe élevé			Sariyakolo kɔrɔtalen													43726	wt
 27783419677	Saint / Sain / Pur	jl 4		Senuman			Senu										43726	wt
 27783419680	Vérification			Sɛgɛsɛgɛri													43726	wt
-27783419681	Réservation des sièges			Sigiyɔrɔ marali													43726	wt
+27783419681	réservation des sièges			Sigiyɔrɔ marali													43726	wt
 27783419682	Sur les trottoirs			Siradaw la													43726	wt
 27783419683	Maintenant que tu as grandi			Sisan, komi i kɔrɔbayara													43726	wt
 27783419684	Accepter revue			Sɔn zurunali la			fɛn la										43726	wt
@@ -1092,7 +1087,7 @@
 27783419711	Statue en bois			Yirimɔgɔnin													43726	wt
 27783419712	Accroissement			Yiriwali													43726	wt
 27783419713	District du Jourdain			Zurudɛn mara													43726	wt
-27783419714	Journal intéressant			Zurunali, a kalan ka di													43726	wt
+27783419714	revu intéressant			Zurunali, a kalan ka di													43726	wt
 3218598874	Créer	bk		Dan													43726	wt
 3221065537	Souveraineté de dieu	bk		Ala ka masabaya													43726	wt
 3653464641	Boîte à offrande	jl 25		Nili buwati													43726	wt
@@ -1103,13 +1098,14 @@
 40322554868	Leçon	mwb		Kalensen													43726	
 403520813	Introduction	bk		Dadon kumaw													43726	wt
 43139702982	Tout puissant	wt		Sebagayabɛɛtigi													43726	wt
-443aabc6-83da-4c95-b9fd-5641951f3fbf	SYNCDATE						sheets	20191227154714	anki	20200131103101								
+443aabc6-83da-4c95-b9fd-5641951f3fbf	SYNCDATE						sheets	20191227154714	anki	20200201141822								
 4894740815	Messie	bk		Masiya													43726	wt
 4894757744	Royaume	bk		Masaya													43726	wt
 4896872164	Interlocuteur	bk		Lamɛnbaga			Lamɛnnikɛla										43726	wt
 64850686024	Ministres a plein temps	rc		Kudayi cidenya baarakɛlaw													43726	wt
+70892740875	mobiles	wt	(n.)	ŋainyaw														wt
 78758660775	Écrivain	wt		Sɛbɛbaga														
 79720169070	Défi / Assignation			Kunkanbaaraba		Kunkanbaaraba dɔ tun kalifara ma Nuhun ma.												
-79721166956	Culte familiale			Gwa kɔnɔ batoli														
+79721166956	Culte familiale			gwa kɔnɔ batoli	JL				Denbaya ka kalan	BM								
 79862924702	Échangeurs de l'argent			Warijula														
 79863124455	Parfois			Wagati dɔ la			Tuma dɔ la											

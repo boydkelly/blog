@@ -171,7 +171,7 @@
 -48185883125	effort	bk		jijali	(n.)												43725	
 -48185883126	fatiguer	bk	(v.)	sɛgɛ													43725	v vi
 -48185883127	encourager		(v.)	jija													43725	marked v
--48185883128	prix	yq	(n.)	sɔngɔ	diff?	Bara ka den sara ka caya		sara 			Sɔngɔn						43725	essentiel marked
+-48185883128	prix	yq	(n.)	sɔngɔ	diff?	Bara ka den sara ka caya		sara			Sɔngɔn						43725	essentiel marked
 -48185883129	amitié	bk		teriya													43725	
 -48185883132	afin que / pour que	yq		walasa				janko			Walisa ka…						43725	marked
 -48185883133	accepter	yq		son													43725	vt
@@ -391,7 +391,7 @@
 -55856535184	à jamais / à toujours	yq		abada													43725	essentiel
 -5587347447	c'est comme ça	bk		a be ten													43725	essentiel phrase
 -5642987963	bonté	yq		ɲumanya				ɲumaya									43725	
--5643947273	exemple	wt		ɲɛyirali				misali	ma								43725	
+-5643947273	exemple	wt		ɲɛyirali		différence?		misali	ma								43725	marked
 -5644181930	courage	rc		jagwɛlɛya	"<img src=""_CIV.png"">"			jagɛlɛya	"<img src=""_MLI.png"">"								43725	MLI
 -5810084146	c'est moi	bk		ne lo													43725	phrase
 -5841878338	un long chemin	bk		sira ka jan													43725	phrase
@@ -507,7 +507,7 @@
 1529143433506	hebdomadaire	yq		logokun o logokun													43725	calendrier
 15291434335074	le week-end	yq		lɔgɔkun laban na													43725	
 1529143433508	quelqu'un de compatissant	yq		makaritigi													43725	marked
-1529143433509	besoin 	yq	(n)	makoya													43725	
+1529143433509	besoin	yq	(n)	makoya													43725	
 1529143433511	respirer / respiration / respiratoire	yq		nɛnɛkiri				nɛnɛkili									43725	marked santé
 1529143433512	trouble respiratoire	yq		nɛnɛkiri bana													43725	santé
 1529143433513	faux / mensonge / calomnie	yq		faniɲan	"<img src=""_CIV.png"">"			ngalon	"<img src=""_BFA.png"">"		Wuya	"Bouaké&nbsp;<img src=""_CIV.png"">&nbsp;"					43725	marked
@@ -560,11 +560,11 @@
 1529657783616	joue					What is Ivory Coast word?					kènken / dafuruku	"<img src=""_MLI.png"">"					43725	MLI corp
 1529657783620	menton			bonbon kun							Bonbon	"<img src=""_MLI.png"">"					43725	MLI corp
 1529657783621	muscle			fasa													43725	corp
-1529657783622	narine			nuwo				nudinga			Nuwo / Nufile	"<img src=""_MLI.png"">"					43725	MLI corp
+1529657783622	narine			nuwo				nudinga			nuwo / nufile	"<img src=""_MLI.png"">"					43725	corp MLI
 1529657783623	nerf			fasa juru							fàsàjuru,fàsàsira,sɔmìnan	"<img src=""_MLI.png"">"					43725	MLI corp
 1529657783624	orteil			sen kumande							Sɛnkɔni	"<img src=""_MLI.png"">"					43725	MLI corp
 1529657783625	os		(n.)	kolo													43725	MLI corp
-1529657783627	poignet			bolokan							Bolonɛgɛladonyɔrɔ	"<img src=""NKo_Ny.svg"">"					43725	corp
+1529657783627	poignet			bolokan							bolonɛgɛladonyɔrɔ	"<img src=""NKo_Ny.svg"">"					43725	corp
 1529657783628	poux										pu	"<img src=""_MLI.png"">"					43725	MLI corp
 1529657783630	rein										Kɔmɔkìli	"<img src=""_MLI.png"">"					43725	MLI corp
 1529657783631	ride			ɲugu / ɲuguɲugu	"<img src=""_MLI.png"">"												43725	MLI corp
@@ -675,6 +675,7 @@
 27768736676	singe	yq		sula													43725	animal
 27768736677	grenouille	yq		tɔri sen jan	"<img src=""_CIV.png"">"			tɔri	"<img src=""_BFA.png"">"		Ntɔri	"<img src=""_MLI.png"">"					43725	MLI animal
 27783419424	il nous a oublié			a ɲinɛna an kɔ													43726	wt
+27783419497	respecter / suivre		(v.)	labato		i ka desiziɔn labato											43726	add wt
 27783419593	discours / enseignement	jl 3	(n.)	kalan													43726	wt
 27783419693	a leur insu			u ɲina ma													43725	
 27809169043	humilité / modestie	yq		majigilenya													43725	
@@ -760,7 +761,7 @@
 27946171994	athlète / sportif	yq		farijola				farikoloɲanagɛla			Farikoloɲanagwɛla						43725	gens marked
 27946171995	perfusion	yq		farilajidon													43725	santé
 27946171996	citoyen	yq		fasoden													43725	gens
-27946171997	fou	yq		fatɔ													43725	gens
+27946171997	fou	yq	(n.)	fatɔ													43725	gens
 27946171999	trébucher	yq		fili													43725	v
 279461720004	peste	yq		finyɛbana				bana yɛlɛmata									43725	marked santé
 27946172002	aveugle	yq		fiyɛntɔ													43725	gens santé wt
@@ -779,7 +780,7 @@
 27946172017	tiens !	yq		hɔn!													43725	essentiel
 27946172018	honnêteté	yq		hɔɔronya													43725	
 27946172019	déshabiller (se)	yq		faniw bɔ													43725	v
-27946172020	besoin 		(v)	mako		N Mako b'i la											43725	v
+27946172020	besoin		(v)	mako		N Mako b'i la											43725	v
 27946172021	s'assécher / sécher	yq	(v.)	ja		ka kaba ja											43725	v
 27946172022	commerce	yq		jago				jagokɛyɔrɔ									43725	
 27946172023	affaire commerciale	yq		jagoko													43725	
@@ -971,7 +972,7 @@
 3671015070	caffard	bk		ɲɛmbɛrɛ													43725	animal bouake
 3747847407	avoir peur	yq		siran							Jatigɛ	startled					43725	v
 3748239431	il est dit que...	bk		a fɔra ko...													43725	phrase
-3755525512	vers		 (p)	fan fɛ													43725	essentiel
+3755525512	vers		(p)	fan fɛ													43725	essentiel
 375552551234	imiter / refléter	jl 17		ladegi				ladege									43725	marked v wt
 3755562597	chameau	yq		ɲɔgɔmɛ													43725	animal
 3755666635	papillon	bk		firinfirin													43725	animal marked
@@ -1122,7 +1123,7 @@
 7214395493	compatir			makari													43725	marked wt
 72249484838	comme / par exemple			i n'a fɔ		A b'i n'a fɔ												
 72249986352	c'est comme... / il semble que...			a b'i n'a fɔ...														
-72250025464	he is hard headed as a donkey			a kunkolo ka gwɛlɛ i n'a fɔ fali ta														
+72250025464	He is hard headed as a donkey			A kunkolo ka gwɛlɛ i n'a fɔ fali ta														
 72250099349	comme dans la mosqué...			i n'a fɔ misali la														phrase
 72342517159	écouter			mɛnni kɛ		Mɛnni kɛ i facɛ fɛ												
 72353186940	apprendre			kalan		I be julakan kalan wa?&nbsp; /&nbsp; &nbsp;N tun ka kalan kɛ.												v vi vt
@@ -1158,7 +1159,7 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	complètement			pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	pensée / méditation	yq		miirili				miiriya										
 e506434d-e343-411c-875f-8374151055eb	il y a quelques années	yq		a saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	finir / décéder	yq	(v.)	ban													43725	v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE						sheets	20200202144157	anki	20200201160538	anki	20191206163149						
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE							sheets	anki	20200203231109	anki	20191206163149						
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	fleuve	yq		ba		Baji		baji									43725	
 ec608b75-8247-4755-b50a-8f28d8b8f071	envie	yq	(n.)	ko		a ko be na		nege									43725	
 eca7089e-dc16-4d3e-bdf1-5523895a1622	fâcher / agacer / énerver / irriter	yq		dimi				dusubɔ	is this a verb?								43725	marked

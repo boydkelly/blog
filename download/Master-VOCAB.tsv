@@ -149,8 +149,8 @@
 -4123020142	punir			ɲangi	"<img src=""_BFA.png"">"								43726					unbouake v wt
 -4123054025	humble	yq		majiginin				majigilen					43725					marked
 -43834129304	à cause de  / en raison de / gâce à	bk		kosɔn		Amidu cogo ma ɲi, o kosɔn teri tɛ a fɛ.		sababu fɛ					43725					marked
--44178557456	passer / dépasser	bk		tɛmɛ									43725					v
--4431224777	même	kodi		yɛrɛ									43725					essentiel
+-44178557456	passer / dépasser	bk		tɛmɛ			Kana tɛmɛ miniti 3 kan						43725					v
+-4431224777	même	kodi		yɛrɛ			I yɛrɛ ɲininga ko						43725					essentiel
 -44437459979	s'assoir	bk		sigi									43725					v
 -44437573903	étranger	bk		lonacɛ				lonan	"<img src=""_CIV.png"">&nbsp;&nbsp;<br>"				43725	dunan	"<img src=""_MLI.png""><br>"			MLI gens
 -44437908548	sortir	bk		bɔ									43725					v
@@ -253,7 +253,7 @@
 -53806211031	élève	yq		lakɔliden									43725					gens
 -53806530587	tante	yq		tenɛmuso									43725					gens
 -53806567719	chauffeur	bk		sofɛricɛ									43725					gens
--53807248070	pays	yq		jamana									43725					
+-53807248070	pays	yq		jamana			faransi jamana			jamana kuntigi								
 -53807309109	soir	yq		wula									43725					calendrier essentiel
 -53807343565	matin	bk		sɔgɔma									43725					calendrier essentiel
 -53807402499	autre			wɛrɛ		Saan wɛrɛ							43725					essentiel
@@ -486,7 +486,7 @@
 1529143433482	diphtérie	yq		falakabana									43725					santé
 1529143433484	fort, puissant	yq	(adj.)??	fangaman		exemple							43725					marked
 1529143433485	peau	yq		fara				farikolo					43725	wolo	"<img src=""_MLI.png"">"			MLI corp
-1529143433486	france	yq		faransi jamana									43725					geo
+1529143433486	france	yq		faransi jamana									43725					delete geo
 1529143433487	athlétisme	yq		farijo									43725					
 1529143433488	nu	kamagate		farilakolon	<img src='_CIV.png'/>			fanita kan					43725					corp
 1529143433489	folie	yq		fatɔya				hakilitanya					43725					
@@ -555,7 +555,7 @@
 1529657783609	côte			galaga									43725	galaka / sabakolo	"<img src=""_MLI.png"">"			MLI corp
 1529657783611	bon sens			hakili ɲuman									43725					
 1529657783612	front												43725	ten / fɔn	"<img src=""_MLI.png"">"			MLI corp
-1529657783613	hanche			tɔgɔ	"<img src=""_MLI.png"">"			gerɛn					43725					corp marked MLI
+1529657783613	hanche			tɔgɔ	"<img src=""_MLI.png"">"			gerɛn					43725					MLI corp marked
 1529657783615	jambe / pied			sen / seen									43725					MLI corp
 1529657783616	joue					What is Ivory Coast word?							43725	kènken / dafuruku	"<img src=""_MLI.png"">"			MLI corp
 1529657783620	menton			bonbon kun									43725	bonbon	"<img src=""_MLI.png"">"			MLI corp
@@ -706,7 +706,7 @@
 27946171930	adulte	yq		baliku									43725					gens
 27946171933	microbe	yq		banakisɛ									43725					santé
 27946171934	maladie contagieuse	yq		banayɛlɛmata									43725					santé
-27946171935	naître / reproduire (enfants)	yq		bange		I wolola min?		wolo					43725					santé
+27946171935	naître / enfanter			bange		I wolola min?		wolo					43725					santé
 27946171936	parent	yq		bangebaga									43725					gens
 27946171937	stérilité	yq		bangekɛbaliya									43725					santé
 27946171938	fécondité	yq		bangeli									43725					santé
@@ -722,7 +722,7 @@
 27946171950	plaie	yq		bonɛ									43725					santé
 27946171951	élargir / grandir vénérer / respecter		(v.)	bonya		Mɔgɔ ka kan ka a bangebagaw bonya							43725					v
 27946171952	honneur / respect	yq	(n.)	bonya									43725					
-27946171953	peuple / descendance	yq		bɔnsɔn				jama					43725					gens
+27946171953	peuple / descendance	yq		bɔnsɔn				kɔmɔgɔw										gens
 27946171954	centre / milieu	yq		camancɛ	"<img src=""_CIV.png""><br>"	A bla a camancɛ la							43725					essentiel
 27946171955	ramasser / rassembler	yq	(v.)	cɛ				lajɛn					43725					marked v
 27946171956	célibataire (homme)	yq		cɛ gwanna									43725					gens
@@ -1136,6 +1136,7 @@
 79424339786	comment dire banane en jula?			"""banane"" be fɔ cogo di julakan na ?"														
 80302089081	crab			gangan														
 80302779672	il est avare			a tɛgɛ ka gwɛlɛ														
+80846004280	lorsque  / quand / au moment			tuma min na														
 848a5746-4503-435d-8a05-514144b3b49c	éternelle			banbali														
 899da4f4-e157-4031-8e4b-cf59702a1303	c'est dangereux	yq		farati  b'a la									43725					
 8f72e15d-72e6-47bf-b99d-164b41eabc8c	danger			farati		Farati b'a la							43725					
@@ -1159,7 +1160,7 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	complètement			pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	pensée / méditation	yq		miirili				miiriya										
 e506434d-e343-411c-875f-8374151055eb	il y a quelques années	yq		a saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	finir / décéder	yq	(v.)	ban									43725					v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE			anki	20200204135257			sheets	20200204125324									
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE			anki	20200204221819			sheets	20200204125324									
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	fleuve	yq		ba		Baji		baji					43725					
 ec608b75-8247-4755-b50a-8f28d8b8f071	envie	yq	(n.)	ko		a ko be na		nege					43725					
 eca7089e-dc16-4d3e-bdf1-5523895a1622	fâcher / agacer / énerver / irriter	yq		dimi				dusubɔ	is this a verb?				43725					marked

@@ -277,7 +277,7 @@
 1527665647800	temple	yq		batosoba									43726					wt
 1527665647801	bonne nouvelle	jl 12		kibaro diiman									43726	Kibaro duman	BM			wt
 1527665647802	bonne nouvelle éternelle	yq		kibaru duman banbali									43726					wt
-1527665647804	territoire / quartier	yq		kiin				jamana					43726					alasane wt
+1527665647804	territoire / quartier	yq		kiin									43726					alasane wt
 1527665647805	territoire souvent parcouru	yq		kiin boli-boli siɲɛ caaman									43726					wt
 1527665647807	christ	yq		kirista									43726					wt
 1527665647810	séparer de babylone la grande	yq		ko an faranna ka bo babilonɛba la									43726					wt
@@ -914,7 +914,7 @@
 27783419524	écritures hébraïques			heburukan sɛbɛninw									43726					wt
 27783419526	fixe toi un objectif personnel			i k'i togola lanyinita latigɛ									43726					wt
 27783419527	restons proches de l'organisation de jéhovah			i ka to jehova ka jɛnkulu kɔrɔ									43726					wt
-27783419528	assistance / foule	jl 19		jama									43726					wt
+27783419528	assistance / foule	jl 19		jama			Fariziɲɛ minw be jama cɛma, o kumaw y’u dimi. 						43726					wt
 27783419529	situation des comptes			jateminɛw dantigɛli									43726					wt
 27783419530	créations de jéhovah			jehova ka fɛɛn danenw									43726					wt
 27783419531	brûler / consumer	yq		jeni				Jɛni					43726					wt
@@ -1095,7 +1095,7 @@
 40322554868	leçon	mwb		kalensen									43726					
 403520813	introduction	bk		dadon kumaw									43726					wt
 43139702982	tout puissant	wt		sebagayabɛɛtigi									43726					wt
-443aabc6-83da-4c95-b9fd-5641951f3fbf	SYNCDATE			anki	20200204135318			sheets	20200204125347									
+443aabc6-83da-4c95-b9fd-5641951f3fbf	SYNCDATE			anki	20200204221847			sheets	20200204125347									
 4894740815	messie	bk		masiya									43726					wt
 4894757744	royaume	bk		masaya									43726					wt
 4896872164	interlocuteur	bk		lamɛnbaga				Lamɛnnikɛla					43726					wt
@@ -1109,4 +1109,7 @@
 80240982563	vivant		adj	ɲana														
 80241163751	vie			ɲanamanya				ɲɛnamaya										
 80242017725	groupe / montagne		(n.)	kulu														
-80242334155	paroles de conclusion			kuncɛli kumaw														
+80242334155	conclusion			kuncɛli			kuncɛli kumaw			kuncɛli delili								
+80842098784	héritage	mbw		cɛɛn			Ibrayima kɔmɔgɔw tun bena jamana min sɔrɔ cɛɛn ye, Jehova y’o yira a la											
+80843541937	objective	mwb		laɲinita			Kɛ ni laɲinita ye											
+80843834651	renforcer / appuyer			sinsin			Sinsin i ka kalan barokun kan											

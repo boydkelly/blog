@@ -157,7 +157,7 @@
 -44439246043	gater	bk		can									43725					marked v vt
 -44639764826	conscience	bk		dusukun									43725					
 -44647220195	réponse	bk		jabili									43725					essentiel question
--44647367870	questionner	yq		ɲiniga	CDI	Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ		ɲiningan					43725					v
+-44647367870	questionner	yq		ɲiniga	"<img src=""_CIV.png""><br>"	Mɔgɔ ɲinigan fɛn na / Fɛn ɲini mɔgɔ fɛ		ɲiningan					43725					v
 -45246239492	montrer	yq		yira		Yira mɔgɔ la							43725					v
 -4633547634	oncle			bɛmacɛ									43725					marked v
 -4633571900	peut-être	yq		n'a sɔrɔ									43725					essentiel marked
@@ -226,7 +226,7 @@
 -53015967622	combien coute  cet avocat?	bk		avocati nin ye joli joli?									43725					phrase question
 -53016087839	faut  diminuer (enlever)	bk		dɔ bɔ a la									43725					phrase
 -53016196473	c'est trop  cher	bk		a sɔngɔ ka gwɛlɛ				a sɔngɔ ka ca					43725					phrase
--53182470323	pardon	yq		sabari				hake to					43725					essentiel
+-53182470323	pardon	yq		sabari				hake to										essentiel
 -53241136646	chanson	bk		dɔnkili									43725					
 -53241176888	semer	bk		sɛnɛ									43725					v
 -53241205095	cuisine			gwa				gwabugu			tobili		43725					essentiel
@@ -368,7 +368,7 @@
 -55856535152	aussi			fana									43725					essentiel
 -55856535153	oeuf	yq		fan									43725					essentiel
 -55856535154	âne	yq		fali	"<img src=""_BFA.png"">"			sofali					43725					animal marked
--55856535155	tuer, abattre, éteindre	bk		faga		N ya wulu ka sise faga							43725					v vt
+-55856535155	tuer / abattre / éteindre	bk		faga		N ya wulu ka sise faga							43725					v vt
 -55856535156	terre	yq		dugukolo				bɔgɔ					43725					essentiel
 -55856535158	grand / hauteur	bk		janya									43725					
 -55856535161	enfants	bk		denw				deenw					43725					essentiel
@@ -494,7 +494,7 @@
 1529143433492	condamnation	yq		jalakili									43725					
 1529143433493	trahir	yq		janfa				jigitigɛ	"<img src=""_CIV.png"">Bouake<br>"				43725					delete marked v
 1529143433494	traitre	yq		janfancɛ				janfaci					43725					
-1529143433495	découvrir	yq		ka lon									43725					marked
+1529143433495	découvrir			kɔrɔlɔn				bɔ fɛnkura kan					43725					marked
 1529143433496	il a demandé à boire			a ka minji deli									43725					
 1529143433497	langue (parlée) / voix	yq		kaan		need example							43725					
 1529143433498	short	yq	(n.)	kilɔti									43725					
@@ -987,7 +987,7 @@
 3b9a3b6d-10bd-43e1-9e8f-01cbca0eb834	à l'envers	yq		a ɲɛɛ jugu kan														
 3f4ab054-450d-44d6-872b-b30c6f08f9b8	couvercle	yq		datugunan														
 40026202749	voleur			sɔn				soncɛ			sonyalikɛla		43725					n
-40284254243	grand / gros			bon	(adj.)	Ala ka bon / Musa dɔgɔcɛ ka bon ni n ye							43725					
+40284254243	grand / gros		(adj.)	bon		Ala ka bon / Musa dɔgɔcɛ ka bon ni n ye							43725					
 40321636200	unité	mwb		kelenya									43725					
 40322027585	demande-toi	mwb		i yɛrɛ ɲininga ko									43725					phrase
 403627311	commencer	yq	(v.)	dabɔ				daminɛ			damina		43725					leech v vi
@@ -1056,7 +1056,6 @@
 67259722212	idole / fétiche			boli		Boli sɔn							43725					
 67339326626	ainsi / comme ça			ten		I kana kuma ten !							43725					essentiel
 67340019297	exactement			cɔ				jati					43725					essentiel
-68014560850	ne pas manquer	wt		kana {{c1::fɔn}} o la		change note type							43725					
 68319737253	revenir			segi		A segira / Ala y'a ɲuma segi		kɔsegi			sekɔ		43725					vi
 68382609274	ali ka jan	cours		ali est grand									43725					phrase
 68382680537	le frère de moussa est plus gros que moi			musa dɔgɔcɛ ka bon ni n ye									43725					phrase
@@ -1137,6 +1136,8 @@
 80302089081	crab			gangan														
 80302779672	il est avare			a tɛgɛ ka gwɛlɛ														
 80846004280	lorsque  / quand / au moment			tuma min na														
+81066709840	car / en effet / ainsi		(conj.)	bari														
+81242668921	compter / valider			jati			i be barra jati cogo di 											
 848a5746-4503-435d-8a05-514144b3b49c	éternelle			banbali														
 899da4f4-e157-4031-8e4b-cf59702a1303	c'est dangereux	yq		farati  b'a la									43725					
 8f72e15d-72e6-47bf-b99d-164b41eabc8c	danger			farati		Farati b'a la							43725					
@@ -1160,7 +1161,7 @@ daabad35-c62c-4fd9-a2c8-8103b16d21fd	complètement			pewu		Domuni bana pewu
 df14ff8f-2732-4af9-a3e7-c7102d40615f	pensée / méditation	yq		miirili				miiriya										
 e506434d-e343-411c-875f-8374151055eb	il y a quelques années	yq		a saan damanin ye nin ye														
 e91ab08f-b61d-4065-9a91-bedbee7e8ffe	finir / décéder	yq	(v.)	ban									43725					v vt
-e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE			anki	20200204221819			sheets	20200204125324									
+e9353203-9240-4112-b1a9-a6d502980c0d	SYNCDATE			anki	20200211002406			sheets	20200204125324									
 eace7b14-a8a0-4389-9f9d-d38750ebab6a	fleuve	yq		ba		Baji		baji					43725					
 ec608b75-8247-4755-b50a-8f28d8b8f071	envie	yq	(n.)	ko		a ko be na		nege					43725					
 eca7089e-dc16-4d3e-bdf1-5523895a1622	fâcher / agacer / énerver / irriter	yq		dimi				dusubɔ	is this a verb?				43725					marked

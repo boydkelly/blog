@@ -8,7 +8,7 @@
   </div>
   </header>
   <ul class="container content">
-    {{ range $index, .Paginator.Pages }}
+	  {{ range $index, $foo := .Paginator.Pages }}
       {{ .Render "list.li" }}
     {{ end }}
   </ul>

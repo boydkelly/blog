@@ -6,7 +6,7 @@
 
 
   <div class="card-body">
-  {{ range $index, .Paginator.Pages }}
+  {{ range $index, $foo := .Paginator.Pages }}
     {{ .Render "section.li" }}
   {{ end }}
   {{ partial "content/pagination.html" . }}

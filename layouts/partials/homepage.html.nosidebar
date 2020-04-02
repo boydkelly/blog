@@ -1,0 +1,16 @@
+  <div class="container">
+    {{ if .Site.Params.showBlogHeader }}
+      <div class="row">
+        <header>
+          {{ partial "bloc/content/h1-title.html" . }}
+          {{ partial "bloc/content/lastupdate.html" . }}
+        </header>
+      </div>
+    {{ end }}
+    <div class="row">
+      
+	    {{.Content}}
+
+    </div>
+
+  </div>

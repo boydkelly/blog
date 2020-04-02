@@ -1,0 +1,16 @@
+<div class="metas">
+{{ partial "snippits/date.html" . }}
+{{ if .IsPage }}
+  <small>{{ with .Params.author }}
+    &middot; {{ i18n "byauthor" }} {{ . }}
+  {{ end }}
+  &middot; {{ i18n "readinabout" . }}
+  &middot; ({{ i18n "words" . }})
+  &middot; {{ partial "content/sharing.html" . }}
+  </small>
+{{ end }}
+<div class="margin-10">{{ partial "snippits/tags.html" . }}
+</div>
+
+<br>
+</div>

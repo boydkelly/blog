@@ -1,0 +1,54 @@
+<header id="main-header">
+  <div class="navbar navbar-default fixed-top bg-primary">
+    <div class="container">
+      <div class="navbar-header">
+        {{ if and ( ne .Site.Title "" ) ( eq .Site.Params.BrandImage "" )}}
+        <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL}}">
+          {{ .Site.Title }}
+          {{ end }}
+          {{ if ( ne .Site.Params.BrandImage "" ) }}
+          <a class="navbar-brand-img" href="{{ .Site.BaseURL | relLangURL}}">
+            <img alt="{{ .Site.Params.brand }}" src="{{ .Site.Params.BrandImage }}">
+            {{ end }}
+          </a>
+        </div>
+
+        <div id="navbarResponsive" class="collapse navbar-collapse">
+          <ul class="navbar nav">
+            {{ $currentNode := . }}
+            {{ range .Site.Menus.main }}
+            <li class="{{if $currentNode.IsMenuCurrent "main" . }}active{{end}}">
+              {{  if .HasChildren  }}
+		<div nav-item dropdown>
+			<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ .Pre }}} {{ .Name }}/a>
+		</div>
+
+	        <ul class="nav nav-tabs">
+                    {{ range .Children }}
+                      <li class="nav-item">
+                        <a class="nav-link href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a>
+                      </li>
+                    {{ end }}
+        	</ul>
+              {{ else }}
+                <a href="{{ .URL | absLangURL }}" {{ if and ( isset . "Name" ) ( ne .Name "" ) }} title="{{ .Name }}"{{ end }}>
+                  {{ .Pre }}
+                  {{ .Name }}
+                </a>
+              {{end}}
+            </li>
+            {{ end }}
+            <!-- switch language -->
+            {{ if eq .Site.Params.switchlang true }}
+	    {{ $currentNode := . }}
+	    {{ partial "toggle-lang" . }}
+
+            {{ end }}
+
+          </ul>
+        </div>
+        <!--/.nav-collapse -->
+      </div>
+    </nav>
+  </header>
+

@@ -1,0 +1,28 @@
+<div>&nbsp<br></div>
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-body">
+  {{ if and .IsPage (eq .Params.toc true) }}
+  <h4 class="card-title">TableOfContents></h4>
+   <p class="card-text">{{ .TableOfContents }}</p>
+    {{ end }}
+
+   <h3 class="card-title">{{ i18n "latestposts" }}</h3>
+   {{ range first 5 (where (where .Site.Pages "Type" "post") "IsPage" true) }}
+    <p class="card-text"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    {{ end }}
+
+    {{ range $key, $value := .Site.Taxonomies }}
+    {{ $len := len $value }}
+    {{ if (not ( eq $len 0 ) ) }}
+
+    <h3 class="card-title"><b>{{ $key | singularize }}</b></h3>
+    {{ range first 5 $value.ByCount }}
+    <p class="card-text"><a href="{{$.LanguagePrefix }}/{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></p>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+
+
+   </div>
+</div>

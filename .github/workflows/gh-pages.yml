@@ -24,7 +24,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.a649ee22e031778fd0603f2f1ede0fb135697be4 }}
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
           pubish_branch: gh-pages
           publish_dir: ./
           cname: www.coastsystems.net

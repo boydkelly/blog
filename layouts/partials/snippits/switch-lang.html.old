@@ -1,9 +1,0 @@
-
-<li class="nav-item dropdown">
-	<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ .Language.LanguageName }}</a>
-    <div class="dropdown-menu" x-placement="bottom-start" style="position: absolute; transform: translate3d(0px, 60px, 0px); top: 0px; left: 0px; will-change: transform;">
- {{ range .Translations }}
- <a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-{{ end }}
-    </div>
-</li>

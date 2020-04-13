@@ -1,11 +1,140 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Coast Business Technologies</title><link>http://www.coastsystems.net/fr/post/</link><description>Recent content in Posts on Coast Business Technologies</description><generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor><webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster><copyright>(c) 2018 Boyd Kelly</copyright><lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.coastsystems.net/fr/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Poncutation française avec VIM</title><link>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</link><pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</guid><description>Si vous avez l&amp;rsquo;habitude de tapper en anglais et en français, comme moi, comment gérez-vous les espaces qui précedent les points d&amp;rsquo;interrogation et d&amp;rsquo;exclamation ? En français, selon les normes (?? en tout cas), il faut avoir des espaces, mais les anglais sont horrifiés de voir cela.
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Coast Business Technologies</title>
+    <link>http://www.coastsystems.net/fr/post/</link>
+    <description>Recent content in Posts on Coast Business Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
+    <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
+    <copyright>(c) 2018 Boyd Kelly</copyright>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.coastsystems.net/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poncutation française avec VIM</title>
+      <link>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</guid>
+      <description>Si vous avez l&amp;rsquo;habitude de tapper en anglais et en français, comme moi, comment gérez-vous les espaces qui précedent les points d&amp;rsquo;interrogation et d&amp;rsquo;exclamation ? En français, selon les normes (?? en tout cas), il faut avoir des espaces, mais les anglais sont horrifiés de voir cela.
 Avec mon éditeur préféré NVIM sous linux c&amp;rsquo;est chose façile:
 Creer un ficher à l&amp;rsquo;endroit suivant pour soit vim/gvim ou bien nvim
-(vim/gvim): .</description></item><item><title>A sen b'a la</title><link>http://www.coastsystems.net/fr/2018/08/07/a-sen-b-a-la/</link><pubDate>Tue, 07 Aug 2018 07:05:01 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/08/07/a-sen-b-a-la/</guid><description/></item><item><title>Alphabet Jula</title><link>http://www.coastsystems.net/fr/2018/07/30/alpha-jula/</link><pubDate>Mon, 30 Jul 2018 22:14:31 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/07/30/alpha-jula/</guid><description> Comme en français Exemple Jula Sens français a papa saga mouton aa pâte baara travail an blanc sanji pluie b bol baga bouillie c match cɛ homme d dos disi poitrine e école bese machète ee féerie feere vendre en sen pied ɛ mère sɛnɛ agriculture ɛɛ mɛɛn durer ɛn bɛn entente f fer foro champ g gant mɔgɔ personne gw gwa foyer h hello (anglais) hakili intelligence i Iit misi boeuf ii miiri pensée in I Min boire j Abidjan ji eau k kaolin kitabu livre l lame lolo étoile m main maro riz n nuage nɔnɔ lait ɲ oignon ɲɔ mil ŋ parking ŋɔni épine o mot bolo bras oo looru cinq on don bon maison ɔ sort sɔrɔ trouver ɔɔ fɔɔnɔ vomir ɔn dɔn danser p pont pan sauter r bɔrɔ sac s sauce sara payer t tête toto rat u loup kura nouveau uu football suuri baisser un kunkolo tête v vol Vamara nom masculin w doigt wari argent y papaye yaala se promener z gaz zɔnzɔn crevette</description></item><item><title>Clavier Ivoirien</title><link>http://www.coastsystems.net/fr/2018/07/01/clavier-ivoirien/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/07/01/clavier-ivoirien/</guid><description>Je suis très heureux de publier le &amp;lsquo;Clavier Ivoirien&amp;rsquo; sur un repo publique pour distros à base rpm. Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes. Il y inclut aussi un clavier standard &amp;ldquo;Français (Côte d,Ivoire). On peut l&amp;rsquo;installer sur les systems &amp;lsquo;rpm&amp;rsquo;: Fedora, Suse, Mageia etc. Simplement ajouter le repo approprié disponible ici:
+(vim/gvim): .</description>
+    </item>
+    
+    <item>
+      <title>A sen b&#39;a la</title>
+      <link>http://www.coastsystems.net/fr/2018/08/07/a-sen-b-a-la/</link>
+      <pubDate>Tue, 07 Aug 2018 07:05:01 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/08/07/a-sen-b-a-la/</guid>
+      <description>   a sen b&amp;rsquo;a la      Il est impliqué. (Il a son pied dedans.)    </description>
+    </item>
+    
+    <item>
+      <title>Alphabet Jula</title>
+      <link>http://www.coastsystems.net/fr/2018/07/30/alpha-jula/</link>
+      <pubDate>Mon, 30 Jul 2018 22:14:31 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/07/30/alpha-jula/</guid>
+      <description>    Comme en français Exemple Jula Sens français     a papa saga mouton   aa pâte baara travail   an blanc sanji pluie   b bol baga bouillie   c match cɛ homme   d dos disi poitrine   e école bese machète   ee féerie feere vendre   en  sen pied   ɛ mère sɛnɛ agriculture   ɛɛ  mɛɛn durer   ɛn  bɛn entente   f fer foro champ   g gant mɔgɔ personne   gw  gwa foyer   h hello (anglais) hakili intelligence   i Iit misi boeuf   ii  miiri pensée   in I Min boire   j Abidjan ji eau   k kaolin kitabu livre   l lame lolo étoile   m main maro riz   n nuage nɔnɔ lait   ɲ oignon ɲɔ mil   ŋ parking ŋɔni épine   o mot bolo bras   oo  looru cinq   on don bon maison   ɔ sort sɔrɔ trouver   ɔɔ  fɔɔnɔ vomir   ɔn  dɔn danser   p pont pan sauter   r  bɔrɔ sac   s sauce sara payer   t tête toto rat   u loup kura nouveau   uu football suuri baisser   un  kunkolo tête   v vol Vamara nom masculin   w doigt wari argent   y papaye yaala se promener   z gaz zɔnzɔn crevette    </description>
+    </item>
+    
+    <item>
+      <title>Clavier Ivoirien</title>
+      <link>http://www.coastsystems.net/fr/2018/07/01/clavier-ivoirien/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/07/01/clavier-ivoirien/</guid>
+      <description>Je suis très heureux de publier le &amp;lsquo;Clavier Ivoirien&amp;rsquo; sur un repo publique pour distros à base rpm. Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes. Il y inclut aussi un clavier standard &amp;laquo;Français (Côte d,Ivoire). On peut l&amp;rsquo;installer sur les systems &amp;lsquo;rpm&amp;rsquo;: Fedora, Suse, Mageia etc. Simplement ajouter le repo approprié disponible ici:
 https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/
 ** Installation
 *** Fedora:
-sudo dnf copr enable boydkelly/xkeyboard-config-ci</description></item><item><title>Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye</title><link>http://www.coastsystems.net/fr/2018/05/26/mogo/</link><pubDate>Sat, 26 May 2018 20:32:08 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/05/26/mogo/</guid><description> Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye. C&amp;rsquo;est l&amp;rsquo;homme qui fait l&amp;rsquo;homme. Comme le fer aiguise le fer, ainsi un homme aide son ami à progresser -Prov 27:17 TMN As iron Sharpens iron, So one man sharpens his friend. -Prov 27:17 NWT</description></item><item><title>Rapport sur Anki</title><link>http://www.coastsystems.net/fr/2018/05/25/anki/</link><pubDate>Fri, 25 May 2018 13:07:27 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/05/25/anki/</guid><description>&lt;p>Ça fait quelque temps depuis que j&amp;rsquo;ai fait une mise à jour de mon fichier Jula.apkg disponible pour téléchargement sur le site ankiweb.net Je comprends parfaitement que les cartes aide-mémoire pour apprendre le Jula ne sont pas les fichiers les plus recherchés, mais c&amp;rsquo;est malheureux quand même les les gens chez &lt;a href="http://apps.ankiweb.net">Anki&lt;/a> insistent à supprimer les téléchargements dites &amp;lsquo;moins populaires&amp;rsquo;.&lt;/p></description></item><item><title>Datally</title><link>http://www.coastsystems.net/fr/2018/05/22/datally/</link><pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/05/22/datally/</guid><description>&lt;h2 id="nouvelle-application-de-google-pour-gérer-lusage-wifi">Nouvelle application de Google pour gérer l&amp;rsquo;usage wifi&lt;/h2>
-&lt;p>Voici une nouvelle application Datally, de Google qui permet de suivre et de contrôler les applications qui mangent la volume internet. Gratuit et sans pub. Une nécessité pour les connections 3g/4g&lt;/p></description></item><item><title>Alphabet Jula</title><link>http://www.coastsystems.net/fr/2018/05/22/alphabet/</link><pubDate>Tue, 22 May 2018 12:26:50 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/05/22/alphabet/</guid><description>&lt;h2 id="alphabet-jula">Alphabet Jula&lt;/h2></description></item><item><title>Yet Still Again ?</title><link>http://www.coastsystems.net/fr/2018/05/21/ysa/</link><pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/05/21/ysa/</guid><description>&lt;p>Quelle est la différence entre ces trois termes ?&lt;/p>
-&lt;p>Souvent le français est plus précis que l&amp;rsquo;anglais&amp;hellip; surtout en matière de verbes. Par contre l&amp;rsquo;anglais peut aussi être plus précis que le français. Voici un exemple:&lt;/p></description></item><item><title>Boyd Kelly sur Linkedin</title><link>http://www.coastsystems.net/fr/2018/05/05/linkedin/</link><pubDate>Sat, 05 May 2018 20:43:32 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2018/05/05/linkedin/</guid><description>Contactez-moi via Linkedin, ou par la forumle ci-bas.</description></item><item><title>Just do it !</title><link>http://www.coastsystems.net/fr/2016/04/21/justdoit/</link><pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2016/04/21/justdoit/</guid><description>&lt;p>&lt;img src="http://www.coastsystems.net/images/nike-5a2c1cf1488404.728018091512840433297.jpg" alt="">&lt;/p>
-&lt;p>Le slogan publicitaire de Nike n&amp;rsquo;est pas façile à traduire en français. Que veut dire cette expression? Le mot &amp;lsquo;just&amp;rsquo; est un faux ami. Quant il est utilisé comme adjectif, il peut souvent se traduire par &amp;lsquo;juste&amp;rsquo; en voulant dire équitable.&lt;/p></description></item></channel></rss>
+ sudo dnf copr enable boydkelly/xkeyboard-config-ci</description>
+    </item>
+    
+    <item>
+      <title>Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye</title>
+      <link>http://www.coastsystems.net/fr/2018/05/26/mogo/</link>
+      <pubDate>Sat, 26 May 2018 20:32:08 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/05/26/mogo/</guid>
+      <description>   Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.     C&amp;rsquo;est l&amp;rsquo;homme qui fait l&amp;rsquo;homme.   Comme le fer aiguise le fer, ainsi un homme aide son ami à progresser -Prov 27:17 TMN   As iron Sharpens iron, So one man sharpens his friend. -Prov 27:17 NWT    </description>
+    </item>
+    
+    <item>
+      <title>Rapport sur Anki</title>
+      <link>http://www.coastsystems.net/fr/2018/05/25/anki/</link>
+      <pubDate>Fri, 25 May 2018 13:07:27 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/05/25/anki/</guid>
+      <description>&lt;p&gt;Ça fait quelque temps depuis que j&amp;rsquo;ai fait une mise à jour de mon fichier Jula.apkg disponible pour téléchargement sur le site ankiweb.net Je comprends parfaitement que les cartes aide-mémoire pour apprendre le Jula ne sont pas les fichiers les plus recherchés, mais c&amp;rsquo;est malheureux quand même les les gens chez &lt;a href=&#34;http://apps.ankiweb.net&#34;&gt;Anki&lt;/a&gt; insistent à supprimer les téléchargements dites &amp;lsquo;moins populaires&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Datally</title>
+      <link>http://www.coastsystems.net/fr/2018/05/22/datally/</link>
+      <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/05/22/datally/</guid>
+      <description>&lt;h2 id=&#34;nouvelle-application-de-google-pour-gérer-l-usage-wifi&#34;&gt;Nouvelle application de Google pour gérer l&amp;rsquo;usage wifi&lt;/h2&gt;
+
+&lt;p&gt;Voici une nouvelle application Datally, de Google qui permet de suivre et de contrôler les applications qui mangent la volume internet.  Gratuit et sans pub.  Une nécessité pour les connections 3g/4g&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alphabet Jula</title>
+      <link>http://www.coastsystems.net/fr/2018/05/22/alphabet/</link>
+      <pubDate>Tue, 22 May 2018 12:26:50 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/05/22/alphabet/</guid>
+      <description>&lt;h2 id=&#34;alphabet-jula&#34;&gt;Alphabet Jula&lt;/h2&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yet Still Again ?</title>
+      <link>http://www.coastsystems.net/fr/2018/05/21/ysa/</link>
+      <pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/05/21/ysa/</guid>
+      <description>&lt;p&gt;Quelle est la différence entre ces trois termes ?&lt;/p&gt;
+
+&lt;p&gt;Souvent le français est plus précis que l&amp;rsquo;anglais&amp;hellip; surtout en matière de verbes.  Par contre l&amp;rsquo;anglais peut aussi être plus précis que le français.  Voici un exemple:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Boyd Kelly sur Linkedin</title>
+      <link>http://www.coastsystems.net/fr/2018/05/05/linkedin/</link>
+      <pubDate>Sat, 05 May 2018 20:43:32 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2018/05/05/linkedin/</guid>
+      <description>Contactez-moi via Linkedin, ou par la forumle ci-bas.</description>
+    </item>
+    
+    <item>
+      <title>Just do it !</title>
+      <link>http://www.coastsystems.net/fr/2016/04/21/justdoit/</link>
+      <pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/2016/04/21/justdoit/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.coastsystems.net/images/nike-5a2c1cf1488404.728018091512840433297.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le slogan publicitaire de Nike n&amp;rsquo;est pas façile à traduire en français. Que veut dire cette expression? Le mot &amp;lsquo;just&amp;rsquo; est un faux ami. Quant il est utilisé comme adjectif, il peut souvent se traduire par &amp;lsquo;juste&amp;rsquo; en voulant dire équitable.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

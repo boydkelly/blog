@@ -1,1 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marques on Coast Business Technologies</title><link>http://www.coastsystems.net/fr/marques/</link><description>Recent content in Marques on Coast Business Technologies</description><generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor><webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster><copyright>(c) 2018 Boyd Kelly</copyright><lastBuildDate>Tue, 07 Aug 2018 07:05:01 +0000</lastBuildDate><atom:link href="http://www.coastsystems.net/fr/marques/index.xml" rel="self" type="application/rss+xml"/><item><title>jula</title><link>http://www.coastsystems.net/fr/marques/jula/</link><pubDate>Tue, 07 Aug 2018 07:05:01 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/jula/</guid><description/></item><item><title>jula langue</title><link>http://www.coastsystems.net/fr/marques/jula-langue/</link><pubDate>Tue, 07 Aug 2018 07:05:01 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/jula-langue/</guid><description/></item><item><title>langue</title><link>http://www.coastsystems.net/fr/marques/langue/</link><pubDate>Mon, 30 Jul 2018 22:14:31 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/langue/</guid><description/></item><item><title>afrique</title><link>http://www.coastsystems.net/fr/marques/afrique/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/afrique/</guid><description/></item><item><title>tech</title><link>http://www.coastsystems.net/fr/marques/tech/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/tech/</guid><description/></item><item><title>proverbe</title><link>http://www.coastsystems.net/fr/marques/proverbe/</link><pubDate>Sat, 26 May 2018 20:32:08 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/proverbe/</guid><description/></item><item><title>android</title><link>http://www.coastsystems.net/fr/marques/android/</link><pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/android/</guid><description/></item><item><title>français</title><link>http://www.coastsystems.net/fr/marques/fran%C3%A7ais/</link><pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/marques/fran%C3%A7ais/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marques on Coast Business Technologies</title>
+    <link>http://www.coastsystems.net/fr/marques/</link>
+    <description>Recent content in Marques on Coast Business Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
+    <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
+    <copyright>(c) 2018 Boyd Kelly</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.coastsystems.net/fr/marques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Afrique</title>
+      <link>http://www.coastsystems.net/fr/marques/afrique/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/afrique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>http://www.coastsystems.net/fr/marques/android/</link>
+      <pubDate>Tue, 22 May 2018 15:24:23 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Français</title>
+      <link>http://www.coastsystems.net/fr/marques/fran%C3%A7ais/</link>
+      <pubDate>Mon, 21 May 2018 22:46:26 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/fran%C3%A7ais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jula</title>
+      <link>http://www.coastsystems.net/fr/marques/jula/</link>
+      <pubDate>Mon, 30 Jul 2018 22:14:31 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/jula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jula Langue</title>
+      <link>http://www.coastsystems.net/fr/marques/jula-langue/</link>
+      <pubDate>Tue, 07 Aug 2018 07:05:01 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/jula-langue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Langue</title>
+      <link>http://www.coastsystems.net/fr/marques/langue/</link>
+      <pubDate>Mon, 30 Jul 2018 22:14:31 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/langue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proverbe</title>
+      <link>http://www.coastsystems.net/fr/marques/proverbe/</link>
+      <pubDate>Sat, 26 May 2018 20:32:08 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/proverbe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://www.coastsystems.net/fr/marques/tech/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech French</title>
+      <link>http://www.coastsystems.net/fr/marques/tech-french/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/fr/marques/tech-french/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,15 @@
----
-title: "Alphabet Jula"
-date: 2018-05-22T12:26:50Z
-type: "post"
-draft: false
-author: "Boyd Kelly"
-description: "Alphabet Jula"
-# keywords: ["key", "words"]
-sujets: ["Julakan"]
-marques: ["jula", "langue", "afrique"]
----
++++
+author = "Boyd Kelly"
+date = "2018-05-22T12:26:50Z"
+description = "Alphabet Jula"
+draft = false
+langue = "fr"
+marques = ["jula", "langue", "afrique"]
+sujets = ["Julakan"]
+title = "Alphabet Jula"
+type = "post"
+
++++
 
 ## Alphabet Jula
 

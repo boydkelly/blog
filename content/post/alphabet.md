@@ -1,14 +1,15 @@
----
-title: "Jula Alphabet"
-date: 2018-05-22T12:26:50Z
-type: "post"
-draft: false
-author: "Boyd Kelly"
-description: "Jula Alphabet"
-keywords: ["key", "words"]
-topics: ["Julakan"]
-tags: ["jula", "language"]
----
++++
+author = "Boyd Kelly"
+date = "2018-05-22T12:26:50Z"
+description = "Jula Alphabet"
+draft = false
+keywords = ["key", "words"]
+tags = ["jula", "language"]
+title = "Jula Alphabet"
+topics = ["Julakan"]
+type = "post"
+
++++
 
 ## Jula Alphabet
 

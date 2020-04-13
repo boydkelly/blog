@@ -1,14 +1,15 @@
----
-title: "Alphabet Jula" 
-date: 2018-07-30T22:14:31Z
-lastmod: 2018-07-30T22:14:31Z
-author: "Boyd Kelly"
-cover: /img/cover.jpg
-description: "Alphabet Jula"
-sujets: ["julakan"]
-marques: ["jula", "langue"]
-draft: false
----
++++
+author = "Boyd Kelly"
+cover = "/img/cover.jpg"
+date = "2018-07-30T22:14:31Z"
+description = "Alphabet Jula"
+draft = false
+lastmod = "2018-07-30T22:14:31Z"
+marques = ["jula", "langue"]
+sujets = ["julakan"]
+title = "Alphabet Jula"
+
++++
 
 |    | Comme en français | Exemple Jula | Sens français |
 |----|-------------------|--------------|---------------|

@@ -1,14 +1,15 @@
----
-title: "Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye"
-date: 2018-05-26T20:32:08Z
-type: "post"
-draft: false
-author: "Boyd Kelly"
-description: "Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye"
-keywords: ["key", "words"]
-topics: ["Julakan"]
-tags: ["jula", "proverb", "language"]
----
++++
+author = "Boyd Kelly"
+date = "2018-05-26T20:32:08Z"
+description = "Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye"
+draft = false
+keywords = ["key", "words"]
+tags = ["jula", "proverb", "language"]
+title = "Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye"
+topics = ["Julakan"]
+type = "post"
+
++++
 
 | Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.                                                                |
 |---------------------------------------------------------------------------------------------|

@@ -1,6 +1,6 @@
 +++
 author = "Boyd Kelly"
-date = 2020-04-13T00:00:00Z
+date = "2020-04-13T00:00:00Z"
 description = ""
 draft = true
 featured_image = ""
@@ -13,9 +13,10 @@ Si vous avez l'habitude de tapper en anglais et en français, comme moi, comment
 
 Avec mon éditeur préféré NVIM sous linux c'est chose façile:
 
-|Creer un ficher à l'endroit suivant pour soit vim/gvim ou bien nvim
+Creer un ficher à l'endroit suivant pour soit vim/gvim ou bien nvim
 
-||.vim/keymap/fr.vim| (vim/gvim) ||.local/share/nvim/site/keymap/fr.vim|(nvim)
+(vim/gvim): .vim/keymap/fr.vim (vim/gvim) 
+(nvim) .local/share/nvim/site/keymap/fr.vim 
 
 Avec le contenu très simple suivant:
 
@@ -34,7 +35,9 @@ Pour activer le ficher tappez:
 
 :set keymap=fr
 
-Pour désactiver tapper:
+Pour désactiver tappez:
 
 :set keymap=
-    
+
+Allez-vous esseyer ?  Formidable !
+

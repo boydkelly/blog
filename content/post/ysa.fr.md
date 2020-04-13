@@ -1,13 +1,14 @@
----
-title: Yet Still Again ?
-date: 2018-05-21 22:46:26 +0000
-author: Boyd Kelly
-sujets: ["Anglais en français"]
-topics: ["English in French"]
-marques: ["langue", "français"]
-tags: ["language", "french"]
++++
+author = "Boyd Kelly"
+date = "2018-05-21 22:46:26 +0000"
+langue = ["fr"]
+marques = ["langue", "français"]
+sujets = ["Anglais en français"]
+tags = ["language", "french"]
+title = "Yet Still Again ?"
+topics = ["English in French"]
 
----
++++
 
 Quelle est la différence entre ces trois termes ?
 

@@ -1,19 +1,13 @@
----
-title: Lexique du Dioula
-date: 2018-05-23T14:32:15.000+00:00
-author: COULIBALY Moussa, HARAGUCHI Takehiko
-keywords:
-- jula
-- lexicon
-topics:
-- Jula
-tags:
-- afrique
-- langue
-- jula
-draft: true
++++
+author = "COULIBALY Moussa, HARAGUCHI Takehiko"
+date = "2018-05-23T14:32:15.000+00:00"
+draft = true
+keywords = ["jula", "lexicon"]
+tags = ["afrique", "langue", "jula"]
+title = "Lexique du Dioula"
+topics = ["Jula"]
 
----
++++
 <p style="text-align: center;">PREFACE</p>
 
 Ce lexique est inspiré du Petit Dictionnaire Dioula que C. Braconnier et M. J. Derive ont publié en 1978 [^1].  Comme le dictionnaire précédent, il voudrait être simplement un outil commode pour les personnes qui souhaitent pouvoir parler Dioula en Côte d'Ivoire. Il peut être utilisé comme complément à la méthode "ko dì"? de l'Institut de Linguistique Appliquée d'Abidjan.

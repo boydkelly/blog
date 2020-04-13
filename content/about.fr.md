@@ -1,10 +1,10 @@
----
-date: 2018-05-21 21:18:02 +0000
-type: page
-author: Boyd Kelly
-description: About Coast Business Technologies
++++
+author = "Boyd Kelly"
+date = "2018-05-21 21:18:02 +0000"
+description = "About Coast Business Technologies"
+type = "page"
 
----
++++
 ### Qui suis-je ?
 
 <div style=float:left; margin:5px>

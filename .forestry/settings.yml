@@ -7,6 +7,22 @@ sections:
 - type: heading
   label: Posts
 - type: directory
+  path: content/post
+  label: English
+  create: documents
+  match: "**/*.md"
+  exclude: "**/*.fr.md"
+  templates:
+  - post
+- type: directory
+  path: content/post
+  label: French
+  create: documents
+  match: "**/*.fr.md"
+  new_doc_ext: fr.md
+  templates:
+  - french
+- type: directory
   path: content
   label: Pages
   create: all

@@ -6,7 +6,7 @@ featured_image = ""
 marques = ["tech, french, "]
 sujets = ["technologie"]
 title = "Poncutation française facile avec NVIM/VIM"
-
+lang = "fr"
 +++
 Si vous avez l'habitude de tapper en anglais et en français, comme moi, comment gérez-vous les espaces qui précedent les points d'interrogation et d'exclamation ?  En français, selon les normes (??  en tout cas), il faut avoir des espaces, mais les anglais sont horrifiés de voir cela.
 
@@ -14,8 +14,8 @@ Avec mon éditeur préféré NVIM sous linux c'est chose façile:
 
 Creer un ficher à l'endroit suivant pour soit vim/gvim ou bien nvim
 
-(vim/gvim): .vim/keymap/fr.vim (vim/gvim) 
-(nvim) .local/share/nvim/site/keymap/fr.vim 
+(vim/gvim): **.vim/keymap/fr.vim (vim/gvim)** 
+(nvim): **.local/share/nvim/site/keymap/fr.vim** 
 
 Avec le contenu très simple suivant: 
     

@@ -3,10 +3,10 @@ author = "Boyd Kelly"
 date = 2020-04-13T00:00:00Z
 description = ""
 featured_image = ""
-tags = ["tech, french, "]
-subjects = ["technologie"]
-title = "Poncutation française facile avec NVIM/VIM"
 lang = "en"
+subjects = ["technologie"]
+tags = ["tech, french, "]
+title = "Easy French style punctuation with NVIM/VIM"
 
 +++
 Are you often having to type in English and in French like me? If so how are you 

@@ -23,3 +23,5 @@ fields:
 - type: list
   name: sujets
   label: sujets
+pages:
+- content/post/poncutation-française-avec-vim.md

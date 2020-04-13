@@ -1,0 +1,25 @@
+---
+label: French
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: featured_image
+  label: featured_image
+- type: list
+  name: marques
+  label: marques
+- type: text
+  name: title
+  label: title
+- type: list
+  name: sujets
+  label: sujets

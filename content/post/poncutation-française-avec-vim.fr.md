@@ -3,8 +3,8 @@ author = "Boyd Kelly"
 date = 2020-04-13T00:00:00Z
 description = ""
 featured_image = ""
-marques = []
-sujets = []
+marques = ["tech, french, "]
+sujets = ["technologie"]
 title = "Poncutation française avec VIM"
 
 +++

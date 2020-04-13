@@ -5,7 +5,7 @@ description = ""
 featured_image = ""
 marques = ["tech, french, "]
 sujets = ["technologie"]
-title = "Poncutation française avec VIM"
+title = "Poncutation française facile avec NVIM/VIM"
 
 +++
 Si vous avez l'habitude de tapper en anglais et en français, comme moi, comment gérez-vous les espaces qui précedent les points d'interrogation et d'exclamation ?  En français, selon les normes (??  en tout cas), il faut avoir des espaces, mais les anglais sont horrifiés de voir cela.

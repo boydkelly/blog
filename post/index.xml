@@ -9,10 +9,23 @@
     <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
     <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
     <copyright>(c) 2018 Boyd Kelly</copyright>
-    <lastBuildDate>Tue, 07 Aug 2018 07:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.coastsystems.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poncutation française facile avec NVIM/VIM</title>
+      <link>http://www.coastsystems.net/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
+      <guid>http://www.coastsystems.net/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</guid>
+      <description>Are you often having to type in English and in French like me? If so how are you managing the French requirment for a space before the question mark and exlamation mark? Obligatory in French but horrendous in English!
+This is easy to look after with my preferred text editor NVIM:
+Create a file at the following location for either vim/gvim or nvim:
+(vim/gvim): .vim/keymap/fr.vim (vim/gvim) (nvim) .local/share/nvim/site/keymap/fr.vim
+with this simple content:</description>
+    </item>
     
     <item>
       <title>A sen b&#39;a la</title>

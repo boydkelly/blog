@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.coastsystems.net/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.coastsystems.net/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.coastsystems.net/2018/08/07/a-sen-b-a-la/</loc>
     <lastmod>2018-08-07T07:05:01+00:00</lastmod>
     <xhtml:link
@@ -168,6 +183,10 @@
   </url>
   
   <url>
+    <loc>http://www.coastsystems.net/lexique_sample/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.coastsystems.net/tags/afrique/</loc>
     <lastmod>2018-05-22T15:24:23+00:00</lastmod>
     <priority>0</priority>
@@ -181,7 +200,7 @@
   
   <url>
     <loc>http://www.coastsystems.net/</loc>
-    <lastmod>2018-08-07T07:05:01+00:00</lastmod>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -233,7 +252,7 @@
   
   <url>
     <loc>http://www.coastsystems.net/post/</loc>
-    <lastmod>2018-08-07T07:05:01+00:00</lastmod>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -262,6 +281,12 @@
   <url>
     <loc>http://www.coastsystems.net/tags/tech/</loc>
     <lastmod>2018-05-22T15:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.coastsystems.net/tags/tech-french/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

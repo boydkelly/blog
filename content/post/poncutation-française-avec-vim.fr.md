@@ -2,7 +2,6 @@
 author = "Boyd Kelly"
 date = 2020-04-13T00:00:00Z
 description = ""
-draft = true
 featured_image = ""
 marques = []
 sujets = []

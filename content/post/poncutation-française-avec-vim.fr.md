@@ -1,6 +1,6 @@
 +++
 author = "Boyd Kelly"
-date = "2020-04-13T00:00:00Z"
+date = 2020-04-13T00:00:00Z
 description = ""
 draft = true
 featured_image = ""
@@ -20,8 +20,9 @@ Creer un ficher à l'endroit suivant pour soit vim/gvim ou bien nvim
 
 Avec le contenu très simple suivant:
 
-let b:keymap_name="french punctuation"
-    
+
+   let b:keymap_name="french punctuation"
+   
     highlight lCursor ctermbg=red guibg=red
     
     loadkeymap
@@ -40,4 +41,3 @@ Pour désactiver tappez:
 :set keymap=
 
 Allez-vous esseyer ?  Formidable !
-

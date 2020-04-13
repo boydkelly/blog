@@ -23,5 +23,11 @@ fields:
 - type: list
   name: sujets
   label: sujets
+- name: language
+  type: text
+  config:
+    required: false
+  label: langue
+  default: fr
 pages:
 - content/post/poncutation-française-avec-vim.md

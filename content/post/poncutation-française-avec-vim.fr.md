@@ -18,10 +18,12 @@ Creer un ficher à l'endroit suivant pour soit vim/gvim ou bien nvim
 (vim/gvim): .vim/keymap/fr.vim (vim/gvim) 
 (nvim) .local/share/nvim/site/keymap/fr.vim 
 
-Avec le contenu très simple suivant:
-   
-    highlight lCursor ctermbg=red guibg=red
+Avec le contenu très simple suivant: 
+    
     let b:keymap_name="french punctuation"
+    
+    highlight lCursor ctermbg=red guibg=red
+    
     loadkeymap
     
     ?  <space>?

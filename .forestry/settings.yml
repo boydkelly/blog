@@ -4,6 +4,8 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Posts
 - type: directory
   path: content
   label: Pages
@@ -11,7 +13,7 @@ sections:
   match: "*"
 - type: directory
   path: content/post
-  label: Post
+  label: All Posts
   create: all
   match: "**/*"
 upload_dir: static/images

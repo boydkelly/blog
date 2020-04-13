@@ -29,5 +29,3 @@ fields:
     required: false
   label: langue
   default: fr
-pages:
-- content/post/poncutation-française-avec-vim.md

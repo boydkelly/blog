@@ -3,7 +3,7 @@ label: French
 hide_body: false
 fields:
 - type: text
-  name: author
+  name: Boyd_Kelly
   label: author
 - type: datetime
   name: date

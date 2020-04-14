@@ -6,6 +6,7 @@ keywords = ["jula", "lexicon"]
 tags = ["afrique", "langue", "jula"]
 title = "Lexique du Dioula"
 topics = ["Jula"]
+langue = "fr"
 
 +++
 <p style="text-align: center;">PREFACE</p>

@@ -14,7 +14,6 @@ managing the French requirment for a space before the question mark and exlamati
 
 This is easy to look after with my preferred text editor NVIM:
 
-
 Create a file at the following location for either vim/gvim or nvim:
 
 (vim/gvim): .vim/keymap/fr.vim (vim/gvim) 

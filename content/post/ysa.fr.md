@@ -1,14 +1,20 @@
-+++
-author = "Boyd Kelly"
-date = "2018-05-21 22:46:26 +0000"
-langue = ["fr"]
-marques = ["langue", "français"]
-sujets = ["Anglais en français"]
-tags = ["language", "french"]
-title = "Yet Still Again ?"
-topics = ["English in French"]
-
-+++
+---
+author: Boyd Kelly
+date: 2018-05-21 22:46:26 +0000
+langue:
+- fr
+marques:
+- langue
+- français
+sujets:
+- Anglais en français
+tags:
+- language
+- french
+title: Yet Still Again ?
+topics:
+- English in French
+---
 
 Quelle est la différence entre ces trois termes ?
 

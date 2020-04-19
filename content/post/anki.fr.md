@@ -1,16 +1,20 @@
-+++
-author = "Boyd Kelly"
-date = "2018-05-25T13:07:27Z"
-description = ""
-draft = false
-keywords = ["key", "words"]
-langue = "fr"
-marques = ["jula", "langue"]
-sujets = ["Julakan"]
-title = "Rapport sur Anki"
-type = "post"
-
-+++
+---
+author: Boyd Kelly
+date: "2018-05-25T13:07:27Z"
+description: ""
+draft: false
+keywords:
+- key
+- words
+langue: fr
+marques:
+- jula
+- langue
+sujets:
+- Julakan
+title: Rapport sur Anki
+type: post
+---
 
 Ça fait quelque temps depuis que j'ai fait une mise à jour de mon fichier Jula.apkg disponible pour téléchargement sur le site ankiweb.net Je comprends parfaitement que les cartes aide-mémoire pour apprendre le Jula ne sont pas les fichiers les plus recherchés, mais c'est malheureux quand même les les gens chez [Anki](http://apps.ankiweb.net) insistent à supprimer les téléchargements dites 'moins populaires'. 
 

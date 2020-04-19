@@ -1,11 +1,10 @@
-+++
-author = "Boyd Kelly"
-date = 2018-05-21T21:18:02Z
-description = "About Coast Business Technologies"
-title = ""
-type = "page"
-
-+++
+---
+author: Boyd Kelly
+date: "2018-05-21T21:18:02Z"
+description: About Coast Business Technologies
+title: ""
+type: page
+---
 ### Who am I ?
 
 <div style=float:left; margin:5px> <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="boydkelly"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boydkelly?trk=profile-badge'>Boyd Kelly</a></div> </div>

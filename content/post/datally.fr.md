@@ -1,15 +1,20 @@
-+++
-author = "Boyd Kelly"
-date = "2018-05-22T15:24:23Z"
-draft = false
-keywords = ["android", "application"]
-langue = "fr"
-marques = ["tech", "android", "afrique"]
-sujets = ["Technologie"]
-title = "Datally"
-type = "post"
-
-+++
+---
+author: Boyd Kelly
+date: "2018-05-22T15:24:23Z"
+draft: false
+keywords:
+- android
+- application
+langue: fr
+marques:
+- tech
+- android
+- afrique
+sujets:
+- Technologie
+title: Datally
+type: post
+---
 
 ## Nouvelle application de Google pour gérer l'usage wifi
 

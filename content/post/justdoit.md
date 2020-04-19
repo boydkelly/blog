@@ -1,12 +1,14 @@
-+++
-author = "Boyd Kelly"
-date = "2016-04-21T02:50:28+02:00"
-featured_image = "/images/nike-5a2c1cf1488404.728018091512840433297.jpg"
-tags = ["french", "language"]
-title = "Just do it!"
-topics = ["English in French"]
-
-+++
+---
+author: Boyd Kelly
+date: "2016-04-21T02:50:28+02:00"
+featured_image: /images/nike-5a2c1cf1488404.728018091512840433297.jpg
+tags:
+- french
+- language
+title: Just do it!
+topics:
+- English in French
+---
 
 Le slogan publicitaire de Nike n'est pas façile à traduire en français. Que veut dire cette expression? Le mot 'just' est un faux ami. Quant il est utilisé comme adjectif, il peut souvent se traduire par 'juste' en voulant dire équitable.
 

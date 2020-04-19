@@ -1,13 +1,15 @@
-+++
-author = "Boyd Kelly"
-date = 2020-04-13T00:00:00Z
-description = ""
-featured_image = ""
-marques = ["tech, french, "]
-sujets = ["technologie"]
-title = "Poncutation française facile avec NVIM/VIM"
-lang = "fr"
-+++
+---
+author: Boyd Kelly
+date: "2020-04-13T00:00:00Z"
+description: ""
+featured_image: ""
+lang: fr
+marques:
+- 'tech, french, '
+sujets:
+- technologie
+title: Poncutation française facile avec NVIM/VIM
+---
 Si vous avez l'habitude de tapper en anglais et en français, comme moi, comment gérez-vous les espaces qui précedent les points d'interrogation et d'exclamation ?  En français, selon les normes (??  en tout cas), il faut avoir des espaces, mais les anglais sont horrifiés de voir cela.
 
 Avec mon éditeur préféré NVIM sous linux c'est chose façile:

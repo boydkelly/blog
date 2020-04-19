@@ -1,15 +1,19 @@
-+++
-author = "Boyd Kelly"
-date = "2018-05-25T13:07:27Z"
-description = ""
-draft = false
-keywords = ["key", "words"]
-tags = ["jula", "language"]
-title = "Anki Update"
-topics = ["Julakan"]
-type = "post"
-
-+++
+---
+author: Boyd Kelly
+date: "2018-05-25T13:07:27Z"
+description: ""
+draft: false
+keywords:
+- key
+- words
+tags:
+- jula
+- language
+title: Anki Update
+topics:
+- Julakan
+type: post
+---
 
 
 Its been a while since I have updated my Jula.apkg file for public download. I do realize that flash cards to learn Jula are not the hottest thing right now, but it is a bit of a shame that the [[ankiweb.net]](ankiweb.net people) will delete so-called less popular downloads. 

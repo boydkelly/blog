@@ -1,14 +1,19 @@
-+++
-author = "Boyd Kelly"
-date = "2018-05-22T15:24:23Z"
-draft = false
-keywords = ["key", "words"]
-tags = ["tech", "android", "afrique"]
-title = "Datally"
-topics = ["Technology"]
-type = "post"
-
-+++
+---
+author: Boyd Kelly
+date: "2018-05-22T15:24:23Z"
+draft: false
+keywords:
+- key
+- words
+tags:
+- tech
+- android
+- afrique
+title: Datally
+topics:
+- Technology
+type: post
+---
 
 ## New mobile data-saving & WiFi app by Google
 

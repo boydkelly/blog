@@ -1,16 +1,21 @@
-+++
-author = "Boyd Kelly"
-date = "2018-05-26T20:32:08Z"
-description = "Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye"
-draft = false
-keywords = ["key", "words"]
-langue = "fr"
-marques = ["jula", "proverbe", "langue"]
-sujets = ["Julakan"]
-title = "Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye"
-type = "post"
-
-+++
+---
+author: Boyd Kelly
+date: "2018-05-26T20:32:08Z"
+description: Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye
+draft: false
+keywords:
+- key
+- words
+langue: fr
+marques:
+- jula
+- proverbe
+- langue
+sujets:
+- Julakan
+title: Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye
+type: post
+---
 
 | Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.                                                                |
 |---------------------------------------------------------------------------------------------|

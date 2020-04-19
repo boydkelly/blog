@@ -9,6 +9,7 @@ type: page
 <div style=float:left; margin:5px>
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="boydkelly"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boydkelly?trk=profile-badge'>Boyd Kelly</a></div>
 </div>
+</br>
 En sommaire, j'ai fait du bénévolat extensif en afrique, tout en travaillant avec la technologie. J'ai supervisé departement de support technique pour le Bureau des Passports du Canada à l'ouest et ensuite travaillé dans le departement informatique d'une grande société de logiciel. Au cours de route j'ai hébergé des sites web, géré les servers mail et DNS et enseigné les cours de Microsoft Exchange à l'Université de la Columbie Britanique. Avec beaucoup d'experience dans les technologies virtuelles sur Linux, Amazon et GCE, je peux travailler à distance avec pleine confiance. 
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>

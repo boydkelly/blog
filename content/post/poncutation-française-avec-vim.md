@@ -8,7 +8,7 @@ subjects:
 - technologie
 tags:
 - 'tech, french, '
-title: Easy French style punctuation with NVIM/VIM
+title: Easy French style punctuation with Vim/NVim 
 ---
 Are you often having to type in English and in French like me? If so how are you 
 managing the French requirment for a space before the question mark and exlamation mark?  Obligatory in French but horrendous in English!

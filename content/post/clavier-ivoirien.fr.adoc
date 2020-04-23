@@ -23,8 +23,6 @@ title: Clavier Ivoirien
 :experimental:
 :icons: font
 
-image::clavier_ivoirien.png[]
-
 Je suis très heureux de publier le 'Clavier Ivoirien' sur un depot publique pour distributions linux à base rpm.  
 Ce clavier qui permet de tapper aisément (*sans faire de gymnastiques avec les doigts*) les langues ivoriennes.  
 Il y inclut aussi un clavier standard "Français (Côte d,Ivoire).  On peut l'installer sur les systems 'rpm':  Fedora, Suse, Mageia etc.  

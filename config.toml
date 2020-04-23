@@ -1,13 +1,13 @@
 DefaultContentLanguage = "en"
 baseurl = "http://www.coastsystems.net"
 canonifyurls = true
-disqusShortname = "www-coastsystems-net"
+#disqusShortname = "www-coastsystems-net"
 metaDataFormat = "toml"
 paginate = 10
 paginatePath = "page"
 theme = "hugo-bootstrap-premium"
 [Languages.en]
-copyright = "(c) 2018 Boyd Kelly"
+copyright = "(c) 2020 Boyd Kelly"
 languageCode = "en"
 languageName = "English"
 title = "Coast Business Technologies"

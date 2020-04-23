@@ -54,7 +54,7 @@
     },
     "datePublished": "2018-07-01",
     "description": "Tappez sur Linux en langues ivoiriennes !",
-    "wordCount": 604
+    "wordCount": 470
   }
 </script>
   
@@ -201,7 +201,7 @@
     &middot; Auteur Boyd Kelly
   
   &middot; Lire en 3 min
-  &middot; (604 mots)
+  &middot; (470 mots)
   &middot; 
 <span class="share-box">Share this on:
     <a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.coastsystems.net%2ffr%2f2018%2f07%2f01%2fclavier-ivoirien%2f" onclick="window.open(this.href, 'mywin',
@@ -238,66 +238,88 @@
 
 		<div class=card-body>
 		<div class="content">
-  <p>Je suis très heureux de publier le &lsquo;Clavier Ivoirien&rsquo; sur un repo publique pour distros à base rpm.  Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes.  Il y inclut aussi un clavier standard &laquo;Français (Côte d,Ivoire).  On peut l&rsquo;installer sur les systems &lsquo;rpm&rsquo;:  Fedora, Suse, Mageia etc.  Simplement ajouter le repo approprié disponible ici:</p>
+  = Clavier Ivoirien sans gymnastiques
+:author: Boyd Kelly
+:date: 2018-07-01T00:00:00.000+00:00
+:title: Tappez rapidement sur Linux en langues ivoiriennes !
+:featured_image: /images/clavier_ivoirien.png
+:lang: fr 
+:imagesdir: ../assets/images
+:marques: ["langue", "tech", "afrique"]
+:sujets: ["Technologie"]
+:experimental:
+:icons: font
 
-<p><a href="https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/" title="Fedora Copr">https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/</a></p>
+image::clavier_ivoirien.png[]
 
-<p>** Installation</p>
+Je suis très heureux de publier le 'Clavier Ivoirien' sur un depot publique pour distributions linux à base rpm.  
+Ce clavier qui permet de tapper aisément (*sans faire de gymnastiques avec les doigts*) les langues ivoriennes.  
+Il y inclut aussi un clavier standard "Français (Côte d,Ivoire).  On peut l'installer sur les systems 'rpm':  Fedora, Suse, Mageia etc.  
+Ajouter simplement le dépôt approprié disponible ici:
 
-<p>*** Fedora:</p>
+ https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/
 
-<blockquote>
-<p>sudo dnf copr enable boydkelly/xkeyboard-config-ci</p>
+== Installation
 
-<p>sudo dnf update xkeyboard-config</p>
-</blockquote>
+=== Fedora:
 
-<p>*** Suse et Mageia:</p>
+----
+sudo dnf copr enable boydkelly/xkeyboard-config-ci
 
-<p>Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config</p>
+sudo dnf update xkeyboard-config
+----
 
-<p>*** Distributions Ubuntu/Debian:</p>
+=== Suse et Mageia:
 
-<p>Télécharger le fichier <a href="http://bit.ly/2oTcPil">xkeyboard-config</a> et l&rsquo;installer localement.  (Je vais bientôt faire un ppa pour Ubuntu)</p>
+* Voir votre distribution pour ajouter repo et mettre à jour xkeyboard-config
 
-<p>Si vous avez des patchs ou contributions, voir le source sur <a href="https://github.com/boydkelly/xkeyboard-config-ci" title="Github">github.com</a></p>
+=== Distributions Ubuntu/Debian:
 
-<p>Pardon pour les usagers de distributions debian je vais mettre publier un deb très bientôt!</p>
+* Télécharger le fichier http://bit.ly/2oTcPil[xkeyboard-config] et l'installer localement.  (Je vais bientôt faire un ppa pour Ubuntu)
 
-<p>Le clavier français de Côte d&rsquo;Ivoire est identique au clavier national français azerty.</p>
+== Notes d'usage:
 
-<p>Le clavier multilingue de Côte d&rsquo;Ivoire (civ) est basé sur le clavier français azerty, mais inclut des symboles unicode supplémentaires pour les langues locales de la Côte d&rsquo;Ivoire. On a consulté les claviers de Togo, Nigeria, Mali et en particulier le Cameroon. Le clavier peut être utlisé pour écrire l&rsquo;Attié, Abé, Baoulé, Français, Gueré, Jula, Senoufo, Yacouba, et d&rsquo;autres langues locales.</p>
+Si vous avez des patchs ou contributions, voir le source sur https://github.com/boydkelly/xkeyboard-config-ci[github.com]
 
-<p>Les charactères unicode sont accessibles de deux façons:</p>
+Pardon pour les usagers de distributions debian je vais me mettre publier un deb très bientôt!
 
-<ol>
-<li>Appuyer et tenir la touche AltGr et ensuite la touche appropriée de la table ci dessous.</li>
-<li>Appuyer la touch exclamation (!, sur le clavier azerty), relache, et ensuite appuyer la touche appropriée de la table ci dessous.</li>
-</ol>
+NOTE: Le clavier français de Côte d'Ivoire est identique au clavier national français azerty.
 
-<p>La première méthode peut être difficile surtout avec les majuscules et quand la touche en question se trouve sur la droite du clavier. La deuxième méthod permet de tapper avec plus de fluidité. Appuyer la touch exclamation (!) deux fois pour insérer la mark d&rsquo;exclamation.::</p>
+Le clavier multilingue de Côte d'Ivoire (civ) est basé sur le clavier français azerty, mais inclut des symboles unicode supplémentaires pour les langues locales de la Côte d'Ivoire. On a consulté les claviers de Togo, Nigeria, Mali et en particulier le Cameroon. Le clavier peut être utlisé pour écrire l'Attié, Abé, Baoulé, Français, Gueré, Jula, Senoufo, Yacouba, et d'autres langues locales.
 
-<pre><code>  ____                                    
- | 1 3| 1 = Maj,  3 = AltGr + Maj    (AltGr est du côte droit)
- | 2 4| 2 = normal, 4 = AltGr
-  ¯¯¯¯                                  
-  ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ _______
- |    | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 0  | °  | +  | &lt;--   |
- | ²  | &amp;  | é ~| &quot; #| ' {| ( [| - || è `| _ \| ç ^| à @| ) ]| = }|       |
-  ========================================================================
- | |&lt;-  | A  | Z Ʒ| E Ɛ| R  | T  | Y Ƴ| U Ʋ| I Ɩ| O Ɔ| P  | ¨  | $  |   , |
- |  -&gt;| | a  | z ʒ| e ɛ| r  | t  | y ƴ| u ʋ| i ɩ| o ɔ| p  | ^  ̌| £ ¤| &lt;-' |
-  ===================================================================¬    |
- |       | Q  | S  | D Ɗ | F  | G Ŋ| H  | J  | K  | L  | M  | %  | µ  |   |
- | MAJ   | q  | s  | d ɗ | f  | g ŋ| h  | j  | k  | l  | m  | ù `| *  ́|   |
-  ========================================================================
- | ^   | &gt;  | W  | X  | C  | V Ʋ| B Ɓ| N Ŋ| ?  | .  | /  | §  |     |     |
- | |   | &lt;  | w  | x  | c  | v ʋ| b ɓ| n ŋ| ,  | ;  | : ¯| ! ~|     |     |
-  ========================================================================
- |      |      |      |                       |       |      |     |      |
- | Ctrl | Super| Alt  | Espace   Nobreakspace | AltGr | Super|Menu | Ctrl |
-  ¯¯¯¯¯¯ ¯¯¯¯¯¯ ¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯ ¯¯¯¯¯¯ ¯¯¯¯¯ ¯¯¯¯¯
-</code></pre>
+Les charactères unicode sont accessibles de deux façons:
+
+. Appuyer et tenir la touche AltGr et ensuite la touche appropriée de la table ci dessous.
+. Appuyer la touch exclamation (!, sur le clavier azerty), relache, et ensuite appuyer la touche appropriée de la table ci dessous.
+
+La première méthode peut être difficile surtout avec les majuscules et quand la touche en question se trouve sur la droite du clavier.
+
+TIP: La deuxième méthode permet de tapper avec plus de fluidité. Appuyer la touch exclamation (!) deux fois pour insérer la mark d'exclamation.
+
+
+[listing]
+----
+   ____
+  | 1 3| 1 = Maj,  3 = AltGr + Maj    (AltGr est du côte droit)
+  | 2 4| 2 = normal, 4 = AltGr
+   ¯¯¯¯
+   ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ _______
+  |    | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 0  | °  | +  | <--   |
+  | ²  | &  | é ~| " #| ' {| ( [| - || è `| _ \| ç ^| à @| ) ]| = }|       |
+   ========================================================================
+  | |<-  | A  | Z Ʒ| E Ɛ| R  | T  | Y Ƴ| U Ʋ| I Ɩ| O Ɔ| P  | ¨  | $  |   , |
+  |  ->| | a  | z ʒ| e ɛ| r  | t  | y ƴ| u ʋ| i ɩ| o ɔ| p  | ^  ̌| £ ¤| <-' |
+   ===================================================================¬    |
+  |       | Q  | S  | D Ɗ | F  | G Ŋ| H  | J  | K  | L  | M  | %  | µ  |   |
+  | MAJ   | q  | s  | d ɗ | f  | g ŋ| h  | j  | k  | l  | m  | ù `| *  ́|   |
+   ========================================================================
+  | ^   | >  | W  | X  | C  | V Ʋ| B Ɓ| N Ŋ| ?  | .  | /  | §  |     |     |
+  | |   | <  | w  | x  | c  | v ʋ| b ɓ| n ŋ| ,  | ;  | : ¯| ! ~|     |     |
+   ========================================================================
+  |      |      |      |                       |       |      |     |      |
+  | Ctrl | Super| Alt  | Espace   Nobreakspace | AltGr | Super|Menu | Ctrl |
+   ¯¯¯¯¯¯ ¯¯¯¯¯¯ ¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯ ¯¯¯¯¯¯ ¯¯¯¯¯ ¯¯¯¯¯
+----  
 
 </div>
 

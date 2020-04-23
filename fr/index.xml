@@ -50,11 +50,7 @@ Creer un ficher à l&amp;rsquo;endroit suivant pour soit vim/gvim ou bien nvim
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <author>bkelly@coastsystems.net (Boyd Kelly)</author>
       <guid>http://www.coastsystems.net/fr/2018/07/01/clavier-ivoirien/</guid>
-      <description>Je suis très heureux de publier le &amp;lsquo;Clavier Ivoirien&amp;rsquo; sur un repo publique pour distros à base rpm. Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes. Il y inclut aussi un clavier standard &amp;laquo;Français (Côte d,Ivoire). On peut l&amp;rsquo;installer sur les systems &amp;lsquo;rpm&amp;rsquo;: Fedora, Suse, Mageia etc. Simplement ajouter le repo approprié disponible ici:
-https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/
-** Installation
-*** Fedora:
- sudo dnf copr enable boydkelly/xkeyboard-config-ci</description>
+      <description>= Clavier Ivoirien sans gymnastiques :author: Boyd Kelly :date: 2018-07-01T00:00:00.000+00:00 :title: Tappez rapidement sur Linux en langues ivoiriennes ! :featured_image: /images/clavier_ivoirien.png :lang: fr :imagesdir: ../assets/images :marques: [&#34;langue&#34;, &#34;tech&#34;, &#34;afrique&#34;] :sujets: [&#34;Technologie&#34;] :experimental: :icons: font image::clavier_ivoirien.png[] Je suis très heureux de publier le &#39;Clavier Ivoirien&#39; sur un depot publique pour distributions linux à base rpm. Ce clavier qui permet de tapper aisément (*sans faire de gymnastiques avec les doigts*) les langues ivoriennes.</description>
     </item>
     
     <item>
@@ -152,15 +148,6 @@ https://copr.fedorainfracloud.org/coprs/boydkelly/xkeyboard-config-ci/
 &lt;p&gt;Le slogan publicitaire de Nike n&amp;rsquo;est pas façile à traduire en français. Que veut dire cette expression? Le mot &amp;lsquo;just&amp;rsquo; est un faux ami. Quant il est utilisé comme adjectif, il peut souvent se traduire par &amp;lsquo;juste&amp;rsquo; en voulant dire équitable.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.coastsystems.net/fr/1/01/01/clavier-ivoirien/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
-      <guid>http://www.coastsystems.net/fr/1/01/01/clavier-ivoirien/</guid>
-      <description>= Clavier Ivoirien :author: Boyd Kelly :date: 2018-07-01T00:00:00.000+00:00 :description: Tappez sur Linux en langues ivoiriennes ! :featured_image: /images/clavier_ivoirien.png :lang: en :marques: [&#34;langue&#34;, &#34;tech&#34;, &#34;afrique&#34;] :sujets: [&#34;Technologie&#34;] Je suis très heureux de publier le &#39;Clavier Ivoirien&#39; sur un repo publique pour distributions linux à base rpm. Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes. Il y inclut aussi un clavier standard &#34;Français (Côte d,Ivoire).</description>
     </item>
     
   </channel>

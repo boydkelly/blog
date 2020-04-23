@@ -1,14 +1,32 @@
-= Clavier Ivoirien
+---
+author: Boyd Kelly
+date: "2018-07-01T00:00:00.000+00:00"
+description: Tappez sur Linux en langues ivoiriennes !
+featured_image: /images/clavier_ivoirien.png
+marques:
+- langue
+- tech
+- afrique
+sujets:
+- Technologie
+title: Clavier Ivoirien
+---
+= Clavier Ivoirien sans gymnastiques
 :author: Boyd Kelly
 :date: 2018-07-01T00:00:00.000+00:00
-:description: Tappez sur Linux en langues ivoiriennes !
+:title: Tappez rapidement sur Linux en langues ivoiriennes !
 :featured_image: /images/clavier_ivoirien.png
-:lang: en
+:lang: fr 
+:imagesdir: ../assets/images
 :marques: ["langue", "tech", "afrique"]
 :sujets: ["Technologie"]
+:experimental:
+:icons: font
 
-Je suis très heureux de publier le 'Clavier Ivoirien' sur un repo publique pour distributions linux à base rpm.  
-Ce clavier qui permet de tapper aisément (sans faire de gymnastiques avec les doigts) les langues ivoriennes.  
+image::clavier_ivoirien.png[]
+
+Je suis très heureux de publier le 'Clavier Ivoirien' sur un depot publique pour distributions linux à base rpm.  
+Ce clavier qui permet de tapper aisément (*sans faire de gymnastiques avec les doigts*) les langues ivoriennes.  
 Il y inclut aussi un clavier standard "Français (Côte d,Ivoire).  On peut l'installer sur les systems 'rpm':  Fedora, Suse, Mageia etc.  
 Ajouter simplement le dépôt approprié disponible ici:
 
@@ -53,8 +71,6 @@ TIP: La deuxième méthode permet de tapper avec plus de fluidité. Appuyer la t
 
 
 [listing]
-=== Clavier
-
 ----
    ____
   | 1 3| 1 = Maj,  3 = AltGr + Maj    (AltGr est du côte droit)

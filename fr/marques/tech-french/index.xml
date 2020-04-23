@@ -1,30 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tech French on Coast Business Technologies</title>
-    <link>http://www.coastsystems.net/fr/marques/tech-french/</link>
-    <description>Recent content in Tech French on Coast Business Technologies</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor>
-    <webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster>
-    <copyright>(c) 2018 Boyd Kelly</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.coastsystems.net/fr/marques/tech-french/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Poncutation française facile avec NVIM/VIM</title>
-      <link>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <author>bkelly@coastsystems.net (Boyd Kelly)</author>
-      <guid>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</guid>
-      <description>Si vous avez l&amp;rsquo;habitude de tapper en anglais et en français, comme moi, comment gérez-vous les espaces qui précedent les points d&amp;rsquo;interrogation et d&amp;rsquo;exclamation ? En français, selon les normes (?? en tout cas), il faut avoir des espaces, mais les anglais sont horrifiés de voir cela.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech, french, on Coast Business Technologies</title><link>http://www.coastsystems.net/fr/marques/tech-french/</link><description>Recent content in tech, french, on Coast Business Technologies</description><generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>bkelly@coastsystems.net (Boyd Kelly)</managingEditor><webMaster>bkelly@coastsystems.net (Boyd Kelly)</webMaster><copyright>(c) 2018 Boyd Kelly</copyright><lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.coastsystems.net/fr/marques/tech-french/index.xml" rel="self" type="application/rss+xml"/><item><title>Poncutation française facile avec NVIM/VIM</title><link>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</link><pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate><author>bkelly@coastsystems.net (Boyd Kelly)</author><guid>http://www.coastsystems.net/fr/2020/04/13/poncutation-fran%C3%A7aise-avec-vim/</guid><description>Si vous avez l&amp;rsquo;habitude de tapper en anglais et en français, comme moi, comment gérez-vous les espaces qui précedent les points d&amp;rsquo;interrogation et d&amp;rsquo;exclamation ? En français, selon les normes (?? en tout cas), il faut avoir des espaces, mais les anglais sont horrifiés de voir cela.
 Avec mon éditeur préféré NVIM sous linux c&amp;rsquo;est chose façile:
 Creer un ficher à l&amp;rsquo;endroit suivant pour soit vim/gvim ou bien nvim
-(vim/gvim): .</description>
-    </item>
-    
-  </channel>
-</rss>
+(vim/gvim): .</description></item></channel></rss>

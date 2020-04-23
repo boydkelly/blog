@@ -1,30 +1,25 @@
-name: github pages
-
+name: Website Generator
 on:
   push:
     branches:
-      - master
+      - master  # for personal github pages, master branch is used for website, source branch can be used for the source.
 
 jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout source to workplace
+        uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: true  # <-- this is needed to checkout theme which normally come from separate git repository
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.69.0'
+      - name: Build the website to public directory
+        uses: gaol/hugo-gh-action@v1.2
 
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
+      - name: Deploy the generated website from public sub directory to master branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          pubish_branch: gh-pages
           publish_dir: ./public
-          cname: www.coastsystems.net
+          publish_branch: master
+          cname: www.coastsytems.net

@@ -21,7 +21,7 @@ weight = 6
 [[Languages.en.menu.main]]
 identifier = "about"
 name = "About"
-pre = "<i class='fa fa-road'> </i> "
+pre = "<i class='fa fa-shopware'> </i> "
 url = "/about"
 weight = 1
 [[Languages.en.menu.main]]

@@ -27,6 +27,9 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: document
+  path: content/**/*.adoc
+  label: Asciidoctor
 - type: directory
   path: content/post
   label: All Posts
